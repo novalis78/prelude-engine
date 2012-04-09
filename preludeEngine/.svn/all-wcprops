@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/AssemblyInfo.cs
+END
+Brain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/Brain.cs
+END
+SentenceGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/SentenceGenerator.cs
+END
+PreludeEngine.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/PreludeEngine.csproj.user
+END
+preLudeClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/preLudeClient.cs
+END
+PreludeEngine.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/PreludeEngine.csproj
+END
+PreludeInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/PreludeInterface.cs
+END
+StringBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/StringBase.cs
+END
+AutoSpeaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/AutoSpeaker.cs
+END
+Mind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21/trunk/%20prelude-csharp/PreLudeEngine/preludeEngine/preludeEngine/Mind.cs
+END

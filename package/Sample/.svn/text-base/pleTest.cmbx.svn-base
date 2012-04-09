@@ -1,0 +1,16 @@
+<Combine fileversion="1.0" name="pleTest" description="">
+  <StartMode startupentry="pleTest" single="True">
+    <Execute entry="pleTest" type="None" />
+  </StartMode>
+  <Entries>
+    <Entry filename=".\.\pleTest.prjx" />
+  </Entries>
+  <Configurations active="Debug">
+    <Configuration name="Release">
+      <Entry name="pleTest" configurationname="Debug" build="False" />
+    </Configuration>
+    <Configuration name="Debug">
+      <Entry name="pleTest" configurationname="Debug" build="False" />
+    </Configuration>
+  </Configurations>
+</Combine>
