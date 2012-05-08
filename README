@@ -1,1 +1,5 @@
 Prelude Chatbot - Engine Implementation
+
+Just download and start the Prelude Engine Test application in the \bin folder
+
+If you like to change how Prelude interacts, have a look at the mind.cs and brain.cs files in PreludeEngine project.
