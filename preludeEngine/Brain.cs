@@ -17,7 +17,7 @@ namespace PreludeEngine
 	/// <summary>
 	/// Description of Brain
 	/// </summary>
-	public class Brain : StringBase
+	public class Brain : SynapsesBase
 	{
 		
 		private static string 	filePath = "";

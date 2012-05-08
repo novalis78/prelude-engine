@@ -1,0 +1,9 @@
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\PreludeEngineTester.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\PreludeEngineTester.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\Interop.SpeechLib.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Release\PreludeEngineTester.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Release\PreludeEngineTester.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\PreludeEngine.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\AForge.Math.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Release\AForge.Math.xml

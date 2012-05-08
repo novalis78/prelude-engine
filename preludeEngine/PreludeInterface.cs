@@ -69,12 +69,19 @@ namespace PreludeEngine
 		
 		public void autoAnswering(object sender, System.Timers.ElapsedEventArgs e)
 		{
-			//trigger auto answer to frontend
-			if(timer.Enabled != false)
-			{
-				reportBoredom(mindInstance.listenToInput(autoSpeakInput));
-			}
-				
+            try
+            {
+                //trigger auto answer to frontend
+                if (timer.Enabled != false)
+                {
+                    reportBoredom(mindInstance.listenToInput(autoSpeakInput));
+                }
+            }
+            catch (System.Exception ex)
+            {
+                //logger...
+                ;
+            }
 		}
 	
 		

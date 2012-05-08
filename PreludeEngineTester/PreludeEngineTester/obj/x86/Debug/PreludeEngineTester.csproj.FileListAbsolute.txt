@@ -1,0 +1,10 @@
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\PreludeEngineTester.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\PreludeEngineTester.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\Interop.SpeechLib.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\PreludeEngine.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\AForge.Math.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\PreludeEngine.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\AForge.Math.xml
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\x86\Debug\PreludeEngineTester.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\x86\Debug\PreludeEngineTester.pdb

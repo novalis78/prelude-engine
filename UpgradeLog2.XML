@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PreludeEngine">
+</Property><Property Name="Solution File" Value="C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine.sln">
+</Property><Property Name="Date" Value="Monday, May 07, 2012">
+</Property><Property Name="Time" Value="21:39:34 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj" Description="Project file successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\PreludeEngineTester.csproj">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj.user" Description="Project user file successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\PreludeEngineTester.csproj.user">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\AutoSpeaker.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\AutoSpeaker.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\Brain.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\Brain.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\Main.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\Main.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\Mind.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\Mind.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\preLudeClient.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\preLudeClient.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeInterface.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\PreludeInterface.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\SentenceGenerator.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\SentenceGenerator.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\StringBase.cs" Description="File successfully backed up as C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\Backup1\StringBase.cs">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

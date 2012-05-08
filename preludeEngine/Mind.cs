@@ -15,6 +15,7 @@ using System;
 using System.Collections;
 using System.Windows.Forms;
 using System.Collections.Specialized;
+using System.Text;
 
 namespace PreludeEngine
 {
@@ -30,6 +31,7 @@ namespace PreludeEngine
 		private static string lastOutput = "";
 		private static StringCollection bestMatchesList = new StringCollection();
 		protected Hashtable botsMemory			   	= new Hashtable();
+        protected ArrayList semanticRecognition = new ArrayList();
 		private static Hashtable matchedMemoryValues   	= new Hashtable();
 		private const  int MAX_NUMBER_OF_IDENT_ENTRIES 	= 5;
 		private const  int MAX_MATCHES_ALLOWED    		= 5;
@@ -51,6 +53,11 @@ namespace PreludeEngine
 			{
 				if(!botsMemory.Contains(parseForThoughts(ii.Current)))
 					botsMemory.Add(parseForThoughts(ii.Current), parseForWords(ii.Current));
+
+                //this can be turned off. It is needed to improve the Jaccard Distance Algorithm in
+                //calculating a similarity between input and memory based on semantic proximity
+
+
 			}
 			writeToLogFile("Number of memo entries", botsMemory.Count.ToString());
 			memorySize = botsMemory.Count;
@@ -145,8 +152,13 @@ namespace PreludeEngine
 		{
 			string b = "";
 			matchInputWithMemory(a);
-			findBestMatchWithinMemory();	
-			b = randomSelectAnswer(bestMatchesList);
+			findBestMatchWithinMemory();
+	
+            //testing real quantum state induced random fluctuation - cool!
+            //Dr Penrose would be happy
+            b = randomQuantumSelectAnswer(bestMatchesList);
+
+			//b = randomSelectAnswer(bestMatchesList);
 			//dont allow bot to repeate its last sentence
 			if(b == lastOutput) b = a;
 			//bot echoes if it has no proper answer
@@ -156,7 +168,7 @@ namespace PreludeEngine
 		//returns position of best match for input in memory
 		private void matchInputWithMemory(string a)
 		{
-			int matchRate = 0;
+			double matchRate = 0;
 			matchedMemoryValues.Clear();
 			ArrayList inputSentenceTokenized = tokenizeString(a);
 			IDictionaryEnumerator de = botsMemory.GetEnumerator();
@@ -164,27 +176,28 @@ namespace PreludeEngine
 			while(de.MoveNext())
 			{
 				ArrayList t = tokenizeString((string)de.Value);
-				matchRate   = calculateMatchRate(inputSentenceTokenized, t);
+				matchRate   = calculateMatchRateLS(inputSentenceTokenized, t);
                     if(!matchedMemoryValues.Contains(de.Key))
 				        if(matchRate != 0) 
                             matchedMemoryValues.Add(de.Key, matchRate);
 			}
 			return;
 		}
+
 		
 		private void findBestMatchWithinMemory()
 		{
-			int i = 0;
-			int highestValue = 0;
+			double i = 0;
+			double highestValue = 0;
 			bestMatchesList.Clear();
 			if(matchedMemoryValues.Count > 0)
 			{		
 				IDictionaryEnumerator de = matchedMemoryValues.GetEnumerator();
 				while(de.MoveNext())
 				{
-					if(highestValue <= (int)de.Value)
+					if(highestValue <= (double)de.Value)
 					{
-						highestValue = (int)de.Value;
+						highestValue = (double)de.Value;
 					}
 				}
 				//jetzt kennen wir den hchsten Wert,
@@ -194,7 +207,7 @@ namespace PreludeEngine
 					IDictionaryEnumerator re = matchedMemoryValues.GetEnumerator();
 					while(re.MoveNext())
 					{
-						if(i == (int)re.Value)
+						if(i == (double)re.Value)
 							bestMatchesList.Add((string)re.Key);
 						if(bestMatchesList.Count > MAX_MATCHES_ALLOWED)
 							break;						
@@ -219,6 +232,67 @@ namespace PreludeEngine
 				return b;
 			}
 		}
+
+        private string randomQuantumSelectAnswer(StringCollection a)
+        {
+            try
+            {
+                QRNG pqDLL = new QRNG();
+                if (pqDLL.CheckDLL() == true)
+                {
+                    StringBuilder strUser = new StringBuilder(32);
+                    StringBuilder strPass = new StringBuilder(32);
+
+                    strUser.Insert(0, "llopin");
+                    strPass.Insert(0, "kR63LyowFi8n");
+                    Int32 iRet = QRNG.qrng_connect(strUser, strPass);
+                    if (iRet == 0)
+                    {
+                        Int32 iCreatedNumbers, iNumberOfValues;
+                        Double[] fArray;
+                        iNumberOfValues = 1;
+                        fArray = new Double[iNumberOfValues];
+                        iCreatedNumbers = 0;
+
+                        iRet = QRNG.qrng_get_double_array(ref fArray[0], iNumberOfValues, ref iCreatedNumbers);
+                        if (iRet == 0)
+                        {
+                            double qrandom = fArray[0];
+
+                            string b = "";
+                            if (a.Count <= 0)
+                                return b;
+                            else
+                            {
+                                if (qrandom < 1)
+                                {
+                                    int position = Convert.ToInt32(a.Count * qrandom);
+                                    b = a[position];
+                                    return b;
+                                }
+                                else
+                                {
+                                    Console.WriteLine("oops: " + qrandom);
+                                    return randomSelectAnswer(a);
+                                }
+                            }
+                        }
+                        else
+                            return randomSelectAnswer(a);
+                    }
+                    else
+                        return randomSelectAnswer(a);
+                }
+                else
+                {
+                    return randomSelectAnswer(a);
+                }
+            }
+            catch (System.Exception ex)
+            {
+                return randomSelectAnswer(a);
+            }
+        }
 			
 		#endregion
 		
