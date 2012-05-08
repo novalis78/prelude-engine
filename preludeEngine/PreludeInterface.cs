@@ -34,13 +34,17 @@ namespace PreludeEngine
 		public delegate string AutoSpeakHandler(string boredString);
 		public AutoSpeakHandler reportBoredom;
         public DateTime ChatInitiated;
+        public PreludeEngine.Mind.MatchingAlgorithm initializedAssociater = Mind.MatchingAlgorithm.Basic;
         private static Logger logger = LogManager.GetCurrentClassLogger();
 		
 		public void initializeEngine()
 		{
 			mindInstance = new Mind(loadedMind, false);
 			mindInstance.analyzeShortTermMemory();
+            mindInstance.associater = initializedAssociater;
+
             ChatInitiated = DateTime.Now;
+
 			if(proactiveMode)
 			{
 				timer = new System.Timers.Timer();

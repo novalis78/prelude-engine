@@ -36,6 +36,7 @@ namespace PreludeEngine
 		private static Hashtable matchedMemoryValues   	= new Hashtable();
 		private const  int MAX_NUMBER_OF_IDENT_ENTRIES 	= 5;
 		private const  int MAX_MATCHES_ALLOWED    		= 5;
+        public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice}
 		public  int memorySize = 0;
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
@@ -180,7 +181,16 @@ namespace PreludeEngine
 			while(de.MoveNext())
 			{
 				ArrayList t = tokenizeString((string)de.Value);
-				matchRate   = calculateMatchRateLS(inputSentenceTokenized, t);
+                
+                if(associater == MatchingAlgorithm.Levensthein)
+				    matchRate   = calculateMatchRateLS(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Dice)
+                    matchRate = calculateMatchRateDice(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Jaccard)
+                    matchRate = calculateMatchRateJ(inputSentenceTokenized, t);
+                else
+                    matchRate = calculateMatchRate(inputSentenceTokenized, t);
+
                     if(!matchedMemoryValues.Contains(de.Key))
 				        if(matchRate != 0) 
                             matchedMemoryValues.Add(de.Key, matchRate);
@@ -411,5 +421,6 @@ namespace PreludeEngine
 
 
         public bool quantumRandomness { get; set; }
+        public MatchingAlgorithm associater { get; set; }
     }
 }

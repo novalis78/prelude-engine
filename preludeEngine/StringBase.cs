@@ -124,6 +124,24 @@ namespace PreludeEngine
             return distance;
         }
 
+        /// <summary>
+        /// Dice Coefficient
+        /// </summary>
+        /// <param name="input">received sounds through ear sense</param>
+        /// <param name="memory">stored and signed sounds in bot's memory</param>
+        /// <returns></returns>
+        protected double calculateMatchRateDice(ArrayList input, ArrayList memory)
+        {
+            // even though we did not need to separate the string 
+            // for the Levensthein distance other algorithm implementations need
+            // the word matrix... we will (for now) just join the words.
+            string one = String.Join(" ", input.ToArray());
+            string two = String.Join(" ", memory.ToArray());
+
+            double distance = DiceCoefficient(one, two);
+            return distance;
+        }
+
         
 
         private static List<double> EqualizeVector(double[] p, double[] q)
@@ -207,6 +225,43 @@ namespace PreludeEngine
             }
             else
                 return 0;
+        }
+
+        /// <summary>
+        /// Dice's coefficient measures how similar a set and another set are. It can be used to measure how similar two strings are 
+        /// in terms of the number of common bigrams (a bigram is a pair of adjacent letters in the string).
+        /// </summary>
+        /// <param name="stOne"></param>
+        /// <param name="stTwo"></param>
+        /// <returns></returns>
+        public double DiceCoefficient(string stOne, string stTwo)
+        {
+            HashSet<string> nx = new HashSet<string>();
+            HashSet<string> ny = new HashSet<string>();
+
+            for (int i = 0; i < stOne.Length - 1; i++)
+            {
+                char x1 = stOne[i];
+                char x2 = stOne[i + 1];
+                string temp = x1.ToString() + x2.ToString();
+                nx.Add(temp);
+            }
+            for (int j = 0; j < stTwo.Length - 1; j++)
+            {
+                char y1 = stTwo[j];
+                char y2 = stTwo[j + 1];
+                string temp = y1.ToString() + y2.ToString();
+                ny.Add(temp);
+            }
+
+            HashSet<string> intersection = new HashSet<string>(nx);
+            intersection.IntersectWith(ny);
+
+            double dbOne = intersection.Count;
+            double res = (2 * dbOne) / (nx.Count + ny.Count);
+            logger.Trace("V: " + res);
+            return res;
+
         }
 		
 		protected ArrayList removeRedundantEntries(ArrayList a)

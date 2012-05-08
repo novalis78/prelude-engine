@@ -31,6 +31,7 @@ namespace pleTest
 			pi.loadedMind = "mind.mdu";
             //decide whether you want true randomness
             pi.quantumRandomness = false;
+            pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
 
 			//start your engine ...
 			pi.initializeEngine();
