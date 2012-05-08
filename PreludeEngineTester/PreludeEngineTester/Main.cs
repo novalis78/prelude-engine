@@ -8,6 +8,7 @@
  */
 using System;
 using PreludeEngine;
+using NLog;
 
 namespace pleTest
 {
@@ -15,6 +16,8 @@ namespace pleTest
 	{
         
 		private static string ind = "";
+        private static Logger logger = LogManager.GetCurrentClassLogger();
+
 		public static void Main(string[] args)
 		{
             string version = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
@@ -22,8 +25,13 @@ namespace pleTest
 			Console.WriteLine("if you want to stop chatting, enter: 'exit'");
 			//initialize interface
 			PreLudeInterface pi = new PreLudeInterface();
-			//define path to mind file
-			pi.loadedMind = "mind.mdu";			
+			
+            //configure prelude
+            //define path to mind file
+			pi.loadedMind = "mind.mdu";
+            //decide whether you want true randomness
+            pi.quantumRandomness = false;
+
 			//start your engine ...
 			pi.initializeEngine();
 			//here we go:
@@ -31,7 +39,10 @@ namespace pleTest
 			{
 				Console.Write("You say: ");
 				ind = Console.ReadLine();
-				Console.WriteLine("Prelude says: " + pi.chatWithPrelude(ind));
+                logger.Trace("You say: " + ind);
+                string answer = pi.chatWithPrelude(ind);
+				Console.WriteLine("Prelude says: " + answer);
+                logger.Trace("Prelude says: " + answer);
 			}
 			pi.stopPreludeEngine();
 		}

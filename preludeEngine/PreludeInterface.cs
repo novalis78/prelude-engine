@@ -26,6 +26,7 @@ namespace PreludeEngine
 		public bool isContributable = false;
 		public bool isSpeaking      = false;
 		public bool proactiveMode   = true;
+        public bool quantumRandomness = false;
 		private int idleTime 		= 0;
 		private string autoSpeakInput 		= "";
 		private System.Timers.Timer timer 	= null;
@@ -52,6 +53,9 @@ namespace PreludeEngine
 				if(timer != null)
 					timer.Stop();
 			}
+            if (quantumRandomness)
+                mindInstance.quantumRandomness = true;
+
 			string output = "";
 			output = mindInstance.listenToInput(input);
 			if(isSpeaking)
@@ -74,7 +78,9 @@ namespace PreludeEngine
                 //trigger auto answer to frontend
                 if (timer.Enabled != false)
                 {
-                    reportBoredom(mindInstance.listenToInput(autoSpeakInput));
+                    string t = mindInstance.listenToInput(autoSpeakInput);
+                    Console.WriteLine("You: (away)");
+                    Console.WriteLine("Prelude bored: " + t);
                 }
             }
             catch (System.Exception ex)

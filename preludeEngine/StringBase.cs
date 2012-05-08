@@ -13,6 +13,7 @@ using System.Collections;
 using System.Windows.Forms;
 using AForge.Math.Metrics;
 using System.Collections.Generic;
+using NLog;
 
 namespace PreludeEngine
 {
@@ -21,6 +22,8 @@ namespace PreludeEngine
 	/// </summary>
 	public class SynapsesBase
 	{
+        private static Logger logger = LogManager.GetCurrentClassLogger();
+
 		public SynapsesBase()
 		{
 		}
@@ -199,7 +202,7 @@ namespace PreludeEngine
             int a = d[n, m];
             if (a > 0)
             {
-                Console.WriteLine("V: " + 1.0/a);
+                logger.Trace("V: " + 1.0 / a);
                 return 1.0 / a;
             }
             else

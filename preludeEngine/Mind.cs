@@ -16,6 +16,7 @@ using System.Collections;
 using System.Windows.Forms;
 using System.Collections.Specialized;
 using System.Text;
+using NLog;
 
 namespace PreludeEngine
 {
@@ -37,6 +38,7 @@ namespace PreludeEngine
 		private const  int MAX_MATCHES_ALLOWED    		= 5;
 		public  int memorySize = 0;
 		public  bool proactiveMode = false;
+        private static Logger logger = LogManager.GetCurrentClassLogger();
 		
 		#region memory loading operations
 		public void analyzeShortTermMemory()
@@ -156,10 +158,12 @@ namespace PreludeEngine
 	
             //testing real quantum state induced random fluctuation - cool!
             //Dr Penrose would be happy
-            b = randomQuantumSelectAnswer(bestMatchesList);
-
-			//b = randomSelectAnswer(bestMatchesList);
-			//dont allow bot to repeate its last sentence
+            if(quantumRandomness)
+                b = randomQuantumSelectAnswer(bestMatchesList);
+            else
+			    b = randomSelectAnswer(bestMatchesList);
+			
+            //dont allow bot to repeate its last sentence
 			if(b == lastOutput) b = a;
 			//bot echoes if it has no proper answer
 			if(bestMatchesList.Count <= 0) b = a;
@@ -238,6 +242,7 @@ namespace PreludeEngine
             try
             {
                 QRNG pqDLL = new QRNG();
+                Int32 iRet = 0;
                 if (pqDLL.CheckDLL() == true)
                 {
                     StringBuilder strUser = new StringBuilder(32);
@@ -245,7 +250,15 @@ namespace PreludeEngine
 
                     strUser.Insert(0, "llopin");
                     strPass.Insert(0, "kR63LyowFi8n");
-                    Int32 iRet = QRNG.qrng_connect(strUser, strPass);
+                    try
+                    {
+                        iRet = QRNG.qrng_connect(strUser, strPass);
+                    }
+                    catch (System.Exception ex)
+                    {
+                        logger.Trace("Could not connect to Quantum Generator");
+                        randomSelectAnswer(a);
+                    }
                     if (iRet == 0)
                     {
                         Int32 iCreatedNumbers, iNumberOfValues;
@@ -253,32 +266,39 @@ namespace PreludeEngine
                         iNumberOfValues = 1;
                         fArray = new Double[iNumberOfValues];
                         iCreatedNumbers = 0;
-
-                        iRet = QRNG.qrng_get_double_array(ref fArray[0], iNumberOfValues, ref iCreatedNumbers);
-                        if (iRet == 0)
+                        try
                         {
-                            double qrandom = fArray[0];
-
-                            string b = "";
-                            if (a.Count <= 0)
-                                return b;
-                            else
+                            iRet = QRNG.qrng_get_double_array(ref fArray[0], iNumberOfValues, ref iCreatedNumbers);
+                            if (iRet == 0)
                             {
-                                if (qrandom < 1)
-                                {
-                                    int position = Convert.ToInt32(a.Count * qrandom);
-                                    b = a[position];
+                                double qrandom = fArray[0];
+
+                                string b = "";
+                                if (a.Count <= 0)
                                     return b;
-                                }
                                 else
                                 {
-                                    Console.WriteLine("oops: " + qrandom);
-                                    return randomSelectAnswer(a);
+                                    if (qrandom < 1)
+                                    {
+                                        int position = Convert.ToInt32(a.Count * qrandom);
+                                        b = a[position];
+                                        return b;
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("oops: " + qrandom);
+                                        return randomSelectAnswer(a);
+                                    }
                                 }
                             }
+                            else
+                                return randomSelectAnswer(a);
                         }
-                        else
+                        catch (System.Exception ex)
+                        {
+                            logger.Trace("Error trying to retrieve quantum fluctuation: " + ex.Message);
                             return randomSelectAnswer(a);
+                        }
                     }
                     else
                         return randomSelectAnswer(a);
@@ -384,6 +404,8 @@ namespace PreludeEngine
 			pc.connectToPreludeServer(botsMemory);
 		}
 		#endregion
-		
-	}
+
+
+        public bool quantumRandomness { get; set; }
+    }
 }
