@@ -11,6 +11,7 @@ using SpeechLib;
 using System.Threading;
 using System.Windows.Forms;
 using System.Timers;
+using NLog;
 
 namespace PreludeEngine
 {
@@ -32,11 +33,14 @@ namespace PreludeEngine
 		private System.Timers.Timer timer 	= null;
 		public delegate string AutoSpeakHandler(string boredString);
 		public AutoSpeakHandler reportBoredom;
+        public DateTime ChatInitiated;
+        private static Logger logger = LogManager.GetCurrentClassLogger();
 		
 		public void initializeEngine()
 		{
 			mindInstance = new Mind(loadedMind, false);
 			mindInstance.analyzeShortTermMemory();
+            ChatInitiated = DateTime.Now;
 			if(proactiveMode)
 			{
 				timer = new System.Timers.Timer();
@@ -62,14 +66,31 @@ namespace PreludeEngine
 				speak(output);
 			if(proactiveMode)
 			{
-				Random random = new Random();
-				idleTime = random.Next(5000, 40000); 
-				timer.Interval = idleTime;
+                SetTimer();
 				autoSpeakInput = output;
 				timer.Start();
 			}
 			return output;	
 		}
+
+        /// <summary>
+        /// sets the interval so as to make prelude appear to be 
+        /// trying to get the user back into a conversation...
+        /// </summary>
+        private void SetTimer()
+        {
+            DateTime n = DateTime.Now;
+            TimeSpan t = n - ChatInitiated;
+            double y = ((Convert.ToInt64(t.TotalSeconds) ^ 2) * 1000) + 5000;
+            double x = t.TotalSeconds * 1000;
+            Random random = new Random();
+            idleTime = random.Next(Convert.ToInt32(x), Convert.ToInt32(y));
+            timer.Interval = idleTime;
+            if (x > 500000)
+                ChatInitiated = DateTime.Now;
+
+            logger.Trace("Boredom time function: " + " x: " + x + " y: " + y);
+        }
 		
 		public void autoAnswering(object sender, System.Timers.ElapsedEventArgs e)
 		{
@@ -81,6 +102,7 @@ namespace PreludeEngine
                     string t = mindInstance.listenToInput(autoSpeakInput);
                     Console.WriteLine("You: (away)");
                     Console.WriteLine("Prelude bored: " + t);
+                    SetTimer();
                 }
             }
             catch (System.Exception ex)

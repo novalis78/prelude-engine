@@ -208,11 +208,15 @@ namespace PreludeEngine
 				//zeit, die entsprechend hchstenwertigen stze rauszufischen:
 				for(i = highestValue; i > 0; i--)
 				{
+                    logger.Trace("Finding best match within memory: " + i); 
 					IDictionaryEnumerator re = matchedMemoryValues.GetEnumerator();
 					while(re.MoveNext())
 					{
-						if(i == (double)re.Value)
-							bestMatchesList.Add((string)re.Key);
+                        if (i == (double)re.Value)
+                        {
+                            bestMatchesList.Add((string)re.Key);
+                            logger.Trace("Added to best list: [" + (double)re.Value + "]\t->" + (string)re.Key);
+                        }
 						if(bestMatchesList.Count > MAX_MATCHES_ALLOWED)
 							break;						
 					}					
