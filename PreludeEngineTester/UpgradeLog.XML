@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PreludeEngineTester">
+</Property><Property Name="Solution File" Value="C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester.sln">
+</Property><Property Name="Date" Value="Tuesday, May 08, 2012">
+</Property><Property Name="Time" Value="21:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PreludeEngineTester" Source="PreludeEngineTester\PreludeEngineTester.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="PreludeEngine" Source="..\preludeEngine\PreludeEngine.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PreludeEngine" Source="..\preludeEngine\PreludeEngine.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="PreludeEngineTester.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PreludeEngineTester.sln" Description="Converted">
+</Event></UpgradeLog>

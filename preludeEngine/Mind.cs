@@ -17,6 +17,8 @@ using System.Windows.Forms;
 using System.Collections.Specialized;
 using System.Text;
 using NLog;
+using System.Web;
+using System.Text.RegularExpressions;
 
 namespace PreludeEngine
 {
@@ -40,6 +42,7 @@ namespace PreludeEngine
 		public  int memorySize = 0;
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        private GSWebClient client = new GSWebClient();
 		
 		#region memory loading operations
 		public void analyzeShortTermMemory()
@@ -175,6 +178,12 @@ namespace PreludeEngine
 		{
 			double matchRate = 0;
 			matchedMemoryValues.Clear();
+            
+            //experimental - google query addon
+            //string foundKnowledge = ParseForKnowledge(a);
+            //if (!String.IsNullOrEmpty(foundKnowledge))
+            //    botsMemory.Add(a, foundKnowledge);
+
 			ArrayList inputSentenceTokenized = tokenizeString(a);
 			IDictionaryEnumerator de = botsMemory.GetEnumerator();
 			//run through memory
@@ -197,6 +206,37 @@ namespace PreludeEngine
 			}
 			return;
 		}
+
+        private string ParseForKnowledge(string a)
+        {
+            string page = client.DownloadString("http://www.google.com/search?hl=en&site=&source=hp&q=%22" + HttpUtility.UrlEncode(a) + "%22&oq=%22how+are+you+today%22");
+            //search for a.toLower() inside <em><em>
+            page = page.ToLower();
+            string searchItem = "<b>"+a.ToLower()+"</b>";
+            string result = "";
+            while(page.Contains(searchItem))
+            {
+                int pos = page.IndexOf(searchItem);
+                int posE = page.IndexOfAny( new char[] {'?', '.'}, pos+searchItem.Length+1, 200);
+                if(posE > pos)
+                {
+                    result = page.Substring(pos+searchItem.Length, posE - (pos+searchItem.Length));
+                    page = page.Remove(0, posE + 1);
+                }
+                else
+                    page = page.Remove(0, posE + 1);
+            }
+
+            return result;
+            //MatchCollection matches = Regex.Matches(npage, "\\[\\\"\\d{5,10}\\\"\\]");//"itemID" : "123731"
+            //foreach (Match m in matches)
+            //{
+            //    string bib = Helper.ExtractNumbers(m.Value);
+            //    if (!records.Contains(bib))
+            //        records.Add(bib);
+            //}
+            
+        }
 
 		
 		private void findBestMatchWithinMemory()

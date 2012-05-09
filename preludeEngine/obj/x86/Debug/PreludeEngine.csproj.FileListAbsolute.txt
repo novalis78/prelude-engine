@@ -8,3 +8,13 @@ C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEng
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngine\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngine\obj\x86\Debug\PreludeEngine.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngine\obj\x86\Debug\PreludeEngine.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\NLog.config
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\PreludeEngine.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\PreludeEngine.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\AForge.Math.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\Interop.SpeechLib.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\NLog.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\bin\x86\Debug\AForge.Math.xml
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\obj\x86\Debug\PreludeEngine.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\obj\x86\Debug\PreludeEngine.pdb
