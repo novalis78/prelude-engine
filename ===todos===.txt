@@ -1,0 +1,11 @@
+more keywords, random start when too long idle	
+
+check speech engine
+
+a module mechanism where input would get thrown at any module registered in path and the returned output would be 
+evaluated with the main memory. this would allow special support for search engine results, wolfram alpha api, weather, news etc. modules, maybe even a character file
+
+sqllite for database, so we can track the conversation path and store when a conversation took very long, recording "pathways" of conversation with the goal to increase length of a conversation -> that should be prelude's internal quality measurement and goal
+
+
+

@@ -19,6 +19,7 @@ using System.Text;
 using NLog;
 using System.Web;
 using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace PreludeEngine
 {
@@ -157,6 +158,7 @@ namespace PreludeEngine
 		private string thinkItOver(string a)
 		{
 			string b = "";
+            loadAuxilliaryKnowledgeIntoMemory(a);
 			matchInputWithMemory(a);
 			findBestMatchWithinMemory();
 	
@@ -173,6 +175,29 @@ namespace PreludeEngine
 			if(bestMatchesList.Count <= 0) b = a;
 			return b;
 		}
+
+        private void loadAuxilliaryKnowledgeIntoMemory(string i)
+        {
+            if (botsMemory != null)
+            { 
+                List<string> externalAnswers = getExternalAnswers(i);
+                foreach (string a in externalAnswers)
+                {
+                    botsMemory.Add(i, a);
+                }
+            }
+        }
+
+        private List<string> getExternalAnswers(string a)
+        {
+            List<string> externalAnswers = new List<string>();
+            //load all plugin dll's
+            //through input sentence at them
+            //collect their responses
+            return externalAnswers;
+        }
+
+
 		//returns position of best match for input in memory
 		private void matchInputWithMemory(string a)
 		{
