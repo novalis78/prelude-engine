@@ -174,7 +174,7 @@ namespace PreludeEngine
 		
 		public string getVersionInfo()
 		{
-			return "Prelude@# Engine, version 0.4.0, 2004-05(c) by Lennart Lopin ";
+			return "Prelude@# Engine, version 0.4.0, 2004-2012(c) by Lennart Lopin ";
 		}
 		
 		public bool setPreludeClient(string server, int port)
@@ -187,6 +187,7 @@ namespace PreludeEngine
 		
 		public bool setProactiveMode(bool a)
 		{
+            if (mindInstance == null) return false;
 			mindInstance.proactiveMode = a;
 			return false;
 		}
