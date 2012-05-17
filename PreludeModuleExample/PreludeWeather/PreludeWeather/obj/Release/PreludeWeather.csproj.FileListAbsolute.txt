@@ -1,0 +1,15 @@
+C:\Users\lennart\AppData\Local\Temporary Projects\PreludeWeather\bin\Release\PreludeWeather.dll
+C:\Users\lennart\AppData\Local\Temporary Projects\PreludeWeather\bin\Release\PreludeWeather.pdb
+C:\Users\lennart\AppData\Local\Temporary Projects\PreludeWeather\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lennart\AppData\Local\Temporary Projects\PreludeWeather\obj\Release\PreludeWeather.dll
+C:\Users\lennart\AppData\Local\Temporary Projects\PreludeWeather\obj\Release\PreludeWeather.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\PreludeWeather.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\PreludeWeather.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\obj\Release\PreludeWeather.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\obj\Release\PreludeWeather.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\HtmlAgilityPack.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\HtmlAgilityPack.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\HtmlAgilityPack.xml
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeWeather\PreludeWeather\bin\Release\IPlugin.pdb

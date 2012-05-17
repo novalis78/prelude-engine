@@ -1,0 +1,5 @@
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\IPlugin\IPlugin\bin\Release\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\IPlugin\IPlugin\bin\Release\IPlugin.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\IPlugin\IPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\IPlugin\IPlugin\obj\Release\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\IPlugin\IPlugin\obj\Release\IPlugin.pdb

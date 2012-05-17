@@ -1,0 +1,12 @@
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\PluginTester.exe
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\PluginTester.pdb
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\IPlugin.dll
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\PreludeWeather.dll
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\HtmlAgilityPack.dll
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\IPlugin.pdb
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\PreludeWeather.pdb
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\HtmlAgilityPack.xml
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\obj\x86\Debug\PluginTester.exe
+C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\obj\x86\Debug\PluginTester.pdb

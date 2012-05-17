@@ -1,0 +1,7 @@
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\bin\Release\PreludeCharacter.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\bin\Release\PreludeCharacter.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\bin\Release\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\bin\Release\IPlugin.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\obj\Release\PreludeCharacter.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PreludeCharacter\PreludeCharacter\obj\Release\PreludeCharacter.pdb

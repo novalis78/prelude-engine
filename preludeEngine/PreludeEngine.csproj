@@ -55,6 +55,7 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="AutoSpeaker.cs" />
     <Compile Include="Brain.cs" />
+    <Compile Include="DynaInvoke.cs" />
     <Compile Include="GSWebClient.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -72,6 +73,9 @@
     <Reference Include="Interop.SpeechLib, Version=5.1.0.0, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\package\Assemblies\Interop.SpeechLib.dll</HintPath>
+    </Reference>
+    <Reference Include="IPlugin">
+      <HintPath>..\PreludeModuleExample\IPlugin\IPlugin\bin\Release\IPlugin.dll</HintPath>
     </Reference>
     <Reference Include="NLog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

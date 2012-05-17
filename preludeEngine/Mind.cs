@@ -20,6 +20,7 @@ using NLog;
 using System.Web;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace PreludeEngine
 {
@@ -159,9 +160,12 @@ namespace PreludeEngine
 		{
 			string b = "";
             loadAuxilliaryKnowledgeIntoMemory(a);
-			matchInputWithMemory(a);
-			findBestMatchWithinMemory();
-	
+
+            if (bestMatchesList.Count <= 0)
+            {
+                matchInputWithMemory(a);
+                findBestMatchWithinMemory();
+            }
             //testing real quantum state induced random fluctuation - cool!
             //Dr Penrose would be happy
             if(quantumRandomness)
@@ -178,12 +182,17 @@ namespace PreludeEngine
 
         private void loadAuxilliaryKnowledgeIntoMemory(string i)
         {
+            bestMatchesList.Clear();
+
             if (botsMemory != null)
             { 
                 List<string> externalAnswers = getExternalAnswers(i);
                 foreach (string a in externalAnswers)
                 {
-                    botsMemory.Add(i, a);
+                    //if(!botsMemory.ContainsKey(i))
+                    //    botsMemory.Add(i, a);
+                    if (!bestMatchesList.Contains(a))
+                        bestMatchesList.Add(a);
                 }
             }
         }
@@ -192,7 +201,37 @@ namespace PreludeEngine
         {
             List<string> externalAnswers = new List<string>();
             //load all plugin dll's
-            //through input sentence at them
+            string startupPath = System.IO.Directory.GetCurrentDirectory();
+            string[] fileEntries = System.IO.Directory.GetFiles(startupPath);
+            foreach (string fileName in fileEntries)
+            {
+                if (fileName.Contains(".dll") && fileName.Contains("Prelude"))
+                {
+                    if (fileName.Contains("PreludeEngine.dll"))
+                        continue;
+                    try
+                    {
+
+                        Assembly assembly = Assembly.LoadFrom(fileName);
+                        Type t = assembly.GetType("PreludeAddons.PreludeModule");
+                        if (t != null)
+                        {
+                            PreludeAddons.IPlugin plugin = (PreludeAddons.IPlugin)Activator.CreateInstance(t);
+                            string an = plugin.returnBestAnswer(a);
+                            logger.Trace("Plugin external knowledge added: " + an);
+                            if(!String.IsNullOrEmpty(an))
+                                externalAnswers.Add(an);
+                        }
+                    }
+                    //we could find an unmanaged dll...
+                    catch (System.Exception ex)
+                    {
+                        ;
+                    }
+                }
+            }
+            
+            //throw input sentence at them
             //collect their responses
             return externalAnswers;
         }
