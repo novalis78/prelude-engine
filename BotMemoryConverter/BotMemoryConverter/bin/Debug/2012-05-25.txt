@@ -1,0 +1,5 @@
+17:55:22|Number of memo entries
+17:58:00|Number of memo entries 31026
+18:00:15|Number of memo entries 31026
+18:02:41|Number of memo entries 31026
+18:08:56|Done converting...thanks. Have fun with Prelude's more advanced engine versions...

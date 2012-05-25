@@ -1,0 +1,10 @@
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\BotMemoryConverter.exe.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\NLog.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\BotMemoryConverter.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\BotMemoryConverter.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\NLog.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\System.Data.SQLite.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\bin\Release\System.Data.SQLite.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\obj\x86\Release\BotMemoryConverter.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\BotMemoryConverter\BotMemoryConverter\obj\x86\Release\BotMemoryConverter.pdb
