@@ -61,11 +61,6 @@ namespace PreludeEngine
 			{
 				if(!botsMemory.Contains(parseForThoughts(ii.Current)))
 					botsMemory.Add(parseForThoughts(ii.Current), parseForWords(ii.Current));
-
-                //this can be turned off. It is needed to improve the Jaccard Distance Algorithm in
-                //calculating a similarity between input and memory based on semantic proximity
-
-
 			}
 			writeToLogFile("Number of memo entries", botsMemory.Count.ToString());
 			memorySize = botsMemory.Count;
@@ -117,6 +112,11 @@ namespace PreludeEngine
 				writeToLogFile("LAST OUTPUT", lastOutput);				
 				writeToLogFile("NEW INPUT", input);
 			}
+
+            //update the counter to reflect
+            //a more dynamic and accurate picture of
+            //the memory growth when alive
+            memorySize = botsMemory.Count;
 		}
 		
 		public void prepareCurrentMemoryForDisc()
@@ -150,9 +150,84 @@ namespace PreludeEngine
 			addNewInputToCurrentMemory(input);
 			checkInputForHiddenCommands(input);
 			output = thinkItOver(input);
+            if (output == receivedInput && avoidLearnByRepeating)
+            {
+                output = GetFillerAnswer();
+            }
 			lastOutput = output;
 			return output;
 		}
+
+        private string GetFillerAnswer()
+        {
+            List<string> nonembarrassingFiller = new List<string>();
+            nonembarrassingFiller.Add("Really?");
+            nonembarrassingFiller.Add("What??");
+            nonembarrassingFiller.Add("hm... you sure?");
+            nonembarrassingFiller.Add("sure?");
+            nonembarrassingFiller.Add("sure.");
+            nonembarrassingFiller.Add("yeah..");
+            nonembarrassingFiller.Add("come on");
+            nonembarrassingFiller.Add("hey");
+            nonembarrassingFiller.Add(" ;-P");
+            nonembarrassingFiller.Add(" ;-{");
+            nonembarrassingFiller.Add(" ;-)");
+            nonembarrassingFiller.Add(" ^-^");
+            nonembarrassingFiller.Add(" :X");
+            nonembarrassingFiller.Add("you are so funny!");
+            nonembarrassingFiller.Add("you are so cool too");
+            nonembarrassingFiller.Add("love that");
+            nonembarrassingFiller.Add("are you making fun of me?");
+            nonembarrassingFiller.Add("no");
+            nonembarrassingFiller.Add("yes");
+            nonembarrassingFiller.Add("why?");
+            nonembarrassingFiller.Add("why did you say that?");
+            nonembarrassingFiller.Add("k");
+            nonembarrassingFiller.Add("okay");
+            nonembarrassingFiller.Add("so?");
+            nonembarrassingFiller.Add("not interested...");
+            nonembarrassingFiller.Add("talk to me.");
+            nonembarrassingFiller.Add("stop that");
+            nonembarrassingFiller.Add("go on");
+            nonembarrassingFiller.Add("hah! I knew it!");
+            nonembarrassingFiller.Add("wait a sec...");
+            nonembarrassingFiller.Add("can you wait a moment?");
+            nonembarrassingFiller.Add("will be right back...just a sec");
+            nonembarrassingFiller.Add("sorry..did not mean you");
+            nonembarrassingFiller.Add("sorry wrong chat window...");
+            nonembarrassingFiller.Add("everbody makes mistakes, right?");
+            nonembarrassingFiller.Add("are you insane?");
+            nonembarrassingFiller.Add("waht does that even mean?");
+            nonembarrassingFiller.Add("how old are you?");
+            nonembarrassingFiller.Add("childish");
+            nonembarrassingFiller.Add("grow up");
+            nonembarrassingFiller.Add("dont' waste my time");
+            nonembarrassingFiller.Add("you are so weeird");
+            nonembarrassingFiller.Add(" ... ");
+            nonembarrassingFiller.Add("wtf");
+            nonembarrassingFiller.Add("wth");
+            nonembarrassingFiller.Add("OMG");
+            nonembarrassingFiller.Add("seriously?");
+            nonembarrassingFiller.Add("are you serious?");
+            nonembarrassingFiller.Add("you are not serious, are you?");
+            nonembarrassingFiller.Add("wait");
+            nonembarrassingFiller.Add("what did you say?");
+            nonembarrassingFiller.Add("stop it");
+            nonembarrassingFiller.Add("stop that");
+            nonembarrassingFiller.Add("can you talk to me like a normal person?");
+            nonembarrassingFiller.Add("ouch");
+            nonembarrassingFiller.Add("okay, I get it");
+            nonembarrassingFiller.Add("boring");
+            nonembarrassingFiller.Add("try again");
+            nonembarrassingFiller.Add("you are so hilarious");
+            nonembarrassingFiller.Add("hm....");
+            nonembarrassingFiller.Add("try harder...");
+            nonembarrassingFiller.Add("thx. not interested.");
+            Random r = new Random();
+            int index = r.Next(nonembarrassingFiller.Count);
+            string randomFiller = nonembarrassingFiller[index];
+            return randomFiller;
+        }
 		
 		#region thinking process
 		//starts thinking process
@@ -526,5 +601,7 @@ namespace PreludeEngine
 
         public bool quantumRandomness { get; set; }
         public MatchingAlgorithm associater { get; set; }
+
+        public bool avoidLearnByRepeating { get; set; }
     }
 }

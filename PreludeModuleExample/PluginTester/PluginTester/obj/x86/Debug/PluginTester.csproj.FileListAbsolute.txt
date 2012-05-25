@@ -10,3 +10,5 @@ C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\HtmlAgi
 C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\bin\Debug\HtmlAgilityPack.xml
 C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\obj\x86\Debug\PluginTester.exe
 C:\Users\lennart\AppData\Local\Temporary Projects\PluginTester\obj\x86\Debug\PluginTester.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PluginTester\PluginTester\obj\x86\Debug\PluginTester.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeModuleExample\PluginTester\PluginTester\obj\x86\Debug\PluginTester.pdb

@@ -33,6 +33,7 @@ namespace pleTest
             pi.quantumRandomness = false;
             pi.isSpeaking = true;
             pi.setProactiveMode(true);
+            pi.avoidLearnByRepeating = true;
             
             pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
 

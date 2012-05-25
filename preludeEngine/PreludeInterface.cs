@@ -64,6 +64,9 @@ namespace PreludeEngine
             if (quantumRandomness)
                 mindInstance.quantumRandomness = true;
 
+            if (avoidLearnByRepeating)
+                mindInstance.avoidLearnByRepeating = true;
+
 			string output = "";
 			output = mindInstance.listenToInput(input);
 			if(isSpeaking)
@@ -191,5 +194,7 @@ namespace PreludeEngine
 			mindInstance.proactiveMode = a;
 			return false;
 		}
-	}
+
+        public bool avoidLearnByRepeating { get; set; }
+    }
 }

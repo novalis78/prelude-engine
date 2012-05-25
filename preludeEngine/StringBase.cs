@@ -220,7 +220,7 @@ namespace PreludeEngine
             int a = d[n, m];
             if (a > 0)
             {
-                logger.Trace("V: " + 1.0 / a);
+                //logger.Trace("V: " + 1.0 / a);
                 return 1.0 / a;
             }
             else
@@ -261,7 +261,7 @@ namespace PreludeEngine
 
                 double dbOne = intersection.Count;
                 double res = (2 * dbOne) / (nx.Count + ny.Count);
-                logger.Trace("V: " + res);
+                //logger.Trace("V: " + res);
                 return res;
             }
             catch (System.Exception ex)
