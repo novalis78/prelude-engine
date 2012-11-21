@@ -14,6 +14,8 @@ using System.Windows.Forms;
 using AForge.Math.Metrics;
 using System.Collections.Generic;
 using NLog;
+using SimHashBusiness.Analysers;
+using SimHashBusiness.Interfaces;
 
 namespace PreludeEngine
 {
@@ -140,6 +142,17 @@ namespace PreludeEngine
 
             double distance = DiceCoefficient(one, two);
             return distance;
+        }
+
+        protected double calculateMatchRateSimHash(ArrayList input, ArrayList memory)
+        {
+            string one = String.Join(" ", input.ToArray());
+            string two = String.Join(" ", memory.ToArray());
+            IAnalyser analyser = new SimHashAnalyser();
+            double likeness = Convert.ToDouble(analyser.GetLikenessValue(one, two));
+            //logger.Trace("V: " + likeness);
+            logger.Trace("V: " + one + " >>in>> " + two + " || equals || " + likeness);
+            return likeness;
         }
 
         
