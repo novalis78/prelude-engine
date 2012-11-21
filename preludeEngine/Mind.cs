@@ -50,12 +50,8 @@ namespace PreludeEngine
 		public void analyzeShortTermMemory()
 		{
 			purifyBotsMind();			
-			StringCollection sc = new StringCollection();
 			botsMemory.Clear();
-			if(fullPathName == "")
-				sc = readBrainFile();
-			else
-				sc = readBrainFile(fullPathName);
+            StringCollection sc = LoadBotMemory();
 			StringEnumerator ii = sc.GetEnumerator();
 			while(ii.MoveNext())
 			{
@@ -66,6 +62,16 @@ namespace PreludeEngine
 			memorySize = botsMemory.Count;
 			return;
 		}
+
+        private StringCollection LoadBotMemory()
+        {
+            StringCollection a = new StringCollection();
+            if (fullPathName == "")
+                a = readBrainFile();
+            else
+                a = readBrainFile(fullPathName);
+            return a;
+        }
 		
 		private string parseForWords(string a)
 		{
