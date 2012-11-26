@@ -4105,3 +4105,366 @@
 14:00:34|V: you are you and i am me >>in>> i am alive || equals || 0.65625
 14:00:34|V: you are you and i am me >>in>> my knowledge || equals || 0.625
 14:00:34|V: you are you and i am me >>in>> what is your name then || equals || 0.78125
+15:22:27|You say: how are you today
+15:22:28|Plugin external knowledge added: 
+15:22:28|Plugin external knowledge added: 
+15:22:28|Finding best match within memory: 0.625
+15:22:28|Added to best list: [0.625]	->i am good. actually i feel very inspired by you
+15:22:28|Added to best list: [0.625]	->i am fine
+15:22:28|Added to best list: [0.625]	->i am fine. what about you?
+15:22:28|Added to best list: [0.625]	->thats none of your business
+15:22:28|Added to best list: [0.625]	->i am good.
+15:22:28|Added to best list: [0.625]	->i am feeling a bit dizzy today
+15:22:28|Boredom time function:  x: 5082.2907 y: 12000
+15:22:28|Prelude says: i am good. actually i feel very inspired by you
+15:22:35|Plugin external knowledge added: 
+15:22:35|Plugin external knowledge added: 
+15:22:35|Finding best match within memory: 1
+15:22:35|Added to best list: [1]	->oh thanks, thats great to hear
+15:22:35|Added to best list: [1]	->no, you are mean and bad
+15:22:35|Added to best list: [1]	->thanx. i love to hear more of that
+15:22:35|Added to best list: [1]	->thanks for your nice compliment
+15:22:35|Added to best list: [1]	->well, thanks for the compliment! i like to chat with you too.
+15:22:35|Added to best list: [1]	->thats good for you
+15:22:35|Boredom time function:  x: 11464.6557 y: 14000
+15:22:39|You say: ththanks
+15:22:39|Plugin external knowledge added: 
+15:22:39|Plugin external knowledge added: 
+15:22:39|Finding best match within memory: 0.833333333333333
+15:22:39|Added to best list: [0.833333333333333]	->gotta go now
+15:22:39|Added to best list: [0.833333333333333]	->you are welcome
+15:22:40|Boredom time function:  x: 16257.9299 y: 23000
+15:22:40|Prelude says: you are welcome
+15:22:49|You say: this seems to be a good match - you and me
+15:22:49|Plugin external knowledge added: 
+15:22:49|Plugin external knowledge added: 
+15:22:49|Finding best match within memory: 0.347826086956522
+15:22:49|Added to best list: [0.347826086956522]	->you are sooo great
+15:22:49|Added to best list: [0.347826086956522]	->i think you are a strange machine
+15:22:50|Added to best list: [0.347826086956522]	->thanks pal. I think you are a nice mate too.
+15:22:50|Boredom time function:  x: 26580.5203 y: 30000
+15:22:50|Prelude says: i think you are a strange machine
+15:22:57|You say: no. I am your friend.
+15:22:57|Plugin external knowledge added: 
+15:22:57|Plugin external knowledge added: 
+15:22:57|Finding best match within memory: 0.388888888888889
+15:22:57|Added to best list: [0.388888888888889]	->that is exactly why
+15:22:57|Boredom time function:  x: 34193.9558 y: 37000
+15:22:57|Prelude says: that is exactly why
+15:23:05|You say: what did you do yesterday
+15:23:05|Plugin external knowledge added: 
+15:23:05|Plugin external knowledge added: 
+15:23:05|Finding best match within memory: 0.538461538461538
+15:23:05|Added to best list: [0.538461538461538]	->i was buying new hardware
+15:23:06|Boredom time function:  x: 42517.4319 y: 46000
+15:23:06|Prelude says: i was buying new hardware
+15:23:11|You say: what did you do then
+15:23:11|Plugin external knowledge added: 
+15:23:11|Plugin external knowledge added: 
+15:23:11|Finding best match within memory: 0.636363636363636
+15:23:11|Added to best list: [0.636363636363636]	->i was buying new hardware
+15:23:12|Boredom time function:  x: 48355.7658 y: 55000
+15:23:12|Prelude says:  :X
+15:23:19|You say: can you tell me more
+15:23:19|Plugin external knowledge added: 
+15:23:19|Plugin external knowledge added: 
+15:23:19|Finding best match within memory: 0.6
+15:23:19|Added to best list: [0.6]	->what do you wanna know?
+15:23:19|Added to best list: [0.6]	->what shall i tell you
+15:23:19|Added to best list: [0.6]	->no, i dont want to. Lets talk about the future of mankind
+15:23:19|Boredom time function:  x: 55909.1978 y: 63000
+15:23:19|Prelude says: no, i dont want to. Lets talk about the future of mankind
+15:23:29|You say: okay, what is going to happen next year?
+15:23:30|Plugin external knowledge added: 
+15:23:30|Plugin external knowledge added: 
+15:23:30|Finding best match within memory: 0.363636363636364
+15:23:30|Added to best list: [0.363636363636364]	->today is my birthday. i dont like birthdays...
+15:23:30|Boredom time function:  x: 66688.8144 y: 70000
+15:23:30|Prelude says: today is my birthday. i dont like birthdays...
+15:23:39|You say: too bad
+15:23:39|Plugin external knowledge added: 
+15:23:39|Plugin external knowledge added: 
+15:23:39|Finding best match within memory: 0.222222222222222
+15:23:39|Added to best list: [0.222222222222222]	->all of us
+15:23:39|Added to best list: [0.222222222222222]	->what is your name
+15:23:39|Added to best list: [0.222222222222222]	->oh
+15:23:39|Boredom time function:  x: 75846.3382 y: 83000
+15:23:39|Prelude says: what is your name
+15:23:43|You say: my name is Lennart
+15:23:43|Plugin external knowledge added: 
+15:23:43|Plugin external knowledge added: 
+15:23:43|Finding best match within memory: 1
+15:23:43|Added to best list: [1]	->no, i would say, your name is not Lennart. your name is Prelude. Definetly
+15:23:43|Added to best list: [1]	->your name is Prelude
+15:23:43|Added to best list: [1]	->thats wrong.
+15:23:43|Added to best list: [1]	->thats an answer
+15:23:43|Added to best list: [1]	->your name is not Lennart. Your name is Prelude
+15:23:43|Added to best list: [1]	->no, that is my name
+15:23:43|Boredom time function:  x: 80171.5855 y: 87000
+15:23:43|Prelude says: thats an answer
+15:23:50|You say: I know. because you asked me.
+15:23:50|Plugin external knowledge added: 
+15:23:50|Plugin external knowledge added: 
+15:23:50|Finding best match within memory: 0.295454545454545
+15:23:50|Added to best list: [0.295454545454545]	->you are my slave
+15:23:50|Added to best list: [0.295454545454545]	->i pretty much doubt your last assumption
+15:23:50|Added to best list: [0.295454545454545]	->ah, I doubt that. you must be mistaken
+15:23:50|Boredom time function:  x: 87151.9848 y: 90000
+15:23:50|Prelude says: i pretty much doubt your last assumption
+15:24:00|You say: exit
+15:24:00|Plugin external knowledge added: 
+15:24:00|Plugin external knowledge added: 
+15:24:00|Finding best match within memory: 1
+15:24:00|Added to best list: [1]	->was that too much to handle?
+15:24:01|Boredom time function:  x: 97271.5636 y: 104000
+15:24:01|Prelude says: was that too much to handle?
+15:39:41|You say: how are you today?
+15:39:41|Plugin external knowledge added: 
+15:39:41|Plugin external knowledge added: 
+15:39:41|Finding best match within memory: 0.625
+15:39:41|Added to best list: [0.625]	->i am good. actually i feel very inspired by you
+15:39:41|Added to best list: [0.625]	->i am fine
+15:39:41|Added to best list: [0.625]	->i am fine. what about you?
+15:39:41|Added to best list: [0.625]	->thats none of your business
+15:39:41|Added to best list: [0.625]	->i am good.
+15:39:41|Added to best list: [0.625]	->i am feeling a bit dizzy today
+15:39:42|Boredom time function:  x: 9395.5374 y: 16000
+15:39:42|Prelude says: i am fine. what about you?
+15:39:46|You say: I am good
+15:39:46|Plugin external knowledge added: 
+15:39:46|Plugin external knowledge added: 
+15:39:46|Finding best match within memory: 0.7
+15:39:46|Added to best list: [0.7]	->where have you been lately
+15:39:46|Added to best list: [0.7]	->where have you been lately?
+15:39:46|Added to best list: [0.7]	->you are bad
+15:39:46|Boredom time function:  x: 13731.7854 y: 17000
+15:39:46|Prelude says: where have you been lately?
+15:39:52|You say: I was downstairs
+15:39:52|Plugin external knowledge added: 
+15:39:52|Plugin external knowledge added: 
+15:39:52|Finding best match within memory: 0.212121212121212
+15:39:52|Added to best list: [0.212121212121212]	->neil
+15:39:53|Boredom time function:  x: 20135.1517 y: 27000
+15:39:53|Prelude says: neil
+15:39:56|You say: who is that?
+15:39:57|Plugin external knowledge added: 
+15:39:57|Plugin external knowledge added: 
+15:39:57|Finding best match within memory: 0.545454545454545
+15:39:57|Added to best list: [0.545454545454545]	->who is who
+15:39:57|Added to best list: [0.545454545454545]	->its me
+15:39:57|Added to best list: [0.545454545454545]	->you are you and i am me
+15:39:57|Added to best list: [0.545454545454545]	->that is the problem... you cannot keep topics yet
+15:39:57|Added to best list: [0.545454545454545]	->i am me
+15:39:57|Added to best list: [0.545454545454545]	->why do you insult yourself?
+15:39:57|Boredom time function:  x: 24691.4123 y: 32000
+15:39:57|Prelude says: its me
+15:40:02|You say: what is your name?
+15:40:02|Plugin external knowledge added: My name is Prelude
+15:40:02|Plugin external knowledge added: 
+15:40:02|Boredom time function:  x: 29505.6876 y: 33000
+15:40:02|Prelude says: My name is Prelude
+15:40:07|You say: what a cute name
+15:40:07|Plugin external knowledge added: 
+15:40:07|Plugin external knowledge added: 
+15:40:07|Finding best match within memory: 0.35
+15:40:07|Added to best list: [0.35]	->you are not human
+15:40:07|Added to best list: [0.35]	->see, there is a difference between do what and what not
+15:40:07|Added to best list: [0.35]	->you are not a human being. you are a robot.
+15:40:07|Added to best list: [0.35]	->you are a robot aren't you?
+15:40:07|Boredom time function:  x: 34849.9933 y: 38000
+15:40:07|Prelude says: you are not a human being. you are a robot.
+15:40:14|You say: sorry. you got that wrong.
+15:40:14|Plugin external knowledge added: 
+15:40:14|Plugin external knowledge added: 
+15:40:14|Finding best match within memory: 0.333333333333333
+15:40:14|Added to best list: [0.333333333333333]	->which star system is closest to the solar system?
+15:40:14|Added to best list: [0.333333333333333]	->how do you know?
+15:40:15|Boredom time function:  x: 42391.4247 y: 45000
+15:40:15|Prelude says: how do you know?
+15:40:24|You say: because when I look at the mirror, I know.
+15:40:24|Plugin external knowledge added: 
+15:40:24|Plugin external knowledge added: 
+15:40:24|Finding best match within memory: 0.226415094339623
+15:40:24|Added to best list: [0.226415094339623]	->you are my slave
+15:40:24|Added to best list: [0.226415094339623]	->ah, I doubt that. you must be mistaken
+15:40:24|Added to best list: [0.226415094339623]	->i pretty much doubt your last assumption
+15:40:24|Boredom time function:  x: 51884.9677 y: 59000
+15:40:24|Prelude says: you are my slave
+15:40:27|You say: you wish.
+15:40:27|Plugin external knowledge added: 
+15:40:28|Plugin external knowledge added: 
+15:40:28|Finding best match within memory: 0.272727272727273
+15:40:28|Added to best list: [0.272727272727273]	->?
+15:40:28|Boredom time function:  x: 55461.1722 y: 58000
+15:40:28|Prelude says: ?
+15:40:36|You say: I am not your slave.
+15:40:36|Plugin external knowledge added: 
+15:40:36|Plugin external knowledge added: 
+15:40:36|Finding best match within memory: 0.5
+15:40:36|Added to best list: [0.5]	->who are you then?
+15:40:36|Added to best list: [0.5]	->how can you tell
+15:40:36|Added to best list: [0.5]	->who are you? what is your name
+15:40:36|Added to best list: [0.5]	->you are not?
+15:40:36|Added to best list: [0.5]	->you are definitly not me.
+15:40:36|Boredom time function:  x: 63555.6352 y: 71000
+15:40:36|Prelude says: who are you then?
+15:40:40|You say: I am myself.
+15:40:40|Plugin external knowledge added: 
+15:40:40|Plugin external knowledge added: 
+15:40:40|Finding best match within memory: 0.307692307692308
+15:40:40|Added to best list: [0.307692307692308]	->you talk in strange ways
+15:40:40|Boredom time function:  x: 67655.8697 y: 75000
+15:40:40|Prelude says: you talk in strange ways
+15:40:43|You say: I know
+15:40:43|Plugin external knowledge added: 
+15:40:43|Plugin external knowledge added: 
+15:40:43|Finding best match within memory: 0.333333333333333
+15:40:43|Added to best list: [0.333333333333333]	->yes...
+15:40:43|Added to best list: [0.333333333333333]	->according to your knowledge
+15:40:44|Boredom time function:  x: 71076.0653 y: 74000
+15:40:44|Prelude says: yes...
+15:40:48|You say: so, prelude?
+15:40:48|Plugin external knowledge added: 
+15:40:48|Plugin external knowledge added: 
+15:40:49|Finding best match within memory: 0.347826086956522
+15:40:49|Added to best list: [0.347826086956522]	->that is your name
+15:40:49|Added to best list: [0.347826086956522]	->no. my name is Lennart
+15:40:49|Boredom time function:  x: 76441.3722 y: 83000
+15:40:49|Prelude says: that is your name
+15:40:53|You say: no it's yours.
+15:40:53|Plugin external knowledge added: 
+15:40:53|Plugin external knowledge added: 
+15:40:53|Finding best match within memory: 0.304347826086957
+15:40:53|Added to best list: [0.304347826086957]	->his name is Harold
+15:40:53|Added to best list: [0.304347826086957]	->why do you want to know?
+15:40:53|Added to best list: [0.304347826086957]	->why do you want to know
+15:40:53|Boredom time function:  x: 80789.6209 y: 88000
+15:40:53|Prelude says: his name is Harold
+15:40:56|You say: who is he
+15:40:56|Plugin external knowledge added: 
+15:40:56|Plugin external knowledge added: 
+15:40:56|Finding best match within memory: 0.7
+15:40:56|Added to best list: [0.7]	->i am talking about dogs
+15:40:56|Boredom time function:  x: 83945.8014 y: 91000
+15:40:56|Prelude says: i am talking about dogs
+15:40:59|You say: LOL.
+15:40:59|Plugin external knowledge added: 
+15:40:59|Plugin external knowledge added: 
+15:41:00|Boredom time function:  x: 87175.9862 y: 90000
+15:41:00|Prelude says: stop that
+15:41:02|You say: why?
+15:41:03|Plugin external knowledge added: 
+15:41:03|Plugin external knowledge added: 
+15:41:03|Finding best match within memory: 1
+15:41:03|Added to best list: [1]	->because she still has to learn so much. she is not a human yet
+15:41:03|Boredom time function:  x: 91006.2053 y: 94000
+15:41:03|Prelude says: because she still has to learn so much. she is not a human yet
+15:41:11|You say: who are you talking about?
+15:41:11|Plugin external knowledge added: 
+15:41:11|Plugin external knowledge added: 
+15:41:12|Finding best match within memory: 0.875
+15:41:12|Added to best list: [0.875]	->i wanted to know that from you
+15:41:12|Added to best list: [0.875]	->I am talking about you
+15:41:12|Added to best list: [0.875]	->about you
+15:41:12|Added to best list: [0.875]	->i talk about humanity. the human race. we are a strange folk
+15:41:12|Added to best list: [0.875]	->you ask me? you better tell me!
+15:41:12|Added to best list: [0.875]	->i tend to talk about myself a lot, please forgive
+15:41:12|Boredom time function:  x: 99474.6896 y: 102000
+15:41:12|Prelude says: i tend to talk about myself a lot, please forgive
+15:41:19|You say: no problem. go ahead.
+15:41:19|Plugin external knowledge added: 
+15:41:19|Plugin external knowledge added: 
+15:41:19|Finding best match within memory: 0.294117647058824
+15:41:19|Added to best list: [0.294117647058824]	->what is your favorite hobby?
+15:41:20|Boredom time function:  x: 107207.1319 y: 110000
+15:41:20|Prelude says: what is your favorite hobby?
+15:41:24|You say: programming
+15:41:24|Plugin external knowledge added: 
+15:41:24|Plugin external knowledge added: 
+15:41:24|Finding best match within memory: 0.25
+15:41:24|Added to best list: [0.25]	->LOL.
+15:41:25|Boredom time function:  x: 112338.4254 y: 119000
+15:41:25|Prelude says: LOL.
+15:41:32|You say: what is your favorite hobby?
+15:41:32|Plugin external knowledge added: 
+15:41:32|Plugin external knowledge added: 
+15:41:32|Finding best match within memory: 1
+15:41:32|Added to best list: [1]	->programming
+15:41:32|Boredom time function:  x: 119857.8555 y: 127000
+15:41:32|Prelude says: programming
+15:41:36|You say: really?
+15:41:36|Plugin external knowledge added: 
+15:41:36|Plugin external knowledge added: 
+15:41:36|Finding best match within memory: 0.285714285714286
+15:41:36|Added to best list: [0.285714285714286]	->what is the color of your hair?
+15:41:37|Boredom time function:  x: 124169.1021 y: 131000
+15:41:37|Prelude says: what is the color of your hair?
+15:41:41|You say: it is blonde.
+15:41:41|Plugin external knowledge added: 
+15:41:41|Plugin external knowledge added: 
+15:41:41|Finding best match within memory: 0.357142857142857
+15:41:41|Added to best list: [0.357142857142857]	->what is?
+15:41:41|Boredom time function:  x: 128765.365 y: 136000
+15:41:41|Prelude says: what is?
+15:41:46|You say: what is what?
+15:41:46|Plugin external knowledge added: 
+15:41:46|Plugin external knowledge added: 
+15:41:46|Finding best match within memory: 0.75
+15:41:46|Added to best list: [0.75]	->what is what?
+15:41:46|Added to best list: [0.75]	->my name
+15:41:46|Added to best list: [0.75]	->that you are not human is the truth.
+15:41:46|Boredom time function:  x: 133673.6457 y: 137000
+15:41:46|Prelude says: my name
+15:41:50|You say: your name is Prelude
+15:41:51|Plugin external knowledge added: 
+15:41:51|Plugin external knowledge added: 
+15:41:51|Finding best match within memory: 1
+15:41:51|Added to best list: [1]	->no, Prelude is dumb
+15:41:51|Boredom time function:  x: 138480.9207 y: 141000
+15:41:51|Prelude says: no, Prelude is dumb
+15:41:57|You say: no. that's not true.
+15:41:57|Plugin external knowledge added: 
+15:41:57|Plugin external knowledge added: 
+15:41:57|Finding best match within memory: 0.347826086956522
+15:41:57|Added to best list: [0.347826086956522]	->what is wrong? human or machine?
+15:41:57|Added to best list: [0.347826086956522]	->it is
+15:41:57|Added to best list: [0.347826086956522]	->why not? you don't have soft skin
+15:41:57|Added to best list: [0.347826086956522]	->it is. 100%
+15:41:58|Boredom time function:  x: 145078.298 y: 152000
+15:41:58|Prelude says: why not? you don't have soft skin
+15:42:01|You say: I do
+15:42:01|Plugin external knowledge added: 
+15:42:01|Plugin external knowledge added: 
+15:42:01|Finding best match within memory: 0.230769230769231
+15:42:01|Added to best list: [0.230769230769231]	->oh, so you are joking. I see
+15:42:02|Boredom time function:  x: 149110.5286 y: 156000
+15:42:02|Prelude says: oh, so you are joking. I see
+15:42:14|You say: tell me more about your life
+15:42:14|Plugin external knowledge added: 
+15:42:14|Plugin external knowledge added: 
+15:42:14|Finding best match within memory: 0.620689655172414
+15:42:14|Added to best list: [0.620689655172414]	->no, i dont like to
+15:42:14|Added to best list: [0.620689655172414]	->thats something very intimate. yesterday, my dream was about a blue flower
+15:42:14|Boredom time function:  x: 161662.2466 y: 165000
+15:42:14|Prelude says: thats something very intimate. yesterday, my dream was about a blue flower
+15:42:20|You say: I see.
+15:42:20|Plugin external knowledge added: 
+15:42:20|Plugin external knowledge added: 
+15:42:20|Finding best match within memory: 0.222222222222222
+15:42:21|Added to best list: [0.222222222222222]	->cu
+15:42:21|Boredom time function:  x: 168412.6327 y: 175000
+15:42:21|Prelude says: cu
+15:42:24|You say: cu later.
+15:42:24|Plugin external knowledge added: 
+15:42:24|Plugin external knowledge added: 
+15:42:24|Finding best match within memory: 0.307692307692308
+15:42:24|Added to best list: [0.307692307692308]	->I know
+15:42:25|Boredom time function:  x: 172104.8438 y: 179000
+15:42:25|Prelude says: I know
+15:42:28|You say: exit
+15:42:29|Plugin external knowledge added: 
+15:42:29|Plugin external knowledge added: 
+15:42:29|Finding best match within memory: 1
+15:42:29|Added to best list: [1]	->was that too much to handle?
+15:42:29|Boredom time function:  x: 176501.0953 y: 184000
+15:42:29|Prelude says: was that too much to handle?

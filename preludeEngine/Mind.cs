@@ -40,7 +40,7 @@ namespace PreludeEngine
 		private static Hashtable matchedMemoryValues   	= new Hashtable();
 		private const  int MAX_NUMBER_OF_IDENT_ENTRIES 	= 5;
 		private const  int MAX_MATCHES_ALLOWED    		= 5;
-        public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice, SimHash }
+        public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice, SimHash, Jaccard2, Tanimoto }
 		public  int memorySize = 0;
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
@@ -337,11 +337,15 @@ namespace PreludeEngine
 				ArrayList t = tokenizeString((string)de.Value);
 
                 if (associater == MatchingAlgorithm.Levensthein)
-                    matchRate = calculateMatchRateLS(inputSentenceTokenized, t);
+                    matchRate = calculateMatchRateLevenshtein(inputSentenceTokenized, t);
                 else if (associater == MatchingAlgorithm.Dice)
                     matchRate = calculateMatchRateDice(inputSentenceTokenized, t);
                 else if (associater == MatchingAlgorithm.Jaccard)
-                    matchRate = calculateMatchRateJ(inputSentenceTokenized, t);
+                    matchRate = calculateMatchRateJaccard(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Jaccard2)
+                    matchRate = calculateMatchRateJaccardAlternative(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Tanimoto)
+                    matchRate = calculateMatchRateTanimoto(inputSentenceTokenized, t);
                 else if (associater == MatchingAlgorithm.SimHash)
                     matchRate = calculateMatchRateSimHash(inputSentenceTokenized, t);
                 else

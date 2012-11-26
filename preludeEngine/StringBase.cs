@@ -89,7 +89,7 @@ namespace PreludeEngine
         /// <param name="input"></param>
         /// <param name="memory"></param>
         /// <returns></returns>
-        protected double calculateMatchRateJ(ArrayList input, ArrayList memory)
+        protected double calculateMatchRateJaccard(ArrayList input, ArrayList memory)
         {
             // instantiate new distance class
             JaccardDistance dist = new JaccardDistance();
@@ -107,6 +107,32 @@ namespace PreludeEngine
             return distance;
         }
 
+        protected double calculateMatchRateJaccardAlternative(ArrayList input, ArrayList memory)
+        {
+            // even though we did not need to separate the string 
+            // for the Levensthein distance other algorithm implementations need
+            // the word matrix... we will (for now) just join the words.
+            string one = String.Join(" ", input.ToArray());
+            string two = String.Join(" ", memory.ToArray());
+
+            double distance = JaccardCoefficient(one, two);
+            return distance;
+        }
+
+        protected double calculateMatchRateTanimoto(ArrayList input, ArrayList memory)
+        {
+            // even though we did not need to separate the string 
+            // for the Levensthein distance other algorithm implementations need
+            // the word matrix... we will (for now) just join the words.
+            string one = String.Join(" ", input.ToArray());
+            string two = String.Join(" ", memory.ToArray());
+
+            double distance = TanimotoCoefficient(one, two);
+            return distance;
+        }
+
+
+
         /// <summary>
         /// Levenshtein distance calculation to determine 
         /// matching similar responses
@@ -114,7 +140,7 @@ namespace PreludeEngine
         /// <param name="input">received sounds through ear sense</param>
         /// <param name="memory">stored and signed sounds in bot's memory</param>
         /// <returns></returns>
-        protected double calculateMatchRateLS(ArrayList input, ArrayList memory)
+        protected double calculateMatchRateLevenshtein(ArrayList input, ArrayList memory)
         {
             // even though we did not need to separate the string 
             // for the Levensthein distance other algorithm implementations need
@@ -251,23 +277,10 @@ namespace PreludeEngine
         {
             try
             {
-                HashSet<string> nx = new HashSet<string>();
-                HashSet<string> ny = new HashSet<string>();
-
-                for (int i = 0; i < stOne.Length - 1; i++)
-                {
-                    char x1 = stOne[i];
-                    char x2 = stOne[i + 1];
-                    string temp = x1.ToString() + x2.ToString();
-                    nx.Add(temp);
-                }
-                for (int j = 0; j < stTwo.Length - 1; j++)
-                {
-                    char y1 = stTwo[j];
-                    char y2 = stTwo[j + 1];
-                    string temp = y1.ToString() + y2.ToString();
-                    ny.Add(temp);
-                }
+                HashSet<string> nx;
+                HashSet<string> ny;
+                
+                CreateBigGrams(stOne, stTwo, out nx, out ny);
 
                 HashSet<string> intersection = new HashSet<string>(nx);
                 intersection.IntersectWith(ny);
@@ -284,6 +297,81 @@ namespace PreludeEngine
             }
 
         }
+
+
+        /// <summary>
+        /// Jaccards distance measured.
+        /// </summary>
+        /// <param name="stOne"></param>
+        /// <param name="stTwo"></param>
+        /// <returns></returns>
+        public double JaccardCoefficient(string stOne, string stTwo)
+        {
+            try
+            {
+                HashSet<string> nx;
+                HashSet<string> ny;
+
+                CreateBigGrams(stOne, stTwo, out nx, out ny);
+
+                HashSet<string> commonelements = new HashSet<string>(nx);
+                commonelements.IntersectWith(ny);
+
+                
+                HashSet<string> totalElements = new HashSet<string>(nx);
+                totalElements.UnionWith(ny);
+
+                double jaccardCoef = (Convert.ToDouble(commonelements.Count)) / (Convert.ToDouble(totalElements.Count));
+                
+                //logger.Trace("V: " + res);
+                return jaccardCoef;
+            }
+            catch (System.Exception ex)
+            {
+                logger.Trace("error: " + ex.Message);
+                return 0;
+            }
+
+        }
+
+        protected double TanimotoCoefficient(string stOne, string stTwo)
+        {
+            HashSet<string> nx;
+            HashSet<string> ny;
+
+            CreateBigGrams(stOne, stTwo, out nx, out ny);
+            HashSet<string> commonelements = new HashSet<string>(nx);
+            commonelements.IntersectWith(ny);
+
+            return
+               (double)
+               commonelements.Count /
+               (nx.Count + ny.Count - commonelements.Count);
+        }
+
+        private static void CreateBigGrams(string stOne, string stTwo, out HashSet<string> nx, out HashSet<string> ny)
+        {
+            nx = new HashSet<string>();
+            ny = new HashSet<string>();
+
+            for (int i = 0; i < stOne.Length - 1; i++)
+            {
+                char x1 = stOne[i];
+                char x2 = stOne[i + 1];
+                string temp = x1.ToString() + x2.ToString();
+                nx.Add(temp);
+            }
+            for (int j = 0; j < stTwo.Length - 1; j++)
+            {
+                char y1 = stTwo[j];
+                char y2 = stTwo[j + 1];
+                string temp = y1.ToString() + y2.ToString();
+                ny.Add(temp);
+            }
+        }
+
+       
+       
 		
 		protected ArrayList removeRedundantEntries(ArrayList a)
 		{

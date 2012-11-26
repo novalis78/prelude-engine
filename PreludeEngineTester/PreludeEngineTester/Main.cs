@@ -36,7 +36,7 @@ namespace pleTest
             pi.avoidLearnByRepeating = true;
             
             //pi.initializedAssociater = Mind.MatchingAlgorithm.Dice; //is not bad!
-            pi.initializedAssociater = Mind.MatchingAlgorithm.SimHash; //is not bad!
+            pi.initializedAssociater = Mind.MatchingAlgorithm.Jaccard2; //is not bad!
 
 			//start your engine ...
 			pi.initializeEngine();
