@@ -23,9 +23,12 @@ namespace PreludeEngine
 	public class SynapsesBase
 	{
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        private static List<string> stops = null;
 
 		public SynapsesBase()
 		{
+            StopWords sw = new StopWords();
+            stops = sw.getAll();
 		}
 
 
@@ -38,10 +41,13 @@ namespace PreludeEngine
                 return al;
             try
             {
-                char[] delimiters = new char[] { ',', ':', '!', '?', ';', '-', ' ', '~', '^' };
+                char[] delimiters = new char[] { ',', '.', '{', '}', '[', ']', ':', '!', '?', ';', '-', ' ', '~', '^' };
                 string[] parts = a.Split(delimiters, StringSplitOptions.RemoveEmptyEntries);
-                foreach(string tok in parts)
-                        al.Add(tok);  
+                foreach (string tok in parts)
+                {
+                    if(!stops.Contains(tok.ToLower()))
+                        al.Add(tok);
+                }
             }
             catch (System.Exception ex)
             {
@@ -139,6 +145,7 @@ namespace PreludeEngine
             string two = String.Join(" ", memory.ToArray());
 
             double distance = DiceCoefficient(one, two);
+            //logger.Trace("V->"+distance + " [in: " + one + "]->would say->[" + two + "]"); 
             return distance;
         }
 

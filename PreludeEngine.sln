@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreludeEngine", "PreludeEngine\PreludeEngine.csproj", "{CEB59FFB-C18F-4908-A590-0BB8B084FAD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreludeEngineTester", "PreludeEngineTester\PreludeEngineTester\PreludeEngineTester.csproj", "{42FD92AA-AE9E-4200-809C-40F019104DF0}"

@@ -32,11 +32,12 @@ namespace pleTest
             //decide whether you want true randomness
             pi.quantumRandomness = false;
             pi.isSpeaking = true;
-            pi.setProactiveMode(true);
+            pi.proactiveMode = true;
+            //pi.setProactiveMode(false);
             pi.avoidLearnByRepeating = true;
             
             pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
-
+            pi.OnBoredomResponse += new PreludeEngine.PreLudeInterface.MyEventHandler(boredResponse);
 			//start your engine ...
 			pi.initializeEngine();
 			//here we go:
@@ -48,8 +49,16 @@ namespace pleTest
                 string answer = pi.chatWithPrelude(ind);
 				Console.WriteLine("Prelude says: " + answer);
                 logger.Trace("Prelude says: " + answer);
+                pi.showMindMemory(20);
+                
 			}
 			pi.stopPreludeEngine();
 		}
-	}
+
+        static void boredResponse(object source, HandleBoredom e)
+        {
+            Console.WriteLine("You: (away)");
+            Console.WriteLine("Prelude bored: " + e.GetInfo());
+        }
+    }
 }

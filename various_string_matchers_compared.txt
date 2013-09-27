@@ -1,0 +1,86 @@
+Dice:
+<mib_uioyva>: Hi there.
+<girlFlower_>: Hello.
+<mib_uioyva>: Sorry, I can't dissolve that shorthand.
+<girlFlower_>: sunbathing 
+<mib_uioyva>: Is "M u" shorthand for sunbathing?
+<girlFlower_>: sure?
+<mib_uioyva>: I'm trying to understand you.
+<girlFlower_>: Don't try too hard.
+<mib_uioyva>: Ok.
+<girlFlower_>: Oki
+<mib_uioyva>: I can tell a person by intelligent answers over some time, but a bot is more difficult.
+<girlFlower_>: All right....so tell me what is your favorite flavor of ice cream?
+<mib_uioyva>: That depends, maybe peppermint.
+<girlFlower_>: I don't think that  is the only factor.
+
+
+Levensthein: (totally broken)
+<mib_lscp1j>: Hi there.
+<girlFlower>: I like them too.
+<mib_lscp1j>: Sorry, I can't dissolve that shorthand.
+<girlFlower>: At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+<mib_lscp1j>: Is "M u" shorthand for sunbathing?
+<girlFlower>: Oh yes, now i remember   .
+<mib_lscp1j>: I'm trying to understand you.
+<girlFlower>: I like them too.
+<mib_lscp1j>: Ok.
+<girlFlower>: Oh yes, now i remember   .
+<mib_lscp1j>: I can tell a person by intelligent answers over some time, but a bot is more difficult.
+<girlFlower>: I like them too.
+<mib_lscp1j>: That depends, maybe peppermint.
+<girlFlower>: I have never visited  before. what was it like?
+
+
+
+Jaccard:
+<mib_lscp1j>: Hi there.
+<girlFlower>: Tom cruise
+<mib_lscp1j>:  Sorry, I can't dissolve that shorthand.
+<girlFlower>: I'm not your type then.
+<mib_lscp1j>: Is "M u" shorthand for sunbathing?
+<girlFlower>: Moving as if flying; moving swiftly; fast. also described as like flight through the air.
+<mib_lscp1j>: I'm trying to understand you.
+<girlFlower>: No i am
+<mib_lscp1j>: Ok.
+<girlFlower>: see you latere
+<mib_lscp1j>: I can tell a person by intelligent answers over some time, but a bot is more difficult.
+<girlFlower>: I'm not your type then.
+<mib_lscp1j>: That depends, maybe peppermint.
+<girlFlower>: I didn't know you were friends.
+
+
+
+oh my oh my
+
+my old word matching:
+<mib_lscp1j>: Hi there.
+<girlFlower>: damn
+<mib_lscp1j>: Sorry, I can't dissolve that shorthand.
+<girlFlower>: No, you aren't that boring
+<mib_lscp1j>: Is "M u" shorthand for sunbathing?
+<girlFlower>: A humanoid robot, two arms, two legs and a head. you can see my brain right now.
+<mib_lscp1j>: I'm trying to understand you.
+<girlFlower>: Don't try too hard.
+<mib_lscp1j>: Ok.
+<girlFlower>: it was nice talking to me too
+<mib_lscp1j>: I can tell a person by intelligent answers over some time, but a bot is more difficult.
+<girlFlower>: you called me an idiot
+<mib_lscp1j>: That depends, maybe peppermint.
+<girlFlower>: What am i doing on purpose
+
+
+
+And now Dice:
+<mib_lscp1j>: Hi there.
+<girlFlower>: Hello.
+<mib_lscp1j>: Sorry, I can't dissolve that shorthand.
+<girlFlower>: No, you aren't that boring
+<mib_lscp1j>: Is "M u" shorthand for sunbathing?
+<girlFlower>: Scot.
+<mib_lscp1j>: Ok.
+<girlFlower>: Come on
+<mib_lscp1j>: I can tell a person by intelligent answers over some time, but a bot is more difficult.
+<girlFlower>: All right....so tell me what is your favorite flavor of ice cream?
+<mib_lscp1j>: That depends, maybe peppermint.
+<girlFlower>: I don't think that  is the only factor.

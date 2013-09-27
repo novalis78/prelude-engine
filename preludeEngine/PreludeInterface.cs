@@ -12,6 +12,7 @@ using System.Threading;
 using System.Windows.Forms;
 using System.Timers;
 using NLog;
+using System.Collections.Generic;
 
 namespace PreludeEngine
 {
@@ -36,6 +37,8 @@ namespace PreludeEngine
         public DateTime ChatInitiated;
         public PreludeEngine.Mind.MatchingAlgorithm initializedAssociater = Mind.MatchingAlgorithm.Basic;
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        public delegate void MyEventHandler(object source, HandleBoredom e);
+        public event MyEventHandler OnBoredomResponse;
 		
 		public void initializeEngine()
 		{
@@ -107,8 +110,12 @@ namespace PreludeEngine
                 if (timer.Enabled != false)
                 {
                     string t = mindInstance.listenToInput(autoSpeakInput);
-                    Console.WriteLine("You: (away)");
-                    Console.WriteLine("Prelude bored: " + t);
+                    //Console.WriteLine("You: (away)");
+                   // Console.WriteLine("Prelude bored: " + t);
+                    if (OnBoredomResponse != null)
+                    {
+                        OnBoredomResponse(this, new HandleBoredom(t));
+                    }
                     SetTimer();
                 }
             }
@@ -174,6 +181,21 @@ namespace PreludeEngine
 			i = mindInstance.memorySize;
 			return i;
 		}
+
+        //print top thoughts
+        public void showMindMemory(int ii)
+        {
+            if (mindInstance == null) return;
+            List<Thought> s = mindInstance.GetThoughtsSorted();
+            int counter = 0;
+            foreach(Thought t in s)
+            {
+                counter++;
+                logger.Trace("V->" + t.MatchingMemory + ": " +t.MatchingRate+ "]->would say->[" + t.PotentialResponse + "]");
+                if (counter > ii)
+                    return;
+            }
+        }
 		
 		public string getVersionInfo()
 		{

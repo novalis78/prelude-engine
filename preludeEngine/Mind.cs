@@ -45,7 +45,8 @@ namespace PreludeEngine
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
         private GSWebClient client = new GSWebClient();
-		
+        private List<Thought> AllThoughts = new List<Thought>();
+
 		#region memory loading operations
 		public void analyzeShortTermMemory()
 		{
@@ -201,6 +202,12 @@ namespace PreludeEngine
             nonembarrassingFiller.Add("how old are you?");
             nonembarrassingFiller.Add("childish");
             nonembarrassingFiller.Add("grow up");
+            nonembarrassingFiller.Add("no way!");
+            nonembarrassingFiller.Add("y r kidding");
+            nonembarrassingFiller.Add("y r joking");
+            nonembarrassingFiller.Add("btw, love the way you smile at me");
+            nonembarrassingFiller.Add("btw, cute eyes :-X");
+            nonembarrassingFiller.Add("btw, did your mom allow you to talk to strangers?");
             nonembarrassingFiller.Add("dont' waste my time");
             nonembarrassingFiller.Add("you are so weeird");
             nonembarrassingFiller.Add(" ... ");
@@ -210,6 +217,7 @@ namespace PreludeEngine
             nonembarrassingFiller.Add("seriously?");
             nonembarrassingFiller.Add("are you serious?");
             nonembarrassingFiller.Add("you are not serious, are you?");
+            nonembarrassingFiller.Add("yawn");
             nonembarrassingFiller.Add("wait");
             nonembarrassingFiller.Add("what did you say?");
             nonembarrassingFiller.Add("stop it");
@@ -234,6 +242,7 @@ namespace PreludeEngine
 		private string thinkItOver(string a)
 		{
 			string b = "";
+            AllThoughts.Clear();
             loadAuxilliaryKnowledgeIntoMemory(a);
 
             if (bestMatchesList.Count <= 0)
@@ -318,7 +327,7 @@ namespace PreludeEngine
 			double matchRate = 0;
 			matchedMemoryValues.Clear();
             
-            //experimental - google query addon
+            //experimental - google query addon needs to go into a module
             //string foundKnowledge = ParseForKnowledge(a);
             //if (!String.IsNullOrEmpty(foundKnowledge))
             //    botsMemory.Add(a, foundKnowledge);
@@ -339,12 +348,32 @@ namespace PreludeEngine
                 else
                     matchRate = calculateMatchRate(inputSentenceTokenized, t);
 
+                Thought tt = new Thought();
+                tt.MatchingMemory = de.Value.ToString();
+                tt.MatchingRate = matchRate;
+                tt.PotentialResponse = de.Key.ToString();
+
+                AllThoughts.Add(tt);
+
                     if(!matchedMemoryValues.Contains(de.Key))
 				        if(matchRate != 0) 
                             matchedMemoryValues.Add(de.Key, matchRate);
 			}
 			return;
 		}
+
+        public List<Thought> GetThoughtsSorted()
+        {
+            if (AllThoughts != null && AllThoughts.Count > 0)
+            {
+                AllThoughts.Sort(delegate(Thought c1, Thought c2) { return -c1.MatchingRate.CompareTo(c2.MatchingRate); });
+                
+                return AllThoughts;
+            }
+            else
+                return null;
+            
+        }
 
         private string ParseForKnowledge(string a)
         {

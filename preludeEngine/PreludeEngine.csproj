@@ -59,12 +59,15 @@
     <Compile Include="GSWebClient.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="HandleBoredom.cs" />
     <Compile Include="LIBQRNG.cs" />
     <Compile Include="Mind.cs" />
     <Compile Include="preLudeClient.cs" />
     <Compile Include="PreludeInterface.cs" />
     <Compile Include="SentenceGenerator.cs" />
+    <Compile Include="StopWords.cs" />
     <Compile Include="StringBase.cs" />
+    <Compile Include="Thought.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AForge.Math">
