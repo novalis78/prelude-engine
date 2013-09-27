@@ -20,3 +20,9 @@ C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\preludeEngine\obj\x86\Debug\PreludeEngine.pdb
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngine\bin\x86\Debug\IPlugin.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngine\bin\x86\Debug\IPlugin.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\IPlugin.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\IPlugin.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\SimHash2.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngine\bin\x86\Debug\SimHash2.pdb

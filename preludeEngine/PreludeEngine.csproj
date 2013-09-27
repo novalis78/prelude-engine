@@ -84,7 +84,14 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\NLog.dll</HintPath>
     </Reference>
+    <Reference Include="SimHash2">
+      <HintPath>..\..\..\SimHash2\SimHash2\bin\Debug\SimHash2.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\BotMemoryConverter\BotMemoryConverter\bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>

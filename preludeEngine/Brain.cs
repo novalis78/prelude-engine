@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Created by SharpDevelop.
  * User: novalis78
  * Date: 17.11.2004
@@ -11,6 +11,8 @@ using System;
 using System.IO;
 using System.Windows.Forms;
 using System.Collections.Specialized;
+using System.Data.SQLite;
+using System.Text.RegularExpressions;
 
 namespace PreludeEngine
 {
@@ -45,7 +47,14 @@ namespace PreludeEngine
 		protected StringCollection readBrainFile()
 		{
 			StringCollection sc = new StringCollection();
-	    	if(File.Exists(filePath))
+            if (filePath.Contains("s3db"))
+            {
+                if (File.Exists(filePath))
+                { 
+                    
+                }
+            }
+            else if(File.Exists(filePath))
 	    	{
 	    	   	FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);
 	    	   	StreamReader rs = new StreamReader(fs);
@@ -75,6 +84,37 @@ namespace PreludeEngine
 	    	}
 	    	return sc;
 		}
+
+        public static int ExecuteNonQuery(string sql)
+        {
+            string startupPath = System.IO.Directory.GetCurrentDirectory();
+            SQLiteConnection cnn = new SQLiteConnection("Data Source=" + startupPath + "\\mind.s3db");
+            cnn.Open();
+            SQLiteCommand mycommand = new SQLiteCommand(cnn);
+            mycommand.CommandText = sql;
+            int rowsUpdated = mycommand.ExecuteNonQuery();
+            cnn.Close();
+            return rowsUpdated;
+
+        }
+
+        private static string MySqlEscape(string usString)
+        {
+            if (String.IsNullOrEmpty(usString))
+            {
+                return "";
+            }
+            usString = usString.Replace("\"", "&quot;");
+            usString = usString.Replace(@"“", "&quot;");
+            usString = usString.Replace(@"”", "&quot;");
+            usString = usString.Replace(@"'", "&#39;");
+            usString = usString.Replace("\'", "&#39;");
+            usString = usString.Replace(@"’", "&#39;");
+            usString = usString.Replace(@"′", "&#8217;");
+            usString = usString.Replace(@"‘", "&#39;");
+            return Regex.Replace(usString, @"[\r\n\x00\x1a\\'""]", @"\$0");
+        }
+
 		protected StringCollection readBrainFile(string openFrom)
 		{
 			StringCollection sc = new StringCollection();

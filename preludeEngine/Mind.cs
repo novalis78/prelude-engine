@@ -40,7 +40,7 @@ namespace PreludeEngine
 		private static Hashtable matchedMemoryValues   	= new Hashtable();
 		private const  int MAX_NUMBER_OF_IDENT_ENTRIES 	= 5;
 		private const  int MAX_MATCHES_ALLOWED    		= 5;
-        public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice}
+        public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice, SimHash, Jaccard2, Tanimoto }
 		public  int memorySize = 0;
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
@@ -51,12 +51,8 @@ namespace PreludeEngine
 		public void analyzeShortTermMemory()
 		{
 			purifyBotsMind();			
-			StringCollection sc = new StringCollection();
 			botsMemory.Clear();
-			if(fullPathName == "")
-				sc = readBrainFile();
-			else
-				sc = readBrainFile(fullPathName);
+            StringCollection sc = LoadBotMemory();
 			StringEnumerator ii = sc.GetEnumerator();
 			while(ii.MoveNext())
 			{
@@ -67,6 +63,16 @@ namespace PreludeEngine
 			memorySize = botsMemory.Count;
 			return;
 		}
+
+        private StringCollection LoadBotMemory()
+        {
+            StringCollection a = new StringCollection();
+            if (fullPathName == "")
+                a = readBrainFile();
+            else
+                a = readBrainFile(fullPathName);
+            return a;
+        }
 		
 		private string parseForWords(string a)
 		{
@@ -338,13 +344,19 @@ namespace PreludeEngine
 			while(de.MoveNext())
 			{
 				ArrayList t = tokenizeString((string)de.Value);
-                
-                if(associater == MatchingAlgorithm.Levensthein)
-				    matchRate   = calculateMatchRateLS(inputSentenceTokenized, t);
+
+                if (associater == MatchingAlgorithm.Levensthein)
+                    matchRate = calculateMatchRateLevenshtein(inputSentenceTokenized, t);
                 else if (associater == MatchingAlgorithm.Dice)
                     matchRate = calculateMatchRateDice(inputSentenceTokenized, t);
                 else if (associater == MatchingAlgorithm.Jaccard)
-                    matchRate = calculateMatchRateJ(inputSentenceTokenized, t);
+                    matchRate = calculateMatchRateJaccard(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Jaccard2)
+                    matchRate = calculateMatchRateJaccardAlternative(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.Tanimoto)
+                    matchRate = calculateMatchRateTanimoto(inputSentenceTokenized, t);
+                else if (associater == MatchingAlgorithm.SimHash)
+                    matchRate = calculateMatchRateSimHash(inputSentenceTokenized, t);
                 else
                     matchRate = calculateMatchRate(inputSentenceTokenized, t);
 

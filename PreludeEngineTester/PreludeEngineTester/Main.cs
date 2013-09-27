@@ -36,8 +36,14 @@ namespace pleTest
             //pi.setProactiveMode(false);
             pi.avoidLearnByRepeating = true;
             
+<<<<<<< HEAD
             pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
             pi.OnBoredomResponse += new PreludeEngine.PreLudeInterface.MyEventHandler(boredResponse);
+=======
+            //pi.initializedAssociater = Mind.MatchingAlgorithm.Dice; //is not bad!
+            pi.initializedAssociater = Mind.MatchingAlgorithm.Jaccard2; //is not bad!
+
+>>>>>>> fc858d72d5b207e3632b46f6dd95ec59ecbe215b
 			//start your engine ...
 			pi.initializeEngine();
 			//here we go:

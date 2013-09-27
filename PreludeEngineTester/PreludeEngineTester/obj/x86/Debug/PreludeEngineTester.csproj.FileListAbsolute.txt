@@ -22,3 +22,9 @@ C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\IPlugin.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\IPlugin.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\IPlugin.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\IPlugin.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\SimHash2.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\x86\Debug\SimHash2.pdb
