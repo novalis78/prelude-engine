@@ -7,5 +7,10 @@ evaluated with the main memory. this would allow special support for search engi
 
 sqllite for database, so we can track the conversation path and store when a conversation took very long, recording "pathways" of conversation with the goal to increase length of a conversation -> that should be prelude's internal quality measurement and goal
 
+taking a look at deep learning
+utility function: still think it should be length of dialogue.
+weight for each sentence pair? optimize towards length of dialogue. needs to be evolving? on the fly re-weighing?
+
+
 
 
