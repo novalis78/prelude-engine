@@ -35,7 +35,9 @@ namespace PreludeEngine
 		public delegate string AutoSpeakHandler(string boredString);
 		public AutoSpeakHandler reportBoredom;
         public DateTime ChatInitiated;
+        private const  int MAX_ATTENTION_SPAN 	= 5;
         public PreludeEngine.Mind.MatchingAlgorithm initializedAssociater = Mind.MatchingAlgorithm.Basic;
+        public int attentionBreadth = MAX_ATTENTION_SPAN; 
         private static Logger logger = LogManager.GetCurrentClassLogger();
         public delegate void MyEventHandler(object source, HandleBoredom e);
         public event MyEventHandler OnBoredomResponse;
@@ -45,6 +47,8 @@ namespace PreludeEngine
 			mindInstance = new Mind(loadedMind, false);
 			mindInstance.analyzeShortTermMemory();
             mindInstance.associater = initializedAssociater;
+            mindInstance.AttentionBreadth = attentionBreadth;
+            logger.Trace("Associator Algorithm: " + initializedAssociater.ToString());
 
             ChatInitiated = DateTime.Now;
 
@@ -191,7 +195,7 @@ namespace PreludeEngine
             foreach(Thought t in s)
             {
                 counter++;
-                logger.Trace("V->" + t.MatchingMemory + ": " +t.MatchingRate+ "]->would say->[" + t.PotentialResponse + "]");
+                logger.Trace(Math.Round((double)t.MatchingRate,3) + "\t Matching->" + t.MatchingMemory + "]->makes me say->[" + t.PotentialResponse + "]");
                 if (counter > ii)
                     return;
             }

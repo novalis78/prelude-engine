@@ -39,9 +39,9 @@ namespace PreludeEngine
         protected ArrayList semanticRecognition = new ArrayList();
 		private static Hashtable matchedMemoryValues   	= new Hashtable();
 		private const  int MAX_NUMBER_OF_IDENT_ENTRIES 	= 5;
-		private const  int MAX_MATCHES_ALLOWED    		= 5;
         public enum MatchingAlgorithm { Basic, Jaccard, Levensthein, Dice, SimHash, Jaccard2, Tanimoto }
 		public  int memorySize = 0;
+		public  int AttentionBreadth = 5;
 		public  bool proactiveMode = false;
         private static Logger logger = LogManager.GetCurrentClassLogger();
         private GSWebClient client = new GSWebClient();
@@ -417,9 +417,25 @@ namespace PreludeEngine
             //}
             
         }
+        
+        
+        private void findBestMatchWithinMemory()
+        {
+	        List<Thought> s = this.GetThoughtsSorted();
+	        int counter = 0;
+	        bestMatchesList.Clear();
+	        foreach(Thought t in s)
+	        {
+	            counter++;
+	            bestMatchesList.Add((string)t.PotentialResponse);
+                logger.Trace("Added to best list: [" + (double)t.MatchingRate + "]\t->" + (string)t.PotentialResponse);
+				if(bestMatchesList.Count > this.AttentionBreadth)
+					break;
+	        }
+        }
 
 		
-		private void findBestMatchWithinMemory()
+		private void findBestMatchWithinMemoryGeneric()
 		{
 			double i = 0;
 			double highestValue = 0;
@@ -447,7 +463,7 @@ namespace PreludeEngine
                             bestMatchesList.Add((string)re.Key);
                             logger.Trace("Added to best list: [" + (double)re.Value + "]\t->" + (string)re.Key);
                         }
-						if(bestMatchesList.Count > MAX_MATCHES_ALLOWED)
+						if(bestMatchesList.Count > this.AttentionBreadth)
 							break;						
 					}					
 				}	

@@ -110,6 +110,7 @@ namespace PreludeEngine
             double[] q2 = q1.ToArray();
             // get distance between the two vectors
             double distance = dist.GetDistance(p, q2);
+            //logger.Trace("V: " + input + " >>in>> " + memory + " || equals || " + distance.ToString());
             return distance;
         }
 
