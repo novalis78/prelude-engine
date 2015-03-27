@@ -9,7 +9,6 @@
 using System;
 using SpeechLib;
 using System.Threading;
-using System.Windows.Forms;
 using System.Timers;
 using NLog;
 
@@ -134,7 +133,7 @@ namespace PreludeEngine
         	}
         	catch
             {
-            	MessageBox.Show("Speech Engine error");
+            	;
             }
 		}
 		

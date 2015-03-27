@@ -9,7 +9,6 @@
 
 using System;
 using System.IO;
-using System.Windows.Forms;
 using System.Collections.Specialized;
 
 namespace PreludeEngine
@@ -59,7 +58,6 @@ namespace PreludeEngine
 	    	}
 	    	else
 	    	{
-	    		MessageBox.Show("No mind file found, creating new one " + Directory.GetCurrentDirectory());
 	    		FileStream cs = File.Create(filePath);
 	    		cs.Close();
 	    		FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);

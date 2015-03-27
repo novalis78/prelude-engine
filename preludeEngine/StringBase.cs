@@ -10,7 +10,6 @@
 using System;
 using System.Text;
 using System.Collections;
-using System.Windows.Forms;
 using AForge.Math.Metrics;
 using System.Collections.Generic;
 using NLog;
