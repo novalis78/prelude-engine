@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="PreludeEngineTester/PreludeEngineTester/PreludeEngineTester.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="preludeEngine/Brain.cs">
+    <Files>
+      <File FileName="preludeEngine/Brain.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/novalis78/projects/prelude-engine/PreludeEngineTester/PreludeEngineTester/Main.cs" line="31" />
+      <Breakpoint file="/home/novalis78/projects/prelude-engine/PreludeEngineTester/PreludeEngineTester/Main.cs" line="23" />
+      <Breakpoint file="/home/novalis78/projects/prelude-engine/PreludeEngineTester/PreludeEngineTester/Main.cs" line="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

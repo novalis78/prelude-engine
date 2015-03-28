@@ -1,0 +1,3 @@
+*.npy
+*.doc2vec
+nlog.txt
