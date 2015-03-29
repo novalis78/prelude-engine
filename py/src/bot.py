@@ -1,20 +1,26 @@
 import os
-from threading import Timer
 import time
+from threading import Timer
 from mind import Mind
+from mind import MatchingAlgorithm
 
 class Prelude(object):
 
-
-	def initializeEngine(self):
+	def __init__(self):
 		self.timer = None
 		self.isSpeaking = False
 		self.proactiveMode = False
 		self.loadedMind = "mind.mdu"
 		self.quantumRandomness = False
 		self.avoidLearnByRepeating = False
-		self.mindInstance = Mind()
+		self.associater = MatchingAlgorithm.CosineTFIDF
+		self.chatInitiated = time.strftime("%H:%M:%S")
 
+	def initializeEngine(self):
+		self.mindInstance = Mind()
+		self.mindInstance.analyzeShortTermMemory()
+		self.mindInstance.associater = self.associater
+		self.chatInitiated = time.strftime("%H:%M:%S")
 
 
 	def chatWithPrelude(self, question):
@@ -24,19 +30,20 @@ class Prelude(object):
 			self.idleTime = 0
 			if self.timer is not None:
 				timer.Stop()
-		if quantumRandomness:
-			mindInstance.quantumRandomness = True
+		
+		if self.quantumRandomness:
+			self.mindInstance.quantumRandomness = True
 
-		if avoidLearnByRepeating:
-			mindInstance.avoidLearnByRepeating = True
+		if self.avoidLearnByRepeating:
+			self.mindInstance.avoidLearnByRepeating = True
 
 		answer = ""
 		answer = self.mindInstance.listenToInput(question)
 		
-		if isSpeaking:
+		if self.isSpeaking:
 			self.speak(answer)
 		
-		if proactiveMode:
+		if self.proactiveMode:
 			self.setTimer()
 			self.autoSpeakInput = answer
 			self.timer.start()
@@ -64,7 +71,8 @@ class Prelude(object):
 		pass
 
 	def countMindMemory(self):
-		pass
+		if self.mindInstance:
+			print "My memory contains " + str(len(self.mindInstance.botsMemory)) + " neurons"
 
 	def setTimer(self):
 		self.timer = Timer(20 * 60, autoAnswer)
@@ -79,7 +87,10 @@ class Prelude(object):
 		except:
 			print "Error: autoAnswer"
 
-
+	def setAssociationAlgorithm(self, assocType):
+		# if self.mindInstance:
+		# 	self.mindInstance.associater = assocType
+		self.associater = assocType
 
 	def getVersionInfo(self):
 		return "Prelude@# Engine, version 1.2.7, 2004-2015(c) by Lennart Lopin ";
@@ -92,8 +103,7 @@ class Prelude(object):
 
 
 
-class MatchingAlgorithm:
-    Dice, Tanimoto, Jaccard, Leventhein = range(4)
+
 
 
 

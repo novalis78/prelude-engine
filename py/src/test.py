@@ -1,5 +1,5 @@
 from bot import Prelude
-from bot import MatchingAlgorithm
+from mind import MatchingAlgorithm
 
 print "Prelude@# command line version, welcome user!"
 print "if you want to stop chatting, enter: 'exit'"
@@ -22,10 +22,11 @@ prelude.avoidLearnByRepeating = True
 #...enable proactive response mode
 prelude.setProactiveMode(True)
 #...set the input match algorithm
-prelude.initializedAssociater = MatchingAlgorithm.Dice
+prelude.setAssociationAlgorithm(MatchingAlgorithm.Hamman)
 
 #now, start your engine ...
 prelude.initializeEngine()
+prelude.countMindMemory()
 
 question = ""
 #and here we go:
