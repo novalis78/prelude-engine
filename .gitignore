@@ -2,3 +2,7 @@
 *.doc2vec
 nlog.txt
 *.mdu
+chat.log
+.log
+.png
+.jpg
