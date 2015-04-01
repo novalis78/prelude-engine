@@ -1,9 +1,0 @@
-<BOT>  Let's have dinner. -IA</BOT>
-<USER>  I'm not hungry. -SH</USER><BOT>  Good. -IA</BOT>
-<USER>  Giving up so easily? -SH</USER><BOT>  No. Took it as an invitation accepted. -IA  Do come to my flat. Any time will do, but I hate to wait. -IA</BOT>
-<USER>  I'll be right there, do try to avoid any more sedative drugs this time around. -SH</USER><BOT>  No, no, I like you better conscious. -IA  You can't hold me accountable for measure you force me to take. -IA  *measures</BOT>
-<USER>  Good, benzodiazepine is an undesirable drug anyways. What's for dinner’? -SH</USER><BOT>  You're not hungry. -IA  What would you like? -IA</BOT>
-<USER>  Merely conversation. I don't care what. -SH</USER><BOT>  Come talk to me, then. -IA  I miss yourvoice. -IA</BOT>
-<USER> Yes, I've been told my voice is a sought after leature. Five minutes away -SH</USER><BOT>  Who tells you? I'm thoroughly intrigued. -IA</BOT>
-<USER> There's been multiple accounts overthe years, no one particularly interesting. I'm at the door, care to open it? -SH  ((i'm sorry, i've got to run! wonderlul talking to you CI ))</USER><BOT>  ((you too!</BOT>
-<USER>  ((tumb|r’? mine's snackos))</USER><BOT>  ((perchanced))</BOT>
