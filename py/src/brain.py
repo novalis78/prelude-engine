@@ -25,6 +25,7 @@ class Brain(object):
 		f.close()
 
 
+
 	# def calculateMatchRateCosineTFIDF(self, idea):
 
 		# tfidf_vectorizer = TfidfVectorizer(stop_words = None)
@@ -122,12 +123,21 @@ class Brain(object):
 		"""
 		nx, ny = self.prepInput(a, b)
 		score = objectdistance.Kulczynski(nx, ny, 0, 'Set')
-		print score
+		#print score
 		return score
 		#c = set.intersection(nx, ny)
 		#d = 0
 		#print "score: " + str(float((len(nx) + d) - (len(ny) + len(c))) / float(len(nx) + len(ny) + len(c) + d))
 		#return float((len(nx) + d) - (len(ny) + len(c))) / float(len(nx) + len(ny) + len(c) + d)
+
+	def calculateMatchRateKulczynski(self, a, b):
+		"""
+		best selector needs tweaking to work with +/- values...
+		"""
+		nx, ny = self.prepInput(a, b)
+		score = objectdistance.Kulczynski(nx, ny, 0, 'Set')
+		print score
+		return score
 
 
 	def calculateMatchRateSimpson(self, a, b):

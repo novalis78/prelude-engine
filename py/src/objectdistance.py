@@ -265,7 +265,10 @@ def Kulczynski(original, test, absent=0, type='Set'):
     @since: version 0.1
     """
     (original, test, both, none) = compare(original, test, absent, type)
-    return both / (original + test)
+    if (original + test) > 0:
+        return both / (original + test)
+    else:
+        return 0
     
 def Forbes(original, test, absent=0, type='Set'):
     """

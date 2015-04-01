@@ -9,8 +9,8 @@ print "if you want to stop chatting, enter: 'exit'"
 prelude = Prelude()
 
 #configure prelude
-#first, set path to mind file
-prelude.loadedMind = "mind.mdu"
+#set path to mind file
+prelude.setMindFileLocation("mind2.mdu")
 
 #set some options, such as...
 #...enable TTS
@@ -26,6 +26,7 @@ prelude.setAssociationAlgorithm(MatchingAlgorithm.Hamman)
 
 #now, start your engine ...
 prelude.initializeEngine()
+
 prelude.countMindMemory()
 
 question = ""

@@ -10,7 +10,7 @@ class Prelude(object):
 		self.timer = None
 		self.isSpeaking = False
 		self.proactiveMode = False
-		self.loadedMind = "mind.mdu"
+		self.brainLocation = "mind.mdu"
 		self.quantumRandomness = False
 		self.avoidLearnByRepeating = False
 		self.associater = MatchingAlgorithm.CosineTFIDF
@@ -18,9 +18,10 @@ class Prelude(object):
 
 	def initializeEngine(self):
 		self.mindInstance = Mind()
-		self.mindInstance.analyzeShortTermMemory()
 		self.mindInstance.associater = self.associater
+		self.mindInstance.brainLocation = self.brainLocation
 		self.chatInitiated = time.strftime("%H:%M:%S")
+		self.mindInstance.analyzeShortTermMemory()
 
 
 	def chatWithPrelude(self, question):
@@ -62,13 +63,17 @@ class Prelude(object):
 		pass
 
 	def stopEngine(self):
-		pass
+		if self.mindInstance:
+			self.mindInstance.prepareCurrentMemoryForDisc()
+		if self.isContributable:
+			self.mindInstance.contributeClientMind()
 
 	def forceUpload(self):
 		pass
 
 	def forceSaveMindFile(self):
-		pass
+		if self.mindInstance:
+			self.mindInstance.prepareCurrentMemoryForDisc()
 
 	def countMindMemory(self):
 		if self.mindInstance:
@@ -91,6 +96,9 @@ class Prelude(object):
 		# if self.mindInstance:
 		# 	self.mindInstance.associater = assocType
 		self.associater = assocType
+
+	def setMindFileLocation(self, fileName):
+		self.brainLocation = fileName
 
 	def getVersionInfo(self):
 		return "Prelude@# Engine, version 1.2.7, 2004-2015(c) by Lennart Lopin ";

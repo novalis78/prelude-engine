@@ -24,7 +24,7 @@ class Mind(Brain):
 		self.botsMemory = {}
 		self.memorySize = -1
 		self.allThoughts = []
-		self.brainLocation = ""
+		self.brainLocation = "mind.mdu"
 		self.bestMatchesList = []
 		self.AttentionBreadth = 5
 		self.MAX_MATCHES_ALLOWED = 5
@@ -41,8 +41,9 @@ class Mind(Brain):
 		self.purifyBotsMind()			
 		sc = []
 		self.botsMemory = {}
+		print "Location: " + self.brainLocation
 		if self.brainLocation is "":
-			sc = self.readBrainFile("mind.mdu")
+			sc = self.readBrainFile(self.brainLocation)
 		else:
 			sc = self.readBrainFile(self.brainLocation)
 		
@@ -86,24 +87,35 @@ class Mind(Brain):
 		possible input - hardcoded semantics.
 		"""
 		if self.lastOutput is not "":
-			if receivedInput in self.botsMemory is None:
-				self.botsMemory[receivedInput] = self.lastOutput;
-			
-			self.logger.debug("LAST OUTPUT", self.lastOutput);				
-			self.logger.debug("NEW INPUT", receivedInput);
+			if receivedInput not in self.botsMemory:
+				self.botsMemory[receivedInput] = self.lastOutput
+				self.logger.debug("LAST OUTPUT", self.lastOutput)			
+				self.logger.debug("NEW INPUT", receivedInput)
+			else:
+				print "Key: " + self.botsMemory[receivedInput]
 		
 		#update the counter to reflect
 		#a more dynamic and accurate picture of
 		#the memory growth when alive
 		self.memorySize = len(self.botsMemory)
+		print self.memorySize
 
 
-	def prepareCurrentMemoryForDisc(self, fileName):
-		pass
+	def prepareCurrentMemoryForDisc(self):
+		a = self.joinWordsAndThoughts()
+		if len(a) > 0:
+			if self.brainLocation:
+				self.writeBrainFile(a, self.brainLocation)
+			else:
+				self.writeBrainFile(a, "mind.mdu")
 
 
 	def joinWordsAndThoughts(self):
-		pass
+		greyMatter = set()
+		print len(self.botsMemory)
+		for key, value in self.botsMemory.iteritems():
+			greyMatter.add("<USER>" + value + "</USER>" + "<BOT>" + key + "</BOT>");
+		return greyMatter
 
 
 	def listenToInput(self, receivedInput):
@@ -120,15 +132,20 @@ class Mind(Brain):
 	def getFillerAnswer(self):
 		nonembarrassingFiller = ["Really?", "What??", "hm... you sure?", "sure?", "sure.", "yeah..", "come on", "hey", " ;-P", " ;-{", " ;-)", " ^-^", " :X", "you are so funny!", "you are so cool too", "love that", "are you making fun of me?", "no", "yes", "why?", "why did you say that?", "k", "okay", "so?", "not interested...", "talk to me.", "stop that", "go on", "hmmmmm", "hah! I knew it!", "wait a sec...", "can you wait a moment?", "will be right back...just a sec", "sorry..did not mean you", "sorry wrong chat window...", "everbody makes mistakes, right?", "are you insane?", "waht does that even mean?", "how old are you?", "are you sure?", "childish", "grow up", "dont' waste my time", "you are so weeird", " ... ", "wtf", "wth", "OMG", "seriously?", "hilarious", "yawn", "B-)", "cool", "how cool is that", "and...?", "keep going :-)", "I like where this is leading...", "hang on, got a call", "nope", "(waving hello)", "=> (chilling)", "are you serious?", "you are not serious, are you?", "wait", "what did you say?", "stop it", "stop that", "can you talk to me like a normal person?", "ouch", "okay, I get it", "boring", "try again", "you are so hilarious", "hm....", "try harder...", "thx. not interested."]
 		randomFiller = random.choice(nonembarrassingFiller)
+		#make sure we keep learning new stuff, in case we started with an empty brain
+		self.prepareCurrentMemoryForDisc()
 		return randomFiller;
 
 
 
 	def thinkItOver(self, idea):
 		"""
-		Kickstarts the 'thinking' process
+		Kickstarts the 'thinking' process. First, deal with the edge case of an empty brain. Move up from there
 		"""
 		b = ""
+		if len(self.botsMemory) <= 0:
+			return idea
+
 		self.loadAuxilliaryKnowledgeIntoMemory(idea);
 		if len(self.bestMatchesList) <= 0:
 			self.matchInputWithMemory(idea);
@@ -237,6 +254,8 @@ class Mind(Brain):
 					self.matchRate = self.calculateMatchRateHamman(inputSentenceTokenized, t)
 				elif self.associater == MatchingAlgorithm.Simpson:
 					self.matchRate = self.calculateMatchRateSimpson(inputSentenceTokenized, t)
+				elif self.associater == MatchingAlgorithm.Kulczynski:
+					self.matchRate = self.calculateMatchRateKulczynski(inputSentenceTokenized, t)	
 				else:
 					self.matchRate = self.calculateMatchRate(inputSentenceTokenized, t)
 
@@ -315,8 +334,10 @@ class Mind(Brain):
 		cap sorted thoughts and retrieve answer
 		"""
 		sortedThoughts = self.getThoughtsSorted()
-
-		for x in range(0, 10):
+		max = 10
+		if len(sortedThoughts) < 11:
+			max = len(sortedThoughts)-1
+		for x in range(0, max):
 			print "[" + str(sortedThoughts[x].MatchingRate) + "] " +  sortedThoughts[x].MatchingMemory + " => " + sortedThoughts[x].PotentialResponse
 		
 		self.bestMatchesList = []
@@ -387,7 +408,7 @@ class Mind(Brain):
 
 
 class MatchingAlgorithm:
-    Dice, Tanimoto, Jaccard, Levensthein, Hamman, Simpson, CosineTFIDF = range(7)
+    Dice, Tanimoto, Jaccard, Levensthein, Hamman, Simpson,Kulczynski, CosineTFIDF = range(8)
 
 
 
