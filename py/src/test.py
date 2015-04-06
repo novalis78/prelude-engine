@@ -1,3 +1,5 @@
+from random import randint
+import time
 from bot import Prelude
 from mind import MatchingAlgorithm
 
@@ -32,10 +34,41 @@ prelude.countMindMemory()
 question = ""
 #and here we go:
 while question is not "exit":
-	question = raw_input("You say: ")
+	question = raw_input("You:\t\t ")
 	answer = prelude.chatWithPrelude(question)
-	print "Prelude says: " + answer
+
+
+	#chunk answer to make it more chatroom like
+	#if comma, split at comma into separate entities
+	if "," in answer:
+		for commapart in answer.split(","):
+			print "Prelude:\t " + commapart
+			time.sleep(randint(2,8))
+	#if no comma, chunk the answer still to make it look
+	#more natural
+	else:		
+		breaks = answer.split(" ")
+		if breaks > 4:
+			chunker = randint(4,10)
+		c = 0	
+		outp = ""
+		remainder = ""
+		#answers too fast, let's delay a bit
+		time.sleep(randint(1,2))
+		for part in answer.split(" "):
+			outp += part + " "
+			c = c+1
+			if c == chunker:
+				time.sleep(len(outp.split(" ")))
+				print "Prelude:\t " + outp
+				c = 0
+				outp = ""
+
+		print "Prelude:\t " + outp
+
+	#normal, one line output
+	#print "Prelude says: " + answer
+
 
 prelude.stopPreludeEngine()
-
 print "Thanks for chatting with Prelude"

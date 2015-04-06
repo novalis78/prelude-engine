@@ -13,6 +13,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from nltk.corpus import stopwords
 import numpy as np
 import numpy.linalg as LA
+import sqlite3
 
 
 
@@ -29,11 +30,25 @@ class Mind(Brain):
 		self.AttentionBreadth = 5
 		self.MAX_MATCHES_ALLOWED = 5
 		self.matchedMemoryValues = {}
+		self.conversationChain = []
 		self.quantumRandomness = False
 		self.avoidLearnByRepeating = False
 		self.associater = MatchingAlgorithm.CosineTFIDF
 		logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 		self.logger = logging.getLogger('prelude_log')
+		self.connection = sqlite3.connect('mind.sqlite')
+		self.cursor = self.connection.cursor()
+		try:
+			self.cursor.execute('''
+		        CREATE TABLE conversations (
+		            id INT NOT NULL,
+		            parent_id INT NOT NULL,
+		            sentence TEXT,
+		            score REAL NOT NULL
+				)
+			''')
+		except:
+			pass
 		super(Mind, self).__init__()
 
 
@@ -143,23 +158,51 @@ class Mind(Brain):
 		"""
 		Kickstarts the 'thinking' process. First, deal with the edge case of an empty brain. Move up from there
 		"""
-		b = ""
-		if len(self.botsMemory) <= 0:
-			return idea
+		confidenceLevel = False
+		while not confidenceLevel:
+			b = ""
+			if len(self.botsMemory) <= 0:
+				return idea
 
-		self.loadAuxilliaryKnowledgeIntoMemory(idea);
-		print "auxilliary: " 
+			self.loadAuxilliaryKnowledgeIntoMemory(idea);
+			#print "auxilliary: " 
 
-		if len(self.bestMatchesList) <= self.MAX_MATCHES_ALLOWED:
-			self.matchInputWithMemory(idea);
-			self.findBestMatchWithinMemory();
-		
-		#testing real quantum state induced random fluctuation - cool!
-		#Dr Penrose would be happy
-		if self.quantumRandomness:
-			b = self.randomQuantumSelectAnswer();
-		else:
-			b = self.randomSelectAnswer();
+			if len(self.bestMatchesList) <= self.MAX_MATCHES_ALLOWED:
+				self.matchInputWithMemory(idea);
+				self.findBestMatchWithinMemory();
+			
+			#testing real quantum state induced random fluctuation - cool!
+			#Dr Penrose would be happy
+			if self.quantumRandomness:
+				b = self.randomQuantumSelectAnswer();
+			else:
+				b = self.randomSelectAnswer();
+
+			#experimental: trying trace back conversation
+			#if our confidence level is too low
+			#strategy: pick up at earlier point in conversation
+			print self.conversationChain
+			if self.matchedMemoryValues[b] < 0.5 and len(self.conversationChain) > 2:
+				#walk up conversation chain to find last high confidence
+				#rating, then set input to that parent input in order to 
+				#branch conversation out
+				print "searching for better branch"
+				last_parent = ""
+				for x in range(0, -1, len(self.conversationChain)):
+					i = x.split("###")
+					print "evaluating: " + i
+					if len(i)>1: #is child
+						rating = float(i[1])
+						if rating > 0.5:
+							idea = i
+					else:
+						last_parent = i
+				confidenceLevel = False
+			else:
+				confidenceLevel = True
+
+		self.conversationChain.append(idea)
+		self.conversationChain.append(b + "###" + str(self.matchedMemoryValues[b]))
 
 		#dont allow bot to repeate its last sentence
 		if b is self.lastOutput: 
@@ -271,7 +314,7 @@ class Mind(Brain):
 				if key not in self.matchedMemoryValues:
 					if self.matchRate != 0: 
 						self.matchedMemoryValues[key] = self.matchRate
-						print "[" + str(cntr) + "]  @" + str(self.matchRate) + " Matching: " + key
+						#print "[" + str(cntr) + "]  @" + str(self.matchRate) + " Matching: " + key
 		
 
 	def calculateCosine(self, idea):
