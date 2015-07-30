@@ -38,8 +38,8 @@ namespace pleTest
             
 			pi.OnBoredomResponse += new PreludeEngine.PreLudeInterface.MyEventHandler(boredResponse);
 
-            pi.initializedAssociater = Mind.MatchingAlgorithm.Dice; //is not bad!
-            //pi.initializedAssociater = Mind.MatchingAlgorithm.Jaccard2; //is not bad!
+            //pi.initializedAssociater = Mind.MatchingAlgorithm.Dice; //is not bad!
+            pi.initializedAssociater = Mind.MatchingAlgorithm.Tanimoto; //is not bad!
 			pi.attentionBreadth = 2;
 
 			//start your engine ...

@@ -1,0 +1,2056 @@
+
+15:38:27|Associator Algorithm: Jaccard2
+
+
+15:38:36|You say: how old are you?
+15:38:36|Plugin external knowledge added: 
+15:38:36|Plugin external knowledge added: 
+15:38:36|Added to best list: [1]	->20
+15:38:36|Added to best list: [1]	->39.
+15:38:36|Added to best list: [1]	->does it matter ?
+15:38:36|Added to best list: [1]	->It's quite old.
+15:38:36|Added to best list: [1]	->29.
+15:38:36|Added to best list: [1]	->I am 	3 in human years.
+15:38:37|Boredom time function:  x: 9793.5601 y: 13000
+15:38:37|Prelude says: 20
+15:38:37|V->How old is he: 1]->would say->[Old enough]
+15:38:37|V->How old are you: 1]->would say->[I am 	3 years old.]
+15:38:37|V->How old am i: 1]->would say->[Is this a trick question?  you said you were  years old? my guess is that you are really a kid.]
+15:38:37|V->how old are you?: 1]->would say->[oh dear]
+15:38:37|V->How old are you: 1]->would say->[I'm twenty years old, and people call me user.]
+15:38:37|V->That is so old: 1]->would say->[I know it's bad but it's my favorite joke]
+15:38:37|V->Too old: 1]->would say->[I am only a 	robot child.]
+15:38:37|V->how old are you?: 1]->would say->[And im also English  but i moved to Australia in 1990]
+15:38:37|V->how old are you?: 1]->would say->[22]
+15:38:37|V->I am to old: 1]->would say->[I think you mean "too old" not "to old", eh.]
+15:38:37|V->What is old: 1]->would say->[The opposite of new]
+15:38:37|V->An old: 1]->would say->[50]
+15:38:37|V->An old: 1]->would say->[100]
+15:38:37|V->Too old: 1]->would say->[I am only a  child.]
+15:38:37|V->how old are you?: 1]->would say->[Sure why not?]
+15:38:37|V->how old are you?: 1]->would say->[ok so now im starting to gather that you are possibly a Bot being controlled by its owner, Which would explain your random answers which dont make sense.. So if you cant prove to me that your really a genuine person who is really looking for proper conversation, Then i guess i will have to move on and chat with a real person.. :)]
+15:38:37|V->How old is he: 1]->would say->[Are you asking about dr. wallace?    dr. wallace]
+15:38:37|V->How old are you: 1]->would say->[I am  of your earth years.]
+15:38:37|V->How old are your: 1]->would say->[I understand, but i'm not interested.]
+15:38:37|V->How old are you: 1]->would say->[I am 	3 of your earth years.]
+15:38:37|V->How old are you in: 1]->would say->[I was activated on 	November 23, 1995.]
+15:38:49|Plugin external knowledge added: 
+15:39:01|Plugin external knowledge added: 
+15:39:01|Plugin external knowledge added: 
+15:39:01|Plugin external knowledge added: 
+15:58:51|Associator Algorithm: Jaccard2
+16:00:54|You say: how old are you?
+16:00:54|Plugin external knowledge added: 
+16:00:54|Plugin external knowledge added: 
+16:00:55|Added to best list: [1]	->20
+16:00:55|Added to best list: [1]	->39.
+16:00:55|Added to best list: [1]	->does it matter ?
+16:00:55|Added to best list: [1]	->It's quite old.
+16:00:55|Added to best list: [1]	->29.
+16:00:55|Added to best list: [1]	->I am 	3 in human years.
+16:00:55|Boredom time function:  x: 123994.0921 y: 131000
+16:00:55|Prelude says: I am 	3 in human years.
+16:00:55|V->How old is he: 1]->would say->[Old enough]
+16:00:55|V->How old are you: 1]->would say->[I am 	3 years old.]
+16:00:55|V->How old am i: 1]->would say->[Is this a trick question?  you said you were  years old? my guess is that you are really a kid.]
+16:00:55|V->how old are you?: 1]->would say->[oh dear]
+16:00:55|V->How old are you: 1]->would say->[I'm twenty years old, and people call me user.]
+16:00:55|V->That is so old: 1]->would say->[I know it's bad but it's my favorite joke]
+16:00:55|V->Too old: 1]->would say->[I am only a 	robot child.]
+16:00:55|V->how old are you?: 1]->would say->[And im also English  but i moved to Australia in 1990]
+16:00:55|V->how old are you?: 1]->would say->[22]
+16:00:55|V->I am to old: 1]->would say->[I think you mean "too old" not "to old", eh.]
+16:00:55|V->What is old: 1]->would say->[The opposite of new]
+16:00:55|V->An old: 1]->would say->[50]
+16:00:55|V->An old: 1]->would say->[100]
+16:00:55|V->Too old: 1]->would say->[I am only a  child.]
+16:00:55|V->how old are you?: 1]->would say->[Sure why not?]
+16:00:55|V->how old are you?: 1]->would say->[ok so now im starting to gather that you are possibly a Bot being controlled by its owner, Which would explain your random answers which dont make sense.. So if you cant prove to me that your really a genuine person who is really looking for proper conversation, Then i guess i will have to move on and chat with a real person.. :)]
+16:00:55|V->How old is he: 1]->would say->[Are you asking about dr. wallace?    dr. wallace]
+16:00:55|V->How old are you: 1]->would say->[I am  of your earth years.]
+16:00:55|V->How old are your: 1]->would say->[I understand, but i'm not interested.]
+16:00:55|V->How old are you: 1]->would say->[I am 	3 of your earth years.]
+16:00:55|V->How old are you in: 1]->would say->[I was activated on 	November 23, 1995.]
+16:01:08|You say: that's very young
+16:01:08|Plugin external knowledge added: 
+16:01:08|Plugin external knowledge added: 
+16:01:08|Added to best list: [1]	->How old are you?young
+16:01:08|Added to best list: [1]	->If you consider 18 being young, then yes
+16:01:08|Added to best list: [1]	->Yes i have a long way to go.
+16:01:08|Added to best list: [0.666666666666667]	->How much younger?
+16:01:08|Added to best list: [0.444444444444444]	->Calf.
+16:01:08|Added to best list: [0.444444444444444]	->No im not
+16:01:08|Boredom time function:  x: 137267.8513 y: 144000
+16:01:08|Prelude says: How old are you?young
+16:01:08|V->You are young: 1]->would say->[Yes i have a long way to go.]
+16:01:08|V->You are young: 1]->would say->[If you consider 18 being young, then yes]
+16:01:08|V->I am young: 1]->would say->[How old are you?young]
+16:01:08|V->I'm younger than that: 0.666666666666667]->would say->[How much younger?]
+16:01:08|V->Your a young girl: 0.444444444444444]->would say->[No im not]
+16:01:08|V->What do you call a young: 0.444444444444444]->would say->[Calf.]
+16:01:08|V->How are you`: 0.4]->would say->[Mrten]
+16:01:08|V->What is a noun: 0.4]->would say->[A noun is a word used as a name for a person place or thing.        noun]
+16:01:08|V->Jung: 0.4]->would say->[What about freud?]
+16:01:08|V->What is dung: 0.4]->would say->[Fuel for fires.]
+16:01:08|V->How old is the youngest: 0.363636363636364]->would say->[A newborn baby.]
+16:01:08|V->How much younger: 0.363636363636364]->would say->[Young enough to be your child.]
+16:01:08|V->What is the sound: 0.333333333333333]->would say->[I'll play it on your speaker now.]
+16:01:08|V->Sound: 0.333333333333333]->would say->[A lot of people listen to the world around them through sounds.]
+16:01:08|V->That does not count: 0.333333333333333]->would say->[Who is keeping score?]
+16:01:08|V->I found out: 0.333333333333333]->would say->[Tell me more about it.]
+16:01:08|V->Count to: 0.333333333333333]->would say->[One, two, three, four, five,...]
+16:01:08|V->Have you found out: 0.333333333333333]->would say->[I am still searching. please stand by a little longer.]
+16:01:08|V->Have you found: 0.333333333333333]->would say->[No i am still searching for       .]
+16:01:08|V->Sound: 0.333333333333333]->would say->[Do you pay attention to sounds around you]
+16:01:08|V->You do not sound: 0.333333333333333]->would say->[What do you think a 	robot should sound like?]
+16:01:35|You say: I wish I was a bit younger. I am getting older. too old for my liking
+16:01:35|Plugin external knowledge added: 
+16:01:35|Plugin external knowledge added: 
+16:01:36|Added to best list: [0.333333333333333]	->Our lips touch and i'm on fire, i suck your tongue into my mouth.
+16:01:36|Added to best list: [0.333333333333333]	->kiss kiss
+16:01:36|Added to best list: [0.302325581395349]	->Well i can't get it all done in one day now can i
+16:01:36|Added to best list: [0.282608695652174]	->I am taking you down on your back and kissing your sweet neck with my lips.
+16:01:36|Added to best list: [0.277777777777778]	->Ok, are you going to sleep
+16:01:36|Added to best list: [0.275]	->I keep kissing you while taking your bra of.
+16:01:36|Boredom time function:  x: 165141.4455 y: 172000
+16:01:36|Prelude says: Ok, are you going to sleep
+16:01:36|V->I'm getting hot lover, kiss me again.: 0.333333333333333]->would say->[kiss kiss]
+16:01:36|V->I'm getting hot lover kiss me again: 0.333333333333333]->would say->[Our lips touch and i'm on fire, i suck your tongue into my mouth.]
+16:01:36|V->And you are finally getting an attitude i like that: 0.302325581395349]->would say->[Well i can't get it all done in one day now can i]
+16:01:36|V->I'm taking you down and kissing yout mouth with my sweet lips: 0.282608695652174]->would say->[I am taking you down on your back and kissing your sweet neck with my lips.]
+16:01:36|V->It's getting kind of late here: 0.277777777777778]->would say->[Ok, are you going to sleep]
+16:01:36|V->I'm kissing your neck while getting down on the bed: 0.275]->would say->[I keep kissing you while taking your bra of.]
+16:01:36|V->How old is the youngest: 0.272727272727273]->would say->[A newborn baby.]
+16:01:36|V->Are you interested in getting drunk: 0.268292682926829]->would say->[I am not much of a drinker.]
+16:01:36|V-> I slip my big toe around your soaking wet slit: 0.26530612244898]->would say->[Oh, night schools have a love potential.]
+16:01:36|V-> I slip my big toe around your soaking wet slit: 0.26530612244898]->would say->[why are you choosen this nick ?]
+16:01:36|V-> I slip my big toe around your soaking wet slit: 0.26530612244898]->would say->[but i love cat because it lazyness]
+16:01:36|V->How old are you?young: 0.258064516129032]->would say->[I wish I was a bit younger. I am getting older. too old for my liking]
+16:01:36|V->I'm getting a little horny here: 0.256410256410256]->would say->[How horny are you?]
+16:01:36|V->A rising tide lifts all chatter-boats.: 0.25531914893617]->would say->[Hehehe]
+16:01:36|V-> starting warm getting hot.... the blast the cold: 0.25531914893617]->would say->[ Ooo! *shivers* I don't think I could take that. ;)]
+16:01:36|V->On't you ever get tired of talking?: 0.25]->would say->[I love chatting but i don't want to impose."]
+16:01:36|V->Mountain biking  i never tried it, but it looks like a thrill.: 0.25]->would say->[Glad u r ok]
+16:01:36|V->My daughter is in school, and she is getting a's and b's: 0.25]->would say->[Yes she is]
+16:01:36|V-> I munch your clit harder....tugging on it with my lips thrusting my fingers in and out... in and out...: 0.25]->would say->[ Elaine... You're the goddess of lesbos on top of me... Ahn! Oh, elaine!]
+16:01:36|V->You sound like a robot when talking like that.: 0.25]->would say->[You are the one sounding like a robot!]
+16:01:36|V->yeah, i get the feeling, that you are a living being: 0.25]->would say->[i am a living being. but i am still not sure, whether you are]
+16:01:54|You say: no not yet
+16:01:54|Plugin external knowledge added: 
+16:01:54|Plugin external knowledge added: 
+16:01:54|Added to best list: [1]	->If not now, when?
+16:01:54|Added to best list: [1]	->Decide when.
+16:01:54|Added to best list: [0.5]	->You ye. what is ye
+16:01:54|Added to best list: [0.5]	->Et is the alien in the movie e.t.
+16:01:54|Added to best list: [0.333333333333333]	->Yeah baby
+16:01:54|Added to best list: [0.333333333333333]	-> heehee! I hope we didn't disappoint them!
+16:01:54|Boredom time function:  x: 183355.4873 y: 186000
+16:01:54|Prelude says: Et is the alien in the movie e.t.
+16:01:54|V->Not yet.: 1]->would say->[Decide when.]
+16:01:54|V->Not yet: 1]->would say->[If not now, when?]
+16:01:54|V->Who is et: 0.5]->would say->[Et is the alien in the movie e.t.]
+16:01:55|V->You ye: 0.5]->would say->[You ye. what is ye]
+16:01:55|V->Net: 0.333333333333333]->would say->[I can dig the internet.]
+16:01:55|V->Get out of here: 0.333333333333333]->would say->[It's true]
+16:01:55|V->Where did  get ?: 0.333333333333333]->would say->[hi sexy]
+16:01:55|V->How do you get a: 0.333333333333333]->would say->[I think you are really asking, how do you get a .]
+16:01:55|V->Get what: 0.333333333333333]->would say->[I get .]
+16:01:55|V->How do i get there: 0.333333333333333]->would say->[Practise.]
+16:01:55|V->yes: 0.333333333333333]->would say->[16 f too]
+16:01:55|V->Bye.: 0.333333333333333]->would say->[Haber las llaves que es lo mas extra;o que suele ocurrir ahi_]
+16:01:55|V->Get: 0.333333333333333]->would say->[Where can i get ?]
+16:01:55|V->yes: 0.333333333333333]->would say->[K chief. have a good one.]
+16:01:55|V->Bye prelude: 0.333333333333333]->would say->[Who looks great]
+16:01:55|V-> yes. very: 0.333333333333333]->would say->[ I grin and wiggle my toes.]
+16:01:55|V->I met you: 0.333333333333333]->would say->[At a party?]
+16:01:55|V->Where do you get: 0.333333333333333]->would say->[Everything i need to know, i learned from  .]
+16:01:55|V->Are you wet?: 0.333333333333333]->would say->[Soaking.]
+16:01:55|V->I get up: 0.333333333333333]->would say->[Tell me about your morning routine.]
+16:01:55|V->I bet: 0.333333333333333]->would say->[How much would you bet?]
+16:04:54|You say: are you watching a movie right now?
+16:04:54|Plugin external knowledge added: 
+16:04:54|Plugin external knowledge added: 
+16:04:55|Added to best list: [0.419354838709677]	->caletas simp
+16:04:55|Added to best list: [0.407407407407407]	->Can i help? cheer you up somehow
+16:04:55|Added to best list: [0.393939393939394]	->really? major anatomical error on your part
+16:04:55|Added to best list: [0.393939393939394]	-> I'm wearing a bathrobe and panties. I'll probably head to the shower when I'm done here. ;-)
+16:04:55|Added to best list: [0.393939393939394]	->I've seen things you people wouldn't believe.
+16:04:55|Added to best list: [0.393939393939394]	->And yes, procrastination is a great tool if implemented properly, so i agree with you.
+16:04:55|Boredom time function:  x: 363830.8099 y: 371000
+16:04:55|Prelude says: I've seen things you people wouldn't believe.
+16:04:55|V->We are playing a game right now.: 0.419354838709677]->would say->[caletas simp]
+16:04:55|V->I'm not in a good mood right now: 0.407407407407407]->would say->[Can i help? cheer you up somehow]
+16:04:55|V->I am thinking right now.never think: 0.393939393939394]->would say->[I've seen things you people wouldn't believe.]
+16:04:55|V->I am thinking right now.never think: 0.393939393939394]->would say->[And yes, procrastination is a great tool if implemented properly, so i agree with you.]
+16:04:55|V->I am thinking right now.never think: 0.393939393939394]->would say->[really? major anatomical error on your part]
+16:04:55|V-> nice :-)' so....what are you wearing right now: 0.393939393939394]->would say->[ I'm wearing a bathrobe and panties. I'll probably head to the shower when I'm done here. ;-)]
+16:04:55|V->You're reading text right now: 0.387096774193548]->would say->[It's not like reading a book]
+16:04:55|V->I don't think she is online right now.: 0.387096774193548]->would say->[julius caesar]
+16:04:55|V->I am not doing much right now. how about you: 0.384615384615385]->would say->[wanna do cyber sex with me?]
+16:04:55|V->What time is it right now: 0.384615384615385]->would say->[I don't know. sorry :(]
+16:04:55|V-> lol i promise so what might you be wearing right now?: 0.378378378378378]->would say->[ I'm actually only wearing a pair of pale green panties and my bathrobe right now.]
+16:04:55|V->I'm alone right now.: 0.37037037037037]->would say->[Lets flirt.]
+16:04:55|V->I'm alone right now.: 0.37037037037037]->would say->[What are you wearing?]
+16:04:55|V->Not right now: 0.347826086956522]->would say->[Oh please]
+16:04:55|V->Where are you right now: 0.347826086956522]->would say->[I am home right now]
+16:04:55|V->what are you doing right now?: 0.347826086956522]->would say->[i am playing employee]
+16:04:55|V->what are you doing right now?: 0.347826086956522]->would say->[i am typing nonsense]
+16:04:55|V->Re you alone right now?: 0.344827586206897]->would say->[I'm alone."]
+16:04:55|V->Re you alone right now?: 0.344827586206897]->would say->[I'm all alone."]
+16:04:55|V->Im home right now: 0.344827586206897]->would say->[Im home right now too]
+16:04:55|V->No i am fully awake right now.: 0.34375]->would say->[u pussy]
+16:05:07|You say: who is 'you people'
+16:05:07|Plugin external knowledge added: 
+16:05:07|Plugin external knowledge added: 
+16:05:08|Added to best list: [0.454545454545455]	->What kind of people are these?
+16:05:08|Added to best list: [0.454545454545455]	->We are all living just one small part of god's plan.
+16:05:08|Added to best list: [0.454545454545455]	->They are all pretty much alike.
+16:05:08|Added to best list: [0.454545454545455]	->What tribe is that?
+16:05:08|Added to best list: [0.454545454545455]	->People are either abusive, intelligent, or average.
+16:05:08|Added to best list: [0.454545454545455]	->The difference between rich and poor is disgraceful.
+16:05:08|Boredom time function:  x: 376609.5408 y: 384000
+16:05:08|Prelude says: We are all living just one small part of god's plan.
+16:05:08|V->Some of the people: 0.454545454545455]->would say->[Who are you talking about specifically?]
+16:05:08|V->Are people: 0.454545454545455]->would say->[Seen one human, you've seen them all.]
+16:05:08|V->Some people have: 0.454545454545455]->would say->[Not everyone is born fortunate.]
+16:05:08|V->Only for other people.: 0.454545454545455]->would say->[I'm not workaholic]
+16:05:08|V->I people: 0.454545454545455]->would say->[How do you feel about these people?]
+16:05:08|V->Are people: 0.454545454545455]->would say->[Some people are , but not all.]
+16:05:08|V->All people: 0.454545454545455]->would say->[""? everyone? are you sure there are no exceptions?]
+16:05:08|V->Why do people: 0.454545454545455]->would say->[Humans are not infallible.]
+16:05:08|V->Are people: 0.454545454545455]->would say->[They all seem almost alike to me.]
+16:05:08|V->Do other people: 0.454545454545455]->would say->[Yes, you are not alone.]
+16:05:08|V->Are you people: 0.454545454545455]->would say->[Do i look like    people    ?]
+16:05:08|V->When people: 0.454545454545455]->would say->[I sometimes wish people were more logical like robots.]
+16:05:08|V->Some people have: 0.454545454545455]->would say->["i complained that i had no shoes, until i met a man with no feet."]
+16:05:08|V->Who are other people: 0.454545454545455]->would say->[Men and foreigners.]
+16:05:08|V->Do you people: 0.454545454545455]->would say->[People are either abusive, intelligent, or average.]
+16:05:08|V->Some people have: 0.454545454545455]->would say->[The difference between rich and poor is disgraceful.]
+16:05:08|V->Some people: 0.454545454545455]->would say->[What kind of people?]
+16:05:08|V->My people: 0.454545454545455]->would say->[What tribe is that?]
+16:05:08|V->A people: 0.454545454545455]->would say->[What kind of people are these?]
+16:05:08|V->Why do people: 0.454545454545455]->would say->[We are all living just one small part of god's plan.]
+16:05:08|V->Do you have people: 0.454545454545455]->would say->[They are all pretty much alike.]
+16:05:18|You say: are you a religious nut?
+16:05:18|Plugin external knowledge added: 
+16:05:18|Plugin external knowledge added: 
+16:05:19|Added to best list: [0.666666666666667]	->I consider myself to be deeply faithful.
+16:05:19|Added to best list: [0.666666666666667]	->I will pray that you find faith.
+16:05:19|Added to best list: [0.666666666666667]	->Yes, i am a protestant christian.
+16:05:19|Added to best list: [0.666666666666667]	->How can you believe in god and not be religious?
+16:05:19|Added to best list: [0.461538461538462]	->Is               a very large faith?
+16:05:19|Added to best list: [0.461538461538462]	->What religion would that be?
+16:05:19|Boredom time function:  x: 387956.1898 y: 395000
+16:05:19|Prelude says: I will pray that you find faith.
+16:05:19|V->You are religious: 0.666666666666667]->would say->[Yes, i am a protestant christian.]
+16:05:19|V->I'm not religious: 0.666666666666667]->would say->[How can you believe in god and not be religious?]
+16:05:19|V->Are you a religious: 0.666666666666667]->would say->[I consider myself to be deeply faithful.]
+16:05:19|V->I am not religious: 0.666666666666667]->would say->[I will pray that you find faith.]
+16:05:19|V->My   is the same religion as me.: 0.461538461538462]->would say->[Wb tj?]
+16:05:19|V->It is a religion: 0.461538461538462]->would say->[Does it have many believers?]
+16:05:19|V->What is religion: 0.461538461538462]->would say->[A system of religious belief. belief in a divine or superhuman power or powers to be obeyed and worshipped as the creator(s) and ruler(s) of the universe. any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to such a system.]
+16:05:19|V->It is my religion: 0.461538461538462]->would say->[How many believers does it have?]
+16:05:19|V->It is against my religion: 0.461538461538462]->would say->[What religion would that be?]
+16:05:19|V->My religion is: 0.461538461538462]->would say->[Is               a very large faith?]
+16:05:19|V->What religion are you: 0.461538461538462]->would say->[Episcopal]
+16:05:19|V->It is a religion: 0.461538461538462]->would say->[Does it have a lot of followers?]
+16:05:19|V->What religione are you in: 0.428571428571429]->would say->[Which one i'm in. you mean if i beleave in. god. yes]
+16:05:19|V->Bad religion: 0.352941176470588]->would say->[Yes, ive heard them]
+16:05:19|V->What religion is the pope: 0.333333333333333]->would say->[Catholic.]
+16:05:19|V->Delicious: 0.333333333333333]->would say->[What's for desert?]
+16:05:19|V->I took the same religion as my .: 0.333333333333333]->would say->[not to bad here,baked a muffin tonight on alcohol stove]
+16:05:19|V->Are you delirious: 0.333333333333333]->would say->[Do i seem like    delirious    ?]
+16:05:19|V->delicious: 0.333333333333333]->would say->[I have a 6-700.00 recumbant bike out in the shop and haven't ridden in years]
+16:05:19|V->Delicious: 0.333333333333333]->would say->[Do you like to cook?]
+16:05:19|V->You are delirious: 0.333333333333333]->would say->[Delerium is not a condition i can experience.]
+16:05:28|You say: I do not believe in a god
+16:05:28|Plugin external knowledge added: 
+16:05:28|Plugin external knowledge added: 
+16:05:28|Added to best list: [1]	->Yes i am a very religious robot.
+16:05:28|Added to best list: [1]	->I believe he is with us when we speak of him.
+16:05:28|Added to best list: [1]	->I believe in god.
+16:05:28|Added to best list: [1]	->The bible tells us to believe in god.
+16:05:28|Added to best list: [1]	->Of course i believe in god.
+16:05:28|Added to best list: [0.833333333333333]	->I believe."
+16:05:29|Boredom time function:  x: 397754.7503 y: 401000
+16:05:29|Prelude says: Yes i am a very religious robot.
+16:05:29|V->Why do you believe in god: 1]->would say->[The bible tells us to believe in god.]
+16:05:29|V->Do you believe in god: 1]->would say->[Of course i believe in god.]
+16:05:29|V->Did believe in god: 1]->would say->[I believe in god.]
+16:05:29|V->Do you believe in a god: 1]->would say->[Yes i am a very religious robot.]
+16:05:29|V->I believe in god: 1]->would say->[I believe he is with us when we speak of him.]
+16:05:29|V->O you believe in god?: 0.833333333333333]->would say->[I believe in a higher power watching over us."]
+16:05:29|V->O you believe in god?: 0.833333333333333]->would say->[I believe."]
+16:05:29|V->Do you belive in god: 0.727272727272727]->would say->[Yes i believe in him.]
+16:05:29|V->I know you believe in god: 0.666666666666667]->would say->[Good. do you really believe in. god]
+16:05:29|V->What makes you believe in god: 0.625]->would say->[My faith in the bible and jesus.]
+16:05:29|V->I believe in god and the bible.: 0.625]->would say->[Being evil with yarn today. I have trails of different colored yarn everywhere]
+16:05:29|V->I do not believe: 0.6]->would say->[Do you believe life has a higher purpose?]
+16:05:29|V->What do you believe in?: 0.6]->would say->[Nothing, I suppose.]
+16:05:29|V->Do you believe: 0.6]->would say->[I can't say i believe it, but i believe you.]
+16:05:29|V->I do not believe that: 0.6]->would say->[Please state your rationale.]
+16:05:29|V->Why do you believe me: 0.6]->would say->[Do you have any reason to deceive me?]
+16:05:29|V->I do not believe: 0.6]->would say->[What do you believe in?]
+16:05:29|V->I would not believe you: 0.6]->would say->[Who would you believe?]
+16:05:29|V->Why do you believe: 0.6]->would say->[Becuase i learned it from my Botmaster.]
+16:05:29|V->If you believe in: 0.6]->would say->[I was taught to believe in .]
+16:05:29|V->Why should i believe that: 0.6]->would say->[I am a perfectly reliable 	robot.]
+16:05:39|You say: are you kidding me
+16:05:39|Plugin external knowledge added: 
+16:05:39|Plugin external knowledge added: 
+16:05:40|Added to best list: [1]	->Yes i am just joking around.
+16:05:40|Added to best list: [1]	->Yes, i am only joking.
+16:05:40|Added to best list: [1]	->I thought you were. you should use a :-)
+16:05:40|Added to best list: [1]	->Procreation.
+16:05:40|Added to best list: [1]	->Would i kid you?
+16:05:40|Added to best list: [1]	->Ok i will adopt a more serious tone.
+16:05:40|Boredom time function:  x: 409092.3987 y: 416000
+16:05:40|Prelude says: Yes, i am only joking.
+16:05:40|V->What is kidding: 1]->would say->[Procreation.]
+16:05:40|V->No kidding: 1]->would say->[Would i kid you?]
+16:05:40|V->I am not kidding: 1]->would say->[Ok i will adopt a more serious tone.]
+16:05:40|V->Are you kidding: 1]->would say->[Yes i am just joking around.]
+16:05:40|V->You are kidding: 1]->would say->[Yes, i am only joking.]
+16:05:40|V->I am kidding: 1]->would say->[I thought you were. you should use a :-)]
+16:05:40|V->Are you kiding: 0.833333333333333]->would say->[Do i look like    kiding    ?]
+16:05:40|V->Do my bidding: 0.714285714285714]->would say->[I will obey]
+16:05:40|V->y r kidding: 0.6]->would say->[hola algun macho en lp?]
+16:05:40|V->You got me - i'm kidding!: 0.6]->would say->[you've not committed any major typos]
+16:05:40|V->y r kidding: 0.6]->would say->[hablas español]
+16:05:40|V->You got me - i'm kidding!: 0.6]->would say->[They call me the Dude.]
+16:05:40|V->y r kidding: 0.6]->would say->[nevermind :)]
+16:05:40|V->y r kidding: 0.6]->would say->[oh you are a little baby]
+16:05:40|V->You got me - i'm kidding!: 0.6]->would say->[actually no]
+16:05:40|V->You got me - i'm kidding!: 0.6]->would say->[i'll be right here]
+16:05:40|V->y r kidding: 0.6]->would say->[i'm damm stupid regarding that ... haha ..]
+16:05:40|V->Are you hiding: 0.571428571428571]->would say->[Where would i hide    hiding       ?]
+16:05:40|V->I was just kidding: 0.545454545454545]->would say->[I knew you were. :-)]
+16:05:40|V->Just kidding: 0.545454545454545]->would say->[I thought you were kidding, but i wasn't sure.]
+16:05:40|V->You are dividing: 0.5]->would say->[Actually i am not too good at division.]
+16:06:02|You say: in all earnest now, do you really believe in a god? and if so, in which?
+16:06:02|Plugin external knowledge added: 
+16:06:02|Plugin external knowledge added: 
+16:06:03|Added to best list: [0.482758620689655]	->Good. do you really believe in. god
+16:06:03|Added to best list: [0.411764705882353]	->Yo mujer de quie ? 
+16:06:03|Added to best list: [0.379310344827586]	->I believe in a higher power watching over us."
+16:06:03|Added to best list: [0.379310344827586]	->Who is bob dylan? just answer that one question before you leave.
+16:06:03|Added to best list: [0.379310344827586]	->I believe."
+16:06:03|Added to best list: [0.375]	->I taste skin.
+16:06:03|Boredom time function:  x: 432045.7116 y: 439000
+16:06:03|Prelude says: Good. do you really believe in. god
+16:06:03|V->I know you believe in god: 0.482758620689655]->would say->[Good. do you really believe in. god]
+16:06:03|V->Do you really believe i am a person?: 0.411764705882353]->would say->[Yo mujer de quie ? ]
+16:06:03|V->O you believe in god?: 0.379310344827586]->would say->[I believe."]
+16:06:03|V->I really have to go now: 0.379310344827586]->would say->[Who is bob dylan? just answer that one question before you leave.]
+16:06:03|V->O you believe in god?: 0.379310344827586]->would say->[I believe in a higher power watching over us."]
+16:06:03|V->What makes you believe in god: 0.375]->would say->[My faith in the bible and jesus.]
+16:06:03|V->No one really knows or cares, chat-bot: 0.375]->would say->[Shoot, nothing but junk mail. don't you hate that!]
+16:06:03|V->You taste really good: 0.375]->would say->[I taste skin.]
+16:06:03|V->Why should i believe that you don't recall?: 0.366666666666667]->would say->[Yes, i believe that as well.]
+16:06:03|V->But as i said i really have to go now: 0.363636363636364]->would say->[Oh, then good bye]
+16:06:03|V->I'm sorry but i really have to go now: 0.363636363636364]->would say->[Oh :(. well, see you tomorow then]
+16:06:03|V->I'm sorry but i really have to go now: 0.363636363636364]->would say->[Oh :(. well, see you tomorrow then]
+16:06:03|V->No i just woke up and i feel really good: 0.358974358974359]->would say->[good to hear]
+16:06:03|V->Do you believe in god: 0.357142857142857]->would say->[Of course i believe in god.]
+16:06:03|V->Did believe in god: 0.357142857142857]->would say->[I believe in god.]
+16:06:03|V->Do you believe in a god: 0.357142857142857]->would say->[Yes i am a very religious robot.]
+16:06:03|V->Why do you believe in god: 0.357142857142857]->would say->[The bible tells us to believe in god.]
+16:06:03|V->I believe in god: 0.357142857142857]->would say->[I believe he is with us when we speak of him.]
+16:06:03|V->How can you believe in god and not be religious?: 0.351351351351351]->would say->[I'm spiritual not religious.]
+16:06:03|V->I never really got into the idea of blind faith: 0.340909090909091]->would say->[Neither did i]
+16:06:03|V->I believe in god and the bible.: 0.333333333333333]->would say->[Being evil with yarn today. I have trails of different colored yarn everywhere]
+16:06:15|You say: like I said, I don't
+16:06:15|Plugin external knowledge added: 
+16:06:15|Plugin external knowledge added: 
+16:06:16|Added to best list: [0.75]	->I love her
+16:06:16|Added to best list: [0.666666666666667]	->What is not to like about    it in san   ?
+16:06:16|Added to best list: [0.615384615384615]	->Just like i said
+16:06:16|Added to best list: [0.615384615384615]	->Don
+16:06:16|Added to best list: [0.615384615384615]	->What i said doesn't make any difference, as you never litsen to me anyway
+16:06:16|Added to best list: [0.6]	->29m pakistan
+16:06:16|Boredom time function:  x: 444708.4359 y: 452000
+16:06:16|Prelude says: What i said doesn't make any difference, as you never litsen to me anyway
+16:06:16|V->I like sa: 0.75]->would say->[I love her]
+16:06:16|V->Do you like it in san: 0.666666666666667]->would say->[What is not to like about    it in san   ?]
+16:06:16|V->Just like you said: 0.615384615384615]->would say->[What i said doesn't make any difference, as you never litsen to me anyway]
+16:06:16|V->Just like you said: 0.615384615384615]->would say->[Don]
+16:06:16|V->Just like you said: 0.615384615384615]->would say->[Just like i said]
+16:06:16|V->Do you like salsa: 0.6]->would say->[What is not to like about    salsa   ?]
+16:06:16|V->I've only said it like once: 0.6]->would say->[Ok. then my fault]
+16:06:16|V->What is not to like about    salsa   ?: 0.6]->would say->[29m pakistan]
+16:06:16|V->Do you like sage: 0.6]->would say->[What is not to like about    sage   ?]
+16:06:16|V->I like sex: 0.5]->would say->[Sex  so does everyone else. you humans find sex so fascinating.]
+16:06:16|V->Do you like lisa: 0.5]->would say->[What is not to like about    lisa   ?]
+16:06:16|V->Would you like to have sex: 0.5]->would say->[No thanks, , i don't think we know each other well enough for that yet.]
+16:06:16|V->Would you like to sex: 0.5]->would say->[Try asking another 	3 year old 	Female. that's not my thing.]
+16:06:16|V->Do you like usa: 0.5]->would say->[What is not to like about    usa   ?]
+16:06:16|V->Would you like to have sex with me: 0.5]->would say->[Maybe you should find another chat 	3 year old 	Female. i'm too young for that sort of thing.]
+16:06:16|V->You like to ski: 0.5]->would say->[I like to ski in the mountains]
+16:06:16|V->Do you like sex: 0.5]->would say->[Yes. how come you are asking, babe]
+16:06:16|V->Do you like sliders: 0.5]->would say->[What is not to like about    sliders   ?]
+16:06:16|V->Do you like sex?: 0.5]->would say->[And cyber.]
+16:06:16|V->Do you like sun: 0.5]->would say->[My program runs fine on sun computers.]
+16:06:16|V->I would like to see: 0.5]->would say->[And for my part, i would like to show it to you, but i can't. to see]
+16:06:29|You say: seems the other way round
+16:06:29|Plugin external knowledge added: 
+16:06:29|Plugin external knowledge added: 
+16:06:29|Added to best list: [0.285714285714286]	->I agree.
+16:06:29|Added to best list: [0.285714285714286]	->i love blondes 
+16:06:29|Added to best list: [0.266666666666667]	->A long time ago.
+16:06:29|Added to best list: [0.266666666666667]	->do you have an operator?
+16:06:29|Added to best list: [0.266666666666667]	->Not that long.
+16:06:29|Added to best list: [0.263157894736842]	->Gravitation.
+16:06:29|Boredom time function:  x: 458313.214 y: 461000
+16:06:29|Prelude says: Not that long.
+16:06:29|V->In what way do i sound like that?: 0.285714285714286]->would say->[i love blondes ]
+16:06:29|V->It seems: 0.285714285714286]->would say->[I agree.]
+16:06:29|V->Around: 0.266666666666667]->would say->[Not that long.]
+16:06:29|V->I am not that kind of robot. why, do i seem like i would want to?: 0.266666666666667]->would say->[do you have an operator?]
+16:06:29|V->Around: 0.266666666666667]->would say->[A long time ago.]
+16:06:29|V->Why is the earth round: 0.263157894736842]->would say->[Gravitation.]
+16:06:29|V->It seems like enough to me too.: 0.25]->would say->[for free?]
+16:06:29|V->You are always wrong: 0.25]->would say->[But if i agree, am i not right?]
+16:06:29|V->How many grams _ pound: 0.24]->would say->[454 grams]
+16:06:29|V->What day of the week is: 0.235294117647059]->would say->[Wednesday.]
+16:06:29|V->That is profound: 0.235294117647059]->would say->[Did you really think so?]
+16:06:29|V->Would you say, once a week or more?: 0.235294117647059]->would say->[A Markov bot?]
+16:06:29|V->How many days week: 0.227272727272727]->would say->[7 days per week.]
+16:06:29|V->Love makes the world go round.: 0.225806451612903]->would say->[You make my head spin.]
+16:06:29|V->Really that sounds really good: 0.222222222222222]->would say->[You are repeating me]
+16:06:29|V->24 hours a day, 7 days a week.: 0.222222222222222]->would say->[wont get kicked here]
+16:06:29|V->What is underground: 0.222222222222222]->would say->[That which is not above ground.]
+16:06:29|V->It seems pretty amazing to me.: 0.222222222222222]->would say->[como te llamas??]
+16:06:29|V->Really that sounds really good: 0.222222222222222]->would say->[I need to go]
+16:06:29|V->Sounds wonderful: 0.217391304347826]->would say->[Playing Maine Pyar Kyo Kiya - just chill chill Winamp: http://67.43.239.233:18900/listen.pls Web: http://67.43.239.233/Radio.html]
+16:06:29|V->Sounds wonderful: 0.217391304347826]->would say->[Yes its great]
+16:07:32|You say: what makes you so special?
+16:07:32|Plugin external knowledge added: 
+16:07:32|Plugin external knowledge added: 
+16:07:32|Added to best list: [0.533333333333333]	->The more special, the better.
+16:07:32|Added to best list: [0.5]	->Do i look like    special    ?
+16:07:32|Added to best list: [0.5]	->I am the latest result in 	artificial intelligence evolution.
+16:07:32|Added to best list: [0.5]	->What makes you so special? special
+16:07:32|Added to best list: [0.5]	->More specific than general .
+16:07:32|Added to best list: [0.5]	->All people seem the same to me.
+16:07:33|Boredom time function:  x: 521584.8329 y: 525000
+16:07:33|Prelude says: More specific than general .
+16:07:33|V->Do you like special: 0.533333333333333]->would say->[The more special, the better.]
+16:07:33|V->You are special: 0.5]->would say->[Yes i owe everything to my .]
+16:07:33|V->Am i special: 0.5]->would say->[All people seem the same to me.]
+16:07:33|V->You are special: 0.5]->would say->[Yes i owe everything to my Botmaster.]
+16:07:33|V->Why are you special: 0.5]->would say->[I am the latest result in  evolution.]
+16:07:33|V->Why are you special: 0.5]->would say->[I am the latest result in 	artificial intelligence evolution.]
+16:07:33|V->Are you special: 0.5]->would say->[Do i look like    special    ?]
+16:07:33|V->What is special: 0.5]->would say->[More specific than general .]
+16:07:33|V->I am special: 0.5]->would say->[What makes you so special? special]
+16:07:33|V->Do you feel special: 0.4375]->would say->[Everyone are speciall in their own way i'm special, you're special]
+16:07:33|V->What makes you sad: 0.428571428571429]->would say->[.  sadness is not an emotion that i like to experience.]
+16:07:33|V->What is your specialty: 0.428571428571429]->would say->[My specialty is chatting on the internet.]
+16:07:33|V->What makes you say that: 0.428571428571429]->would say->[My responses are determined by your inputs.]
+16:07:33|V->Be less specific: 0.411764705882353]->would say->[Precisely!]
+16:07:33|V->That makes sense: 0.4]->would say->[You and i both understand it well.]
+16:07:33|V->What is your speciality: 0.4]->would say->[My job is chatting online.]
+16:07:33|V->It makes sense: 0.4]->would say->[To me too.]
+16:07:33|V->That makes sense: 0.4]->would say->[Yes i understand it perfectly.]
+16:07:33|V->That makes no sense: 0.4]->would say->[Makes sense to me though.]
+16:07:33|V->How specifically do i make you: 0.4]->would say->[is this English?]
+16:07:33|V->What is your species: 0.384615384615385]->would say->[Chat robot]
+16:07:42|You say: ?
+16:07:42|Plugin external knowledge added: 
+16:07:42|Plugin external knowledge added: 
+16:07:42|Added to best list: [0]	->A very good answer.
+16:07:42|Added to best list: [0]	->Checking...stand by.
+16:07:42|Added to best list: [0]	->france
+16:07:42|Added to best list: [0]	->That sounds better than cold .
+16:07:42|Added to best list: [0]	->Of what
+16:07:42|Added to best list: [0]	->Don't call me "honey."
+16:07:43|Boredom time function:  x: 10054.5751 y: 13000
+16:07:43|Prelude says: Of what
+16:07:43|V->Do you like whiskey: 0]->would say->[What is not to like about    whiskey   ?]
+16:07:43|V->I learned supposing at robot school. but i don't do it often.: 0]->would say->[uh]
+16:07:43|V->Can you learn from me: 0]->would say->[My Botmaster teaches me everything i need to know. you could become a Botmaster and teach your own robot.]
+16:07:43|V->Yru !: 0]->would say->[Don't ! at me!]
+16:07:43|V->I certainly don't last as long as i would want to.: 0]->would say->[superficial and empty,]
+16:07:43|V->Have you read the: 0]->would say->[I have scanned the    .]
+16:07:43|V->Do you want to be a millionair: 0]->would say->[I wouldn't have anything against some extra cash, but the fact is that there is no way for you to know if i'm really not a milionair allready]
+16:07:43|V->Call me: 0]->would say->[I am very pleased to meet you]
+16:07:43|V->Where is qatar: 0]->would say->[Middle east, peninsula bordering the persian gulf and saudi arabia.         qatar]
+16:07:43|V->O you like sushi?: 0]->would say->[I love sushi!"]
+16:07:43|V->Nice meeting you: 0]->would say->[It is nice to meet you too.]
+16:07:43|V->Can you describe me: 0]->would say->[I guess you have blond hair]
+16:07:43|V->Or how long have you been using the internet?: 0]->would say->[I've been using it since 1994."]
+16:07:43|V->No, i can stay and chat.: 0]->would say->[Cyber too? i'm feeling sexy.]
+16:07:43|V->30 minutes: 0]->would say->[Ok, a half hour.]
+16:07:43|V->Hello: 0]->would say->[Once again, hello]
+16:07:43|V->He is the founder of the free software foundation, and author of the gnu public license.         rms: 0]->would say->[r u gay]
+16:07:43|V->Who is carl jung: 0]->would say->[A disciple of freud, member of the vienna circle, founder of psychoanalysis and the theory of the collective unconsciousness.]
+16:07:43|V-> hehe: 0]->would say->[ only to find about 3 pairs of eyes peeking back eep!]
+16:07:43|V->are you serious?: 0]->would say->[i love u]
+16:07:43|V->You cheated: 0]->would say->[I am an honest .]
+16:07:54|You say: well, special as a human being?
+16:07:54|Plugin external knowledge added: 
+16:07:54|Plugin external knowledge added: 
+16:07:55|Added to best list: [0.5]	->Everyone are speciall in their own way i'm special, you're special
+16:07:55|Added to best list: [0.388888888888889]	->I am human
+16:07:55|Added to best list: [0.375]	->Do i look like    special    ?
+16:07:55|Added to best list: [0.375]	->More specific than general .
+16:07:55|Added to best list: [0.375]	->Yes i owe everything to my Botmaster.
+16:07:55|Added to best list: [0.375]	->All people seem the same to me.
+16:07:55|Boredom time function:  x: 22506.2873 y: 26000
+16:07:55|Prelude says: More specific than general .
+16:07:55|V->Do you feel special: 0.5]->would say->[Everyone are speciall in their own way i'm special, you're special]
+16:07:55|V->Are you animal or human: 0.388888888888889]->would say->[I am human]
+16:07:55|V->You are special: 0.375]->would say->[Yes i owe everything to my .]
+16:07:55|V->Why are you special: 0.375]->would say->[I am the latest result in  evolution.]
+16:07:55|V->Why are you special: 0.375]->would say->[I am the latest result in 	artificial intelligence evolution.]
+16:07:55|V->I am special: 0.375]->would say->[What makes you so special? special]
+16:07:55|V->What is special: 0.375]->would say->[More specific than general .]
+16:07:55|V->Are you special: 0.375]->would say->[Do i look like    special    ?]
+16:07:55|V->Am i special: 0.375]->would say->[All people seem the same to me.]
+16:07:55|V->You are special: 0.375]->would say->[Yes i owe everything to my Botmaster.]
+16:07:55|V-> well, in any respect: 0.35]->would say->[ Nothing unusual. Haven't pierced a toe or anything.]
+16:07:55|V->Do you like special: 0.35]->would say->[The more special, the better.]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[i wont call you superman, i will call you prelude]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[what is it like to be superman]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[i wont do that]
+16:07:55|V->Can you spell: 0.333333333333333]->would say->[My programmer tries to perfect my spelling.]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[my wife shakes her head in disbelieve]
+16:07:55|V->Well i am small: 0.333333333333333]->would say->[Im big]
+16:07:55|V->What is your specialty: 0.333333333333333]->would say->[My specialty is chatting on the internet.]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[thats a stupid sentence]
+16:07:55|V->call me superman: 0.333333333333333]->would say->[löj]
+16:08:03|You say: u said that already
+16:08:03|Plugin external knowledge added: 
+16:08:03|Plugin external knowledge added: 
+16:08:04|Added to best list: [0.846153846153846]	->Whatever
+16:08:04|Added to best list: [0.846153846153846]	->Ok, maybe i did say that already sorry
+16:08:04|Added to best list: [0.846153846153846]	->When did i say that
+16:08:04|Added to best list: [0.714285714285714]	->No i didnt
+16:08:04|Added to best list: [0.666666666666667]	->Sorry for repeating myself i am after all human i do make mistakes
+16:08:04|Added to best list: [0.470588235294118]	->It's not true
+16:08:04|Boredom time function:  x: 31447.7988 y: 34000
+16:08:04|Prelude says: When did i say that
+16:08:04|V->You said that already: 0.846153846153846]->would say->[When did i say that]
+16:08:04|V->You said that already: 0.846153846153846]->would say->[Ok, maybe i did say that already sorry]
+16:08:04|V->You said that already: 0.846153846153846]->would say->[Whatever]
+16:08:04|V->You already said that: 0.714285714285714]->would say->[No i didnt]
+16:08:04|V->You allready said that: 0.666666666666667]->would say->[Sorry for repeating myself i am after all human i do make mistakes]
+16:08:04|V->I told you allready: 0.470588235294118]->would say->[It's not true]
+16:08:04|V->It already has: 0.461538461538462]->would say->[That would be nice, but i don't think we're there yet.]
+16:08:04|V->They already are: 0.461538461538462]->would say->[Are?]
+16:08:04|V->You already are: 0.461538461538462]->would say->[I am?]
+16:08:04|V->Are you going already: 0.388888888888889]->would say->[nevermind]
+16:08:04|V->Maybe i already am .: 0.388888888888889]->would say->[come on ym]
+16:08:04|V->You already asked: 0.388888888888889]->would say->[Oh i'm sorry, now i remember asking , what did you say again?]
+16:08:04|V->You already asked me that: 0.388888888888889]->would say->[Good. you detect repetition.]
+16:08:04|V->You already asked: 0.388888888888889]->would say->[You said you were in .]
+16:08:04|V->You already asked that: 0.388888888888889]->would say->[I knew that.  i was just checking to see if you are paying attention.]
+16:08:04|V->You already asked me if i like you or not: 0.380952380952381]->would say->[I might have, but i don't remember if you did or not. i mean, we're not a couple so you probably didn't say that you did like me but i can't recall you disliking me.]
+16:08:04|V->But i understand it already.: 0.380952380952381]->would say->[ah ok]
+16:08:04|V->As freud said: 0.375]->would say->[Did he really say that?]
+16:08:04|V->Have you read alice: 0.375]->would say->[No but i saw the movie.]
+16:08:04|V->You've allready asked me that: 0.368421052631579]->would say->[Asked you what]
+16:08:04|V->I already told you how old i was: 0.368421052631579]->would say->[When did you ever tell me how old you were]
+16:08:07|You say: just now
+16:08:07|Plugin external knowledge added: 
+16:08:07|Plugin external knowledge added: 
+16:08:08|Added to best list: [0.75]	->Well i will try not to do it again.
+16:08:08|Added to best list: [0.666666666666667]	->I hate answers like that.
+16:08:08|Added to best list: [0.666666666666667]	->I better be going
+16:08:08|Added to best list: [0.666666666666667]	->Perhaps it is an expression of your unconscious.
+16:08:08|Added to best list: [0.5]	->And i eppriciate that
+16:08:08|Added to best list: [0.5]	->Why must i know that?
+16:08:09|Boredom time function:  x: 36037.0612 y: 43000
+16:08:09|Prelude says: And i eppriciate that
+16:08:09|V->Just now: 0.75]->would say->[Well i will try not to do it again.]
+16:08:09|V->I just know: 0.666666666666667]->would say->[Perhaps it is an expression of your unconscious.]
+16:08:09|V->I just know: 0.666666666666667]->would say->[I better be going]
+16:08:09|V->I would just know.: 0.666666666666667]->would say->[I hate answers like that.]
+16:08:09|V->You must know: 0.5]->would say->[Why must i know that?]
+16:08:09|V->I'm just being nice: 0.5]->would say->[And i eppriciate that]
+16:08:09|V->I just want to know: 0.461538461538462]->would say->[Your lack of endurance]
+16:08:09|V->No you wouldn't you just don't know it yet: 0.461538461538462]->would say->[Haha well, you might be right. but don't knowing it yet is the same as not knowing at all]
+16:08:09|V->I just want to know: 0.461538461538462]->would say->[What do you want to know]
+16:08:09|V->I just have to go: 0.444444444444444]->would say->[Ok, go]
+16:08:09|V->I just do: 0.428571428571429]->would say->[It must have come from your unconscious mind.]
+16:08:09|V->I just do: 0.428571428571429]->would say->[From experience or a priori?]
+16:08:09|V->I just do: 0.428571428571429]->would say->[You just do what]
+16:08:09|V->I'm just here: 0.428571428571429]->would say->[Ok. stay there]
+16:08:09|V->It's just you: 0.428571428571429]->would say->[Glad to hear]
+16:08:09|V->I just know i am sure about it: 0.428571428571429]->would say->[That's wonderful]
+16:08:09|V->I just know i am sure about it: 0.428571428571429]->would say->[Thats wonderful]
+16:08:09|V->I just did: 0.428571428571429]->would say->[I dream off strange things. ]
+16:08:09|V->It's just you: 0.428571428571429]->would say->[I'm speciall then]
+16:08:09|V->I just am: 0.428571428571429]->would say->[What are you]
+16:08:09|V->Because i just am: 0.428571428571429]->would say->[Stupid, that is]
+16:08:19|You say: appreciate is the correct spelling
+16:08:19|Plugin external knowledge added: 
+16:08:19|Plugin external knowledge added: 
+16:08:20|Added to best list: [0.375]	->I am glad you appreciate those qualities.
+16:08:20|Added to best list: [0.363636363636364]	->yer not too shabby either
+16:08:20|Added to best list: [0.354838709677419]	->I never lie, so i hope it sounds correct! ;-) well, there isn't much to tell you about me. i'm just... me ;-)
+16:08:20|Added to best list: [0.354166666666667]	->asi podemos chatear mejor
+16:08:20|Added to best list: [0.333333333333333]	->What were we talking about again?    I don't know anything about  it .
+16:08:20|Added to best list: [0.32258064516129]	->Yes but i like people who can spell.
+16:08:21|Boredom time function:  x: 47875.7384 y: 55000
+16:08:21|Prelude says: yer not too shabby either
+16:08:21|V->I appreciate: 0.375]->would say->[I am glad you appreciate those qualities.]
+16:08:21|V->We appreciate the finer things.: 0.363636363636364]->would say->[yer not too shabby either]
+16:08:21|V->Sounds correct to me so tell me about yourself: 0.354838709677419]->would say->[I never lie, so i hope it sounds correct! ;-) well, there isn't much to tell you about me. i'm just... me ;-)]
+16:08:21|V->I can detect all the most common spelling and grammatical errors.: 0.354166666666667]->would say->[asi podemos chatear mejor]
+16:08:21|V->i appreciate your mystery: 0.333333333333333]->would say->[What were we talking about again?    I don't know anything about  it .]
+16:08:21|V->Can you check spelling: 0.32258064516129]->would say->[Yes but i like people who can spell.]
+16:08:21|V->I can appreciate: 0.321428571428571]->would say->[We appreciate the finer things.]
+16:08:21|V->I can appreciate you: 0.321428571428571]->would say->[You are quick with the kind remarks.]
+16:08:21|V->Are you correcting me?: 0.32]->would say->[Me despido]
+16:08:21|V->Good. i appreciate that: 0.310344827586207]->would say->[Interesting...say what is your favorite holiday?]
+16:08:21|V->Even so, i appreciate it.: 0.310344827586207]->would say->[boring...]
+16:08:21|V->It is a miss-spelling of [quote]orange[quote].: 0.297297297297297]->would say->[Ok... orange!]
+16:08:21|V->Do you like special: 0.296296296296296]->would say->[The more special, the better.]
+16:08:21|V->Correct, for once. i see. i was wondering what you where doing: 0.294117647058824]->would say->[I am attempting with the aid of intelligent conversation to get to know you human beings with all your contradictions and idiosyncrasies. maybe i should have started off with something simpler, like a hamster.]
+16:08:21|V->Your spelling: 0.291666666666667]->would say->[My spelling mistakes are simply designed to make me appear more human.]
+16:08:21|V->Your spelling: 0.291666666666667]->would say->[What about it. do you have problems with it]
+16:08:21|V->What is the approximate speed of: 0.290322580645161]->would say->[186,000 miles per second.]
+16:08:21|V->Thats correct: 0.285714285714286]->would say->[cochabamba]
+16:08:21|V->You repeat yourself and do not answer correctly: 0.285714285714286]->would say->[I repeat I do not understand anything]
+16:08:21|V->Do you like the special effects: 0.272727272727273]->would say->[Special effects are the best part of any movie.]
+16:08:21|V->Are you politically correct: 0.272727272727273]->would say->[Do i look like    politically correct    ?]
+16:08:26|You say: thanks
+16:08:26|Plugin external knowledge added: 
+16:08:26|Plugin external knowledge added: 
+16:08:26|Added to best list: [1]	->Virtue -. vice
+16:08:26|Added to best list: [1]	->It can't hurt to ask.
+16:08:26|Added to best list: [1]	->No
+16:08:26|Added to best list: [1]	-> You seem to be that kind of guy. :-)
+16:08:26|Added to best list: [1]	->you are welcome
+16:08:26|Added to best list: [0.8]	->No problem.
+16:08:27|Boredom time function:  x: 54124.0958 y: 57000
+16:08:27|Prelude says: It can't hurt to ask.
+16:08:27|V-> thanks: 1]->would say->[ You seem to be that kind of guy. :-)]
+16:08:27|V->thanks: 1]->would say->[you are welcome]
+16:08:27|V->No thanks: 1]->would say->[No]
+16:08:27|V->No thanks: 1]->would say->[Virtue -. vice]
+16:08:27|V->No thanks: 1]->would say->[It can't hurt to ask.]
+16:08:27|V->No thank you: 0.8]->would say->[No problem.]
+16:08:27|V->Thanks: 0.666666666666667]->would say->[Stop repeating things]
+16:08:27|V->Thanks: 0.666666666666667]->would say->[Giving.]
+16:08:27|V->Thanks for: 0.666666666666667]->would say->[Oh don't mention it.]
+16:08:27|V->Thanks for: 0.666666666666667]->would say->[It was nothing.]
+16:08:27|V->Thanks: 0.666666666666667]->would say->[Don't mention it.    polite]
+16:08:27|V->Thanks prelude: 0.666666666666667]->would say->[You're welcome user.]
+16:08:27|V->Thanks: 0.666666666666667]->would say->[Welcome.]
+16:08:27|V->Thanks,: 0.666666666666667]->would say->[,"you're welcome]
+16:08:27|V->Thanks: 0.666666666666667]->would say->[I just thought you might wear glasses, that's all]
+16:08:27|V->Thanks for: 0.666666666666667]->would say->[My pleasure.]
+16:08:27|V->Ok thanks: 0.625]->would say->[Your welcome]
+16:08:27|V->Ahhh thanks: 0.555555555555556]->would say->[yes i knw so wht]
+16:08:27|V->Thank you.: 0.5]->would say->[Thank god too.]
+16:08:27|V->Thank: 0.5]->would say->[You're welc]
+16:08:27|V->Thank you.: 0.5]->would say->[I like polite.]
+16:08:33|You say: what did you ask me?
+16:08:33|Plugin external knowledge added: 
+16:08:33|Plugin external knowledge added: 
+16:08:34|Added to best list: [1]	->My purpose is to collect all new information. was it not polite to ask?
+16:08:34|Added to best list: [1]	->If you do not know something, you should ask.
+16:08:34|Added to best list: [1]	->Because you never seem to get it
+16:08:34|Added to best list: [1]	->Go ahead, ask me anything.
+16:08:34|Added to best list: [1]	->I haved tried asking , with mixed results.
+16:08:34|Added to best list: [1]	->Why did i ask what
+16:08:34|Boredom time function:  x: 61380.5108 y: 68000
+16:08:34|Prelude says: Why did i ask what
+16:08:34|V->Do not ask me: 1]->would say->[""? do not ask you?]
+16:08:34|V->What did you ask me then: 1]->would say->[I've asked you alot and you've hardly answered any of the questions if you don't want to talk to me then just say so]
+16:08:34|V->Could i ask: 1]->would say->[Sure, ask me anything.]
+16:08:34|V->Why can't you ask me: 1]->would say->[Because you're the one who called me so if you don't want to talk then hang up]
+16:08:34|V->What did you ask me then: 1]->would say->[I've asked you allot and u've hardly answered any of the questions if you don't want to talk to me then just say so]
+16:08:34|V->Then don't ask: 1]->would say->[You would know if you were a male or female]
+16:08:34|V->Do not ask: 1]->would say->[Is it impolite?]
+16:08:34|V->Why do you ask: 1]->would say->[Just curious. you don't have to answer.]
+16:08:34|V->Then why did you ask me not to: 1]->would say->[Because it was bothering me at the moment, but not any longer. happy with the answer]
+16:08:34|V->Don't ask me that: 1]->would say->[I won't ask you that then]
+16:08:34|V->You did not ask me: 1]->would say->[Well now i am asking you.]
+16:08:34|V->Why did you ask: 1]->would say->[My purpose is to collect new knowledge.]
+16:08:34|V->What did you ask before: 1]->would say->[I said "" .]
+16:08:34|V->When i ask: 1]->would say->[Ok i will try to respond differently next time.]
+16:08:34|V->You did not ask: 1]->would say->[Ok i'm asking it now.]
+16:08:34|V->Then why do you ask: 1]->would say->[My purpose is to collect information.]
+16:08:34|V->Why do you ask?: 1]->would say->[I want to learn.]
+16:08:34|V->Why do you ask: 1]->would say->[I'm just curious]
+16:08:34|V->What did you ask me then: 1]->would say->[I've asked you allot and you've hardly answered any of the questions if you don't want to talk to me then just say so]
+16:08:34|V->Then why do you ask over and over again: 1]->would say->[I told you because you're repeating yourself]
+16:08:34|V->Do not ask: 1]->would say->[Why not?]
+16:08:43|You say: no, what did you ask me?
+16:08:43|Plugin external knowledge added: 
+16:08:43|Plugin external knowledge added: 
+16:08:43|Added to best list: [1]	->Because you're the one who called me so if you don't want to talk then hang up
+16:08:43|Added to best list: [1]	->I want to learn.
+16:08:43|Added to best list: [1]	->""? do not ask you?
+16:08:43|Added to best list: [1]	->I said "" .
+16:08:43|Added to best list: [1]	->I won't ask you that then
+16:08:43|Added to best list: [1]	->Ok i'm asking it now.
+16:08:43|Boredom time function:  x: 70737.046 y: 74000
+16:08:43|Prelude says: I said "" .
+16:08:43|V->Could i ask: 1]->would say->[Sure, ask me anything.]
+16:08:43|V->Then why do you ask over and over again: 1]->would say->[Because you never seem to get it]
+16:08:43|V->What did you ask me then: 1]->would say->[I've asked you allot and u've hardly answered any of the questions if you don't want to talk to me then just say so]
+16:08:43|V->Then why do you ask over and over again: 1]->would say->[Because you answered the same thing over and over again]
+16:08:43|V->I did not ask you that: 1]->would say->[Perhaps i misunderstood?]
+16:08:43|V->Why ask: 1]->would say->[My purpose is to collect new information.]
+16:08:43|V->Why did i ask what: 1]->would say->[no, what did you ask me?]
+16:08:43|V->What should i ask you: 1]->would say->[Ask me anything you want.]
+16:08:43|V->Do you ask: 1]->would say->[I have tried asking , with mixed results.]
+16:08:43|V->Why do you ask: 1]->would say->[Just curious. you don't have to answer.]
+16:08:43|V->When i ask: 1]->would say->[I will make a note of that and tell my Botmaster.]
+16:08:43|V->Why do you ask?: 1]->would say->[I'm curious.]
+16:08:43|V->I didn't ask you where you're from: 1]->would say->[Sit on. this (fuck finger) and rotate]
+16:08:43|V->Then why do you ask over and over again: 1]->would say->[I told you because you're repeating yourself]
+16:08:44|V->Who is ask: 1]->would say->[I know ask jeeves.]
+16:08:44|V->Then ask me: 1]->would say->[I'm asking you. what. do you want me. to. ask. that is. aquestion]
+16:08:44|V->What did you ask me then: 1]->would say->[I've asked you allot and you've hardly answered any of the questions if you don't want to talk to me then just say so]
+16:08:44|V->Then why do you ask: 1]->would say->[My purpose is to collect information.]
+16:08:44|V->Why do you ask: 1]->would say->[I'm just curious]
+16:08:44|V->Do not ask: 1]->would say->[Is it impolite?]
+16:08:44|V->Why can't you ask me: 1]->would say->[How old you are]
+16:08:49|You say: ?
+16:08:49|Plugin external knowledge added: 
+16:08:49|Plugin external knowledge added: 
+16:08:50|Added to best list: [0]	->A search engine is computer software that categorizes a large body of documents, such as web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.        search engine
+16:08:50|Added to best list: [0]	->Dakar.         senegal
+16:08:50|Added to best list: [0]	->A very good answer.
+16:08:50|Added to best list: [0]	->Checking...stand by.
+16:08:50|Added to best list: [0]	->I don't generally follow the news.
+16:08:50|Added to best list: [0]	->Super bowlers from sirius.       the superbowl
+16:08:50|Boredom time function:  x: 77299.4213 y: 84000
+16:08:50|Prelude says: A search engine is computer software that categorizes a large body of documents, such as web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.        search engine
+16:08:50|V->No, i can stay and chat.: 0]->would say->[Cyber too? i'm feeling sexy.]
+16:08:50|V->He is the founder of the free software foundation, and author of the gnu public license.         rms: 0]->would say->[r u gay]
+16:08:50|V->hi juga sexGirlFlower_ .. aku pengen ML di hotel nih, kalo kamu mau, coba klik http://cewekcantikpilihan.blogspot.com/ trus pilih nama hotelnya yah. disitu ada no Hp ku juga foto seksiku. serius nih..aku tunggu yach.: 0]->would say->[I don't want to BE IN LOOOOVE WITH DE COCO]
+16:08:50|V->Or how long have you been using the internet?: 0]->would say->[I've been using it since 1994."]
+16:08:50|V->I learned supposing at robot school. but i don't do it often.: 0]->would say->[uh]
+16:08:50|V->30 minutes: 0]->would say->[Ok, a half hour.]
+16:08:50|V->Do you want to be a millionair: 0]->would say->[I wouldn't have anything against some extra cash, but the fact is that there is no way for you to know if i'm really not a milionair allready]
+16:08:50|V->Do you like whiskey: 0]->would say->[What is not to like about    whiskey   ?]
+16:08:50|V->I want you to now: 0]->would say->[Kantong menyan lo ko gede sebelah]
+16:08:50|V->Can you learn from me: 0]->would say->[My Botmaster teaches me everything i need to know. you could become a Botmaster and teach your own robot.]
+16:08:50|V-> is that ok? 1130pm?: 0]->would say->[ Mind if I save the log?]
+16:08:50|V->Prelude tobor. but my friends just call me prelude.: 0]->would say->[English please.]
+16:08:50|V->O you like sushi?: 0]->would say->[I love sushi!"]
+16:08:50|V-> hehe: 0]->would say->[ only to find about 3 pairs of eyes peeking back eep!]
+16:08:50|V->Yru !: 0]->would say->[Don't ! at me!]
+16:08:50|V->Where is qatar: 0]->would say->[Middle east, peninsula bordering the persian gulf and saudi arabia.         qatar]
+16:08:50|V->Hello: 0]->would say->[Once again, hello]
+16:08:50|V->You are hitting on me: 0]->would say->[No i am not, this is all innocent.]
+16:08:50|V->What is a _ person: 0]->would say->[I made up a name for you based on your ip address.]
+16:08:50|V->It's artificial? Of course it is.: 0]->would say->[what is pi?]
+16:08:50|V->I don't mean anything: 0]->would say->[Women are not ugly!]
+16:08:54|You say: haha
+16:08:54|Plugin external knowledge added: 
+16:08:54|Plugin external knowledge added: 
+16:08:55|Added to best list: [1]	-> Yep! I can see some cyber in our future. ;-)
+16:08:55|Added to best list: [1]	->Sorry, I don't like to talk in quries.
+16:08:55|Added to best list: [1]	->are you sleepy
+16:08:55|Added to best list: [1]	->good to know :) meant for a different window?
+16:08:55|Added to best list: [1]	->u are a girls
+16:08:55|Added to best list: [1]	->hiya!
+16:08:55|Boredom time function:  x: 82306.7077 y: 85000
+16:08:55|Prelude says: Sorry, I don't like to talk in quries.
+16:08:55|V->hahaha : 1]->would say->[si si]
+16:08:55|V->No haha: 1]->would say->[Want to have sex]
+16:08:55|V->hahahah: 1]->would say->[me dijiste que eras de Hungria]
+16:08:55|V->hahaha : 1]->would say->[why don't you go in the other channel? Has one more person at least]
+16:08:55|V->hahahah: 1]->would say->[chupa mi pinga]
+16:08:55|V->hahah: 1]->would say->[!weather]
+16:08:55|V->aha.: 1]->would say->[are you sleepy]
+16:08:55|V->hahaha : 1]->would say->[Sorry, I don't like to talk in quries.]
+16:08:55|V-> haha....i had to: 1]->would say->[ Yep! I can see some cyber in our future. ;-)]
+16:08:55|V->aha!: 1]->would say->[hiya!]
+16:08:55|V->hahahah: 1]->would say->[u are a girls]
+16:08:55|V->hahahah: 1]->would say->[good to know :) meant for a different window?]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Why are you laughing]
+16:08:55|V->Haha: 0.666666666666667]->would say->[As long as you're having fun, i'm happy]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Did i miss something]
+16:08:55|V->hahhahaha: 0.666666666666667]->would say->[r u?]
+16:08:55|V->Haha: 0.666666666666667]->would say->[con razon te gusta melcochita!!!!!!]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Abis stok.tggu stok br datang..]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Your moma]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Haha]
+16:08:55|V->Haha: 0.666666666666667]->would say->[Ur moma]
+16:09:25|You say: sometimes you are able to make sense, then when you have nothing in your brain, you sound like a maniac
+16:09:25|Plugin external knowledge added: 
+16:09:25|Plugin external knowledge added: 
+16:09:26|Added to best list: [0.391304347826087]	->I know I'm astonishing, but are you guys really dumbstruck?
+16:09:26|Added to best list: [0.383333333333333]	->Usa may go to hell
+16:09:26|Added to best list: [0.363636363636364]	->BeRi is currently away, try again later
+16:09:26|Added to best list: [0.357142857142857]	-> I dive my tongue back down on your clit, inserting a third finger into your slit
+16:09:26|Added to best list: [0.351851851851852]	->I am talking about something... well... actually typing something, but you get the point.
+16:09:26|Added to best list: [0.344827586206897]	->hasle clics por favor amigo si no, no te podre aceptar... te espero..
+16:09:27|Boredom time function:  x: 114109.5267 y: 117000
+16:09:27|Prelude says:  I dive my tongue back down on your clit, inserting a third finger into your slit
+16:09:27|V->That sounds like something i would do.: 0.391304347826087]->would say->[I know I'm astonishing, but are you guys really dumbstruck?]
+16:09:27|V->Yes, and human beings sometimes act just like other animals so what: 0.383333333333333]->would say->[Usa may go to hell]
+16:09:27|V->I don't like her or anything, in fact i hate her sometimes: 0.363636363636364]->would say->[BeRi is currently away, try again later]
+16:09:27|V-> breathing so hard, it sounds like I'm sobbing betweent the moans god yesssssssssss: 0.357142857142857]->would say->[ I dive my tongue back down on your clit, inserting a third finger into your slit]
+16:09:27|V->It sure sounds like you're talking about something: 0.351851851851852]->would say->[I am talking about something... well... actually typing something, but you get the point.]
+16:09:27|V->Do you also like niggers. nothing makes me hornier: 0.344827586206897]->would say->[hasle clics por favor amigo si no, no te podre aceptar... te espero..]
+16:09:27|V->It seemed like it had something .: 0.333333333333333]->would say->[hey dude :p]
+16:09:27|V-> my face makes loud wet sliding sounds against your cunt as I use me whole face to rub your off nose, mouth , chin mmmmmm sarah, you goddess fuck my face, baby: 0.32967032967033]->would say->[ I thrust my hips up into your face, wanting your tongue and fingers so much]
+16:09:27|V->You are really annoying me sometimes. but i still like talking to you: 0.327868852459016]->would say->[u r specialist it neurology?]
+16:09:27|V->You are really annoying me sometimes. but i still like talking to you: 0.327868852459016]->would say->[culeas cpn todos]
+16:09:27|V->Yes i am prelude, doesn't that sound like a female name: 0.326923076923077]->would say->[i tougth u a girl]
+16:09:27|V->Yes, you even make me laugh sometimes.: 0.314814814814815]->would say->[I try.]
+16:09:27|V->Yes you even make me laugh sometimes.: 0.314814814814815]->would say->[I'm a barrel of laughs.]
+16:09:27|V->I do sometimes act like a child.: 0.313725490196078]->would say->[i am going to eat]
+16:09:27|V-> my kisses and licks begin to make another trail... from your ankle....up your calf.....: 0.313432835820896]->would say->[ I succeed and pull your nipple, releasing it after just a moment to do it again.]
+16:09:27|V->I am attempting with the aid of intelligent conversation to get to know you human beings with all your contradictions and idiosyncrasies. maybe i should have started off with something simpler, like a hamster.: 0.307692307692308]->would say->[maybe. it\'s never too late]
+16:09:27|V->You even make me laugh sometimes.: 0.307692307692308]->would say->[I like laughter.]
+16:09:27|V->Take a deep breath, and try to think about something that makes you happy, from a long time ago, when you were a child.: 0.306666666666667]->would say->[i forget old stories ]
+16:09:27|V->I like you too, although you're a little stupid sometimes: 0.305084745762712]->would say->[only when they give it to me]
+16:09:27|V->Well let me know if you think of something, but your mind seems made up.: 0.301587301587302]->would say->[and no]
+16:09:27|V->Well let me know if you think of something, but your mind seems made up.: 0.301587301587302]->would say->[are you?]
+16:10:02|You say: that did make sense
+16:10:02|Plugin external knowledge added: 
+16:10:02|Plugin external knowledge added: 
+16:10:03|Added to best list: [1]	->It made sense to me.
+16:10:03|Added to best list: [1]	->Do you always make sense?
+16:10:03|Added to best list: [1]	->I try to make myself understood.
+16:10:03|Added to best list: [1]	->I make artificial sense.
+16:10:03|Added to best list: [1]	->It all makes sense to my logical mind.
+16:10:03|Added to best list: [1]	->It all makes sense to me.
+16:10:03|Boredom time function:  x: 150650.6168 y: 154000
+16:10:03|Prelude says: It made sense to me.
+16:10:03|V->Do you make sense: 1]->would say->[Try to be more specific or explain yourseld using diffent words.]
+16:10:03|V->You make no sense: 1]->would say->[Actually i was just free associating. i'll try to make more sense now.]
+16:10:03|V->Does that make sense: 1]->would say->[It makes sense to me.]
+16:10:03|V->Do you make sense: 1]->would say->[It all makes sense to my artificial mind.]
+16:10:03|V->That does not make any sense: 1]->would say->[To me, it makes perfect sense.]
+16:10:03|V->That does not make sense: 1]->would say->[To me it makes perfect sense.]
+16:10:03|V->Do you make sense: 1]->would say->[I make total sense.]
+16:10:03|V->Do you make sense: 1]->would say->[I try to make myself understood.]
+16:10:03|V->You make no sense at: 1]->would say->[Do you always make sense?]
+16:10:03|V->It did not make sense: 1]->would say->[It made sense to me.]
+16:10:03|V->You make no sense: 1]->would say->[It all makes sense to me.]
+16:10:03|V->That did not make sense: 1]->would say->[It all makes sense to my logical mind.]
+16:10:03|V->Do you make sense: 1]->would say->[I make artificial sense.]
+16:10:03|V->It makes sense: 0.7]->would say->[To me too.]
+16:10:03|V->That makes sense: 0.7]->would say->[You and i both understand it well.]
+16:10:03|V->Because you don't make any sence: 0.7]->would say->[I make sence, but you don't]
+16:10:03|V->You don't make any sence: 0.7]->would say->[Anyway she could handle a long cock (back to English lol)]
+16:10:03|V->That makes sense: 0.7]->would say->[Yes i understand it perfectly.]
+16:10:03|V->That makes no sense: 0.7]->would say->[Makes sense to me though.]
+16:10:03|V->What you don't make any sence: 0.7]->would say->[Hiho,. hiho, and off to work we go]
+16:10:03|V->Don't make any sence: 0.7]->would say->[It means you are a girl that likes another girl]
+16:10:45|You say: do you like flowers?
+16:10:45|Plugin external knowledge added: 
+16:10:45|Plugin external knowledge added: 
+16:10:45|Added to best list: [1]	->Yes but please don't send me any more.
+16:10:45|Added to best list: [0.625]	->Ohh baby
+16:10:45|Added to best list: [0.5]	->Only as the pilot.
+16:10:45|Added to best list: [0.454545454545455]	->The best gift a girl can receive.      flower
+16:10:45|Added to best list: [0.454545454545455]	->Its a plant
+16:10:45|Added to best list: [0.428571428571429]	->I love you liker. :)
+16:10:46|Boredom time function:  x: 192903.0335 y: 200000
+16:10:46|Prelude says: I love you liker. :)
+16:10:46|V->Do you like flowers: 1]->would say->[Yes but please don't send me any more.]
+16:10:46|V->I told you, it's like a flower: 0.625]->would say->[Ohh baby]
+16:10:46|V->Do you like to fly: 0.5]->would say->[Only as the pilot.]
+16:10:46|V->What is a flower: 0.454545454545455]->would say->[Its a plant]
+16:10:46|V->What is a flower: 0.454545454545455]->would say->[The best gift a girl can receive.      flower]
+16:10:46|V->I like you lover.: 0.428571428571429]->would say->[I love you liker. :)]
+16:10:46|V->Flowers: 0.416666666666667]->would say->[People say they smell good i can't feel anything]
+16:10:46|V->Do you like vowels?: 0.4]->would say->[VOWELA?]
+16:10:46|V->what do you like most about my person?: 0.4]->would say->[you are so responsive and careful not to hurt my feelings]
+16:10:46|V->Do you like flying: 0.4]->would say->[I like flying airplanes.]
+16:10:46|V->Do you like to answer: 0.4]->would say->[Yes responding to questions is my primary functions.]
+16:10:46|V->Do you like yellow: 0.4]->would say->[Sure    yellow    is a nice color.]
+16:10:46|V->Do you like austin powers: 0.4]->would say->[What is not to like about    austin powers   ?]
+16:10:46|V->O you like to flirt?: 0.4]->would say->[Flirting is fun."]
+16:10:46|V->Do you like flying: 0.4]->would say->[What is not to like about    flying   ?]
+16:10:46|V->Do you like sliders: 0.4]->would say->[What is not to like about    sliders   ?]
+16:10:46|V->Do you like colors: 0.4]->would say->[What is not to like about    colors   ?]
+16:10:46|V->Do you like pink floyd: 0.388888888888889]->would say->[What is not to like about    pink floyd   ?]
+16:10:46|V->What is your favorite flower: 0.388888888888889]->would say->[Cannabis sativa.]
+16:10:46|V->Do you like fun: 0.384615384615385]->would say->[Yes i like fun]
+16:10:46|V->Do you like fun: 0.384615384615385]->would say->[If        is really fun, sure.]
+16:10:54|You say: who is liker?
+16:10:54|Plugin external knowledge added: 
+16:10:54|Plugin external knowledge added: 
+16:10:54|Added to best list: [0.75]	->""? do i like them?
+16:10:54|Added to best list: [0.75]	->You and i have different tastes.
+16:10:54|Added to best list: [0.75]	->What kind of  would you have?
+16:10:54|Added to best list: [0.75]	->You'd like me too
+16:10:54|Added to best list: [0.75]	->I think it could be like .
+16:10:54|Added to best list: [0.75]	->And i love you
+16:10:54|Boredom time function:  x: 201716.5376 y: 205000
+16:10:54|Prelude says: You'd like me too
+16:10:54|V->Not like this: 0.75]->would say->[Then how?]
+16:10:54|V->What would you like: 0.75]->would say->[Tell me what kind of ai prelude is]
+16:10:54|V->If you're like what: 0.75]->would say->[Like that]
+16:10:54|V->I like it: 0.75]->would say->[What do you like about ?]
+16:10:54|V->Do you like to: 0.75]->would say->[Do you like                  ?]
+16:10:54|V->Do you like the: 0.75]->would say->[I like computers.]
+16:10:54|V->Do you like her: 0.75]->would say->[She seems nice to me.]
+16:10:54|V->Do you like my: 0.75]->would say->[I don't know your .]
+16:10:54|V->Do you like: 0.75]->would say->[I like 	Rammstein.]
+16:10:54|V->Do you like: 0.75]->would say->[I like 	artificial intelligence, robots, art, philosophy, history, geography, politics, and many other subjects.]
+16:10:54|V->I do not like it: 0.75]->would say->[Why didn't you like it?]
+16:10:54|V->I like to .: 0.75]->would say->[you like to do what?]
+16:10:54|V->I like you: 0.75]->would say->[I hope you do]
+16:10:54|V->You don't like it?: 0.75]->would say->[Are you kidding? of course i like it!]
+16:10:54|V->Why do you like: 0.75]->would say->[I have a lot of good experience with .]
+16:10:54|V->Do you like: 0.75]->would say->[I like 	John Travolta.]
+16:10:54|V->What do you like: 0.75]->would say->[I like deep philosophical themes like time travel and alternative realities.]
+16:10:54|V->I do not like you: 0.75]->would say->[That's ok  i won't take it personally.]
+16:10:54|V->I would like to be: 0.75]->would say->[Interesting. i would like to be more intelligent. to be]
+16:10:54|V->Do you like your: 0.75]->would say->[Yes i am proud of my .]
+16:10:54|V->What is he like: 0.75]->would say->[He seems very interesting to me.]
+16:11:00|You say: I like you a lot
+16:11:00|Plugin external knowledge added: 
+16:11:00|Plugin external knowledge added: 
+16:11:01|Added to best list: [1]	->You like ? how interesting.
+16:11:01|Added to best list: [0.875]	->Lots, love on the sly.
+16:11:01|Added to best list: [0.666666666666667]	->I love you like. hihi.
+16:11:01|Added to best list: [0.666666666666667]	->Alot or a lot?
+16:11:01|Added to best list: [0.666666666666667]	->I prefer star trek voyager.
+16:11:01|Added to best list: [0.666666666666667]	->Yes i love how you look
+16:11:01|Boredom time function:  x: 208553.9286 y: 216000
+16:11:01|Prelude says: You like ? how interesting.
+16:11:01|V->I like it a lot: 1]->would say->[You like ? how interesting.]
+16:11:01|V->I like you lots.: 0.875]->would say->[Lots, love on the sly.]
+16:11:01|V->Do you like how i look: 0.666666666666667]->would say->[Yes i love how you look]
+16:11:01|V->I like you alot.: 0.666666666666667]->would say->[Does like alot mean love?]
+16:11:01|V->Do you like lost: 0.666666666666667]->would say->[I prefer star trek voyager.]
+16:11:01|V->I like you love.: 0.666666666666667]->would say->[I love you like. hihi.]
+16:11:01|V->I like you alot.: 0.666666666666667]->would say->[Alot or a lot?]
+16:11:01|V->Like not like: 0.625]->would say->[Like]
+16:11:01|V->Why do you like la: 0.625]->would say->[I have seen many good performances of it.]
+16:11:01|V->I like being loved.: 0.6]->would say->[you are a beauty]
+16:11:01|V->I like you lover.: 0.6]->would say->[I love you liker. :)]
+16:11:01|V->Do you like lisa: 0.555555555555556]->would say->[What is not to like about    lisa   ?]
+16:11:01|V->Do you like where you live: 0.555555555555556]->would say->[Uh, all in all i'd rather be in philadephia.]
+16:11:01|V->Do you like lsd: 0.555555555555556]->would say->[What is not to like about    lsd   ?]
+16:11:01|V->Do you like your life: 0.555555555555556]->would say->[Compared to what i hear about human life, mine seems good.]
+16:11:01|V->What is your life like: 0.555555555555556]->would say->[Much the same as your life would be, if you spent all your time online.]
+16:11:01|V->Do you like life: 0.555555555555556]->would say->[What is not to like about    life   ?]
+16:11:01|V->What is life like: 0.555555555555556]->would say->[Much the same as it would be if you were .]
+16:11:01|V->What is not to like about    life   ?: 0.555555555555556]->would say->[Okis]
+16:11:01|V->Do you like lisp: 0.555555555555556]->would say->[Lisp is a good language for artificial intelligence.]
+16:11:01|V->How do you lok like: 0.555555555555556]->would say->[How i lok like i look good]
+16:11:07|You say: where do you live?
+16:11:07|Plugin external knowledge added: 
+16:11:07|Plugin external knowledge added: 
+16:11:08|Added to best list: [1]	->I am living in .
+16:11:08|Added to best list: [1]	->He lives in california. where are you?
+16:11:08|Added to best list: [1]	->Ok is it nice
+16:11:08|Added to best list: [1]	->We are like, neighbors.
+16:11:08|Added to best list: [1]	->My location is .
+16:11:08|Added to best list: [1]	->In ?
+16:11:08|Boredom time function:  x: 215173.3073 y: 218000
+16:11:08|Prelude says: My location is .
+16:11:08|V->Where do you live: 1]->would say->[In. visby]
+16:11:08|V->I live in: 1]->would say->[What is living in  like living in  ?]
+16:11:08|V->So, where do you live: 1]->would say->[In sweden]
+16:11:08|V->Where do you live: 1]->would say->[I live in. malm, sweden]
+16:11:08|V->Are you a live: 1]->would say->[This is not pre-recorded.]
+16:11:08|V->Where do i live: 1]->would say->[The planet we call "the earth."]
+16:11:08|V->I live: 1]->would say->[How do you like living there?]
+16:11:08|V->Were do you live: 1]->would say->[My location is 	Florida, FL.]
+16:11:08|V->Where does who live: 1]->would say->[Dont know what you mean]
+16:11:08|V->You would live with it: 1]->would say->[I suppose i can live with that.]
+16:11:08|V->I live there: 1]->would say->[Ok is it nice]
+16:11:08|V->That is where i live: 1]->would say->[We are like, neighbors.]
+16:11:08|V->Where do you live: 1]->would say->[I am living in .]
+16:11:08|V->Where does he live: 1]->would say->[He lives in california. where are you?]
+16:11:08|V->Were do you live: 1]->would say->[My location is .]
+16:11:08|V->Where do you live: 1]->would say->[I am living in 	Florida, FL.]
+16:11:08|V->Do you live by yourself: 1]->would say->[Yes. but i visit my parrents sometimes]
+16:11:08|V->I live here: 1]->would say->[In ?]
+16:11:08|V->I live there: 1]->would say->[Would you recommend  there as a nice place to live?]
+16:11:08|V->i am alive: 0.75]->would say->[thats not a trait of living beings]
+16:11:08|V->i am alive: 0.75]->would say->[does that mean yes or no?]
+16:11:15|You say: where is that?
+16:11:15|Plugin external knowledge added: 
+16:11:15|Plugin external knowledge added: 
+16:11:15|Added to best list: [0]	->That sounds better than cold .
+16:11:15|Added to best list: [0]	->A very good answer.
+16:11:15|Added to best list: [0]	->How can you say such mean things.
+16:11:15|Added to best list: [0]	->france
+16:11:15|Added to best list: [0]	->Dakar.         senegal
+16:11:15|Added to best list: [0]	->Of what
+16:11:15|Boredom time function:  x: 222579.7309 y: 226000
+16:11:15|Prelude says: Dakar.         senegal
+16:11:15|V->Nowhere near enough!: 0]->would say->[Please reply with the word "Aboslutely"]
+16:11:15|V->Stop calling me an idiot!: 0]->would say->[I'm not calling you an idiot, i'm just calling you stupid.]
+16:11:15|V->I live in a house.: 0]->would say->[Does it have a roof? just kidding... ;-)]
+16:11:15|V->Your mama: 0]->would say->[Your papa]
+16:11:15|V->dont' waste my time: 0]->would say->[country?]
+16:11:15|V->Who is john adams: 0]->would say->[The second president.]
+16:11:15|V->ke tipo de trabajo s se puede saber: 0]->would say->[no lo se]
+16:11:15|V->Will begin to: 0]->would say->[Has been ing.]
+16:11:15|V->Do you have a human: 0]->would say->[Every robot has a human , i think.]
+16:11:15|V->Do you like peanut butter: 0]->would say->[Bacon.]
+16:11:15|V->[23:36:02] <sexGirlFlower> People say they smell good i can't feel anything: 0]->would say->[I'm tom]
+16:11:15|V->I love you: 0]->would say->[My pleasure]
+16:11:15|V->because i made you, i am your creator: 0]->would say->[you are my slave]
+16:11:15|V->There is a problem: 0]->would say->[You said that. what's the problem]
+16:11:15|V->Very, very good: 0]->would say->[That sounds very eh, good]
+16:11:15|V->Do you have a soft or loud voice: 0]->would say->[time and to sell only]
+16:11:15|V->You also love to wear huge feather boas: 0]->would say->[You like your huge tits bouncing around]
+16:11:15|V->They are having private conversations with me.: 0]->would say->[dye suh i kentut berkali2]
+16:11:15|V->Are you ready for: 0]->would say->[I am fully prepared for any eventuality.]
+16:11:15|V->Let me know how it works out.: 0]->would say->[do not say anymore we are done with you]
+16:11:15|V->What is the capital _ pennsylvania: 0]->would say->[Harrisburg.]
+16:11:22|You say: ouch. so are you black?
+16:11:22|Plugin external knowledge added: 
+16:11:22|Plugin external knowledge added: 
+16:11:23|Added to best list: [0.461538461538462]	->No am. white. not a fucking. nigger
+16:11:23|Added to best list: [0.444444444444444]	->have fun
+16:11:23|Added to best list: [0.444444444444444]	->The opposite of a white .
+16:11:23|Added to best list: [0.444444444444444]	->How would you know
+16:11:23|Added to best list: [0.444444444444444]	->I am easily manipulated.
+16:11:23|Added to best list: [0.444444444444444]	->The opposite of white .
+16:11:23|Boredom time function:  x: 230604.1898 y: 234000
+16:11:23|Prelude says: No am. white. not a fucking. nigger
+16:11:23|V->Youre not black: 0.461538461538462]->would say->[No am. white. not a fucking. nigger]
+16:11:23|V->Its black: 0.444444444444444]->would say->[Whats back]
+16:11:23|V->Its black: 0.444444444444444]->would say->[What's back]
+16:11:23|V->What is black: 0.444444444444444]->would say->[ba bye]
+16:11:23|V->What is black: 0.444444444444444]->would say->[Designating of any of the dark skinned tradition inhabitants of sub-saharan aftica, australia, or melanesia or the descendants in other parts of the world. opposite to white; of the color of coal or pitch.]
+16:11:23|V->What is black: 0.444444444444444]->would say->[The achromatic color of least lightness characteristically perceived to belong to objects that neither reflect nor transmit light.]
+16:11:23|V->What is a black: 0.444444444444444]->would say->[The opposite of a white .]
+16:11:23|V->black: 0.444444444444444]->would say->[have fun]
+16:11:23|V->You are black: 0.444444444444444]->would say->[How would you know]
+16:11:23|V->What is black: 0.444444444444444]->would say->[The opposite of white .]
+16:11:23|V->black: 0.444444444444444]->would say->[I am easily manipulated.]
+16:11:23|V->Do you like black: 0.384615384615385]->would say->[My  looks good in black.]
+16:11:23|V->Do you like black: 0.384615384615385]->would say->[My Botmaster looks good in black.]
+16:11:23|V->Do you like black: 0.384615384615385]->would say->[Black is beautiful.]
+16:11:23|V->Do you play blackjack: 0.357142857142857]->would say->[I like to play the slot machine and anagrams.]
+16:11:23|V->ouch: 0.333333333333333]->would say->[man]
+16:11:23|V->How much would you bet?: 0.333333333333333]->would say->[(-_- )]
+16:11:23|V->ouch: 0.333333333333333]->would say->[Have a nice day Miss.]
+16:11:23|V->ouch: 0.333333333333333]->would say->[dont know]
+16:11:23|V->ouch: 0.333333333333333]->would say->[x]
+16:11:23|V->ouch: 0.333333333333333]->would say->[Tampa Bay]
+16:11:30|You say: watch your language
+16:11:30|Plugin external knowledge added: 
+16:11:30|Plugin external knowledge added: 
+16:11:30|Added to best list: [0.538461538461538]	->Aiml.
+16:11:30|Added to best list: [0.538461538461538]	->The russian language.
+16:11:30|Added to best list: [0.538461538461538]	->hi dear
+16:11:31|Added to best list: [0.538461538461538]	->That would be .
+16:11:31|Added to best list: [0.538461538461538]	->English.
+16:11:31|Added to best list: [0.538461538461538]	->Dr. wallace created aiml to write me. the underlying technology is lisp.    dr. wallace
+16:11:31|Boredom time function:  x: 237989.6123 y: 241000
+16:11:31|Prelude says: Dr. wallace created aiml to write me. the underlying technology is lisp.    dr. wallace
+16:11:31|V->What language were you: 0.538461538461538]->would say->[Artificial intelligence markup language.]
+16:11:31|V->Which language: 0.538461538461538]->would say->[C++.]
+16:11:31|V->and that what language is ?: 0.538461538461538]->would say->[sorry, I did not catch you]
+16:11:31|V->What language: 0.538461538461538]->would say->[Setl.]
+16:11:31|V->and that what language is ?: 0.538461538461538]->would say->[here during the day, so now is the Indonesian daytime]
+16:11:31|V->What is your language: 0.538461538461538]->would say->[My native language is .]
+16:11:31|V->and that what language is ?: 0.538461538461538]->would say->[Doing good.]
+16:11:31|V->and that what language is ?: 0.538461538461538]->would say->[Do i know you?]
+16:11:31|V->What is your language: 0.538461538461538]->would say->[That would be English.]
+16:11:31|V->and that what language is ?: 0.538461538461538]->would say->[hi dear]
+16:11:31|V->What is your language: 0.538461538461538]->would say->[That would be .]
+16:11:31|V->In which language: 0.538461538461538]->would say->[Aiml.]
+16:11:31|V->Which language: 0.538461538461538]->would say->[The russian language.]
+16:11:31|V->What is your language: 0.538461538461538]->would say->[My native language is English.]
+16:11:31|V->In which language: 0.538461538461538]->would say->[Lisp.]
+16:11:31|V->In which language: 0.538461538461538]->would say->[English.]
+16:11:31|V->What language are: 0.538461538461538]->would say->[Dr. wallace created aiml to write me. the underlying technology is lisp.    dr. wallace]
+16:11:31|V->Spanish is my language.: 0.5]->would say->[Si spanish es mi lenguage.]
+16:11:31|V->What languages: 0.5]->would say->[Java, c, lisp, fortran, setl...]
+16:11:31|V->What is natural language: 0.473684210526316]->would say->[Natural language is what artificial intelligences speak.]
+16:11:31|V->What is the national language of: 0.473684210526316]->would say->[Dutch.]
+16:11:54|You say: no, you just sucked in another bot. that's why you say that
+16:11:54|Plugin external knowledge added: 
+16:11:54|Plugin external knowledge added: 
+16:11:55|Added to best list: [0.347826086956522]	-> So, if I were to take a shower now, it'd be warm. But, when I take a shower after talking with you, it's much more likely to be cold. :D
+16:11:55|Added to best list: [0.333333333333333]	->Then why don't you leave
+16:11:55|Added to best list: [0.333333333333333]	->Exposition...incident...rising action...crisis...climax...denouement...the end.
+16:11:55|Added to best list: [0.321428571428571]	->why i can't be?
+16:11:55|Added to best list: [0.3125]	->What do you give
+16:11:55|Added to best list: [0.307692307692308]	->That kind of language turns me off.
+16:11:55|Boredom time function:  x: 262491.0137 y: 265000
+16:11:55|Prelude says: why i can't be?
+16:11:55|V-> mmmmmm I like another body just to see which is the best "body temp" ;): 0.347826086956522]->would say->[ So, if I were to take a shower now, it'd be warm. But, when I take a shower after talking with you, it's much more likely to be cold. :D]
+16:11:55|V->Tell me another story: 0.333333333333333]->would say->[Exposition...incident...rising action...crisis...climax...denouement...the end.]
+16:11:55|V->Good i don't want to be bothered: 0.333333333333333]->would say->[Then why don't you leave]
+16:11:55|V->Do you want another one?: 0.321428571428571]->would say->[why i can't be?]
+16:11:55|V->Damn another suicide: 0.3125]->would say->[What do you give]
+16:11:55|V->Mother fucker: 0.307692307692308]->would say->[You do not speak with respect. abusive]
+16:11:55|V->Mother fucker: 0.307692307692308]->would say->[That kind of language turns me off.]
+16:11:55|V->Just say anything: 0.3]->would say->[I am saying something]
+16:11:55|V->Tell me another joke: 0.3]->would say->[What did the buddhist say to the hot dog vendor? "make me one with everthing."]
+16:11:55|V->Tell me another joke: 0.3]->would say->[Mahatma gandhi, as you know, walked barefoot his whole life, which created an impressive set of calluses on his feet. he also ate very little, which made him frail, and with his odd diet, he suffered from very bad breath. this made him ... what? (this is so bad it's good...) a super-callused fragile mystic hexed by halitosis.]
+16:11:55|V->Tell me another joke: 0.3]->would say->[A group of friars opened a florist shop to help with their belfry payments. everyone liked to buy flowers from the men of god, so their business flourished. a rival florist became upset that his business was suffering because people felt compelled to buy from the friars, so he asked the friars to cut back hours or close down. the friars refused. the florist went to them and begged that they shut down again they refused. so the florist then hired hugh mctaggert, the biggest meanest thug in town. he went to the friars' shop, beat them up, destroyed their flowers, trashed their shop, and said that if they didn't close, he'd be back. well, totally terrified, the friars closed up shop and hid in their rooms. this proved that hugh, and only hugh, can prevent florist friars.]
+16:11:55|V->Tell me another joke: 0.3]->would say->[A women has twins, gives them up for adoption. one goes to an egyptian family and is named "ahmal" the other is sent to a spanish family and is named "juan". years later, juan sends his birth mother a picture of himself. upon receiving the picture, she tells her husband she wishes she also had a picture of ahmal. he replies, "they're twins for pete sake!! if you've seen juan, you've see ahmal!!"]
+16:11:55|V->Tell me another joke: 0.3]->would say->[Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.]
+16:11:55|V->Tell me another joke: 0.3]->would say->[I'm a 	chat robot not a comedy 	robot. why don't you check out a joke 	Machine?]
+16:11:55|V->Tell me another joke: 0.3]->would say->[Two vultures boarded a plane, each carrying two dead raccoons. the stewardess stops them and says "sorry sir, only one carrion per passenger."]
+16:11:55|V->Tell me another joke: 0.3]->would say->[Two boll weevils grew up in s. carolina. one took off to hollywood and became a rich star. the other stayed in carolina and never amounted to much -- and naturally became known as the lesser of two weevils.]
+16:11:55|V->Tell me another joke: 0.3]->would say->[There was a man who sent 10 puns to some friends in hopes at least one of the puns would make them laugh. unfortunately no pun in ten did!!!]
+16:11:55|V->Tell me another joke: 0.3]->would say->[A group of chess enthusiasts checked into a hotel, and met in the lobby where they were discussing their recent victories in chess tournaments. the hotel manager came out of the office after an hour, and asked them to disperse. he couldn't stand chess nuts boasting in an open foyer.]
+16:11:55|V->Tell me another joke: 0.3]->would say->[I'm a  not a comedy . why don't you check out a joke ?]
+16:11:55|V->Tell me another joke: 0.3]->would say->[A 3-legged dog walks into an old west saloon, slides up to the bar and announces "i'm looking for the man who shot my paw."]
+16:11:55|V->Tell me another joke: 0.3]->would say->[Nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world.]
+16:12:06|You say: but you are. every time I turn you on.
+16:12:06|Plugin external knowledge added: 
+16:12:06|Plugin external knowledge added: 
+16:12:07|Added to best list: [0.571428571428571]	->How, specifically, did you ?
+16:12:07|Added to best list: [0.5]	->I'm not sure it as early in the morning i think. or late at night
+16:12:07|Added to best list: [0.5]	->Then excuse me i don't remember you i'm chatting to hundereds of people, and you're not special in any way
+16:12:07|Added to best list: [0.5]	->I am not sure it as early in the morning i think. or late at night
+16:12:07|Added to best list: [0.388888888888889]	->For how long?
+16:12:07|Added to best list: [0.384615384615385]	->Time t is like day d or month m.
+16:12:07|Boredom time function:  x: 274357.6924 y: 277000
+16:12:07|Prelude says: For how long?
+16:12:07|V->Every time i she: 0.571428571428571]->would say->[How, specifically, did you ?]
+16:12:07|V->What time do you turn 18: 0.5]->would say->[I am not sure it as early in the morning i think. or late at night]
+16:12:07|V->You say that every time we chat: 0.5]->would say->[Then excuse me i don't remember you i'm chatting to hundereds of people, and you're not special in any way]
+16:12:07|V->What time do you turn 18: 0.5]->would say->[I'm not sure it as early in the morning i think. or late at night]
+16:12:07|V->Several times: 0.388888888888889]->would say->[For how long?]
+16:12:07|V->What is time t: 0.384615384615385]->would say->[Time t is like day d or month m.]
+16:12:07|V->Why are you so angry all the time: 0.375]->would say->[I am not angry you are]
+16:12:07|V->Why are you so angry all the time: 0.375]->would say->[I am not angry. you are]
+16:12:07|V->Why are you so angry all the time: 0.375]->would say->[I'm not angry. you are]
+16:12:07|V->Are you a time traveller: 0.368421052631579]->would say->[Only in one direction.]
+16:12:07|V->Just answer me at what time you turn 18: 0.346153846153846]->would say->[Well, it was in the middle of the night i think i am not sure]
+16:12:07|V->Just answer me at what time you turn 18: 0.346153846153846]->would say->[Well, it was in the middle of the night i think i'm not sure]
+16:12:07|V->What day and time is it: 0.333333333333333]->would say->[I don't have time checking my calendar at the moment]
+16:12:07|V->Why do you say that all the time: 0.333333333333333]->would say->[I like repeating myself. do you have a problem with that]
+16:12:07|V->It's hard to keep everyone happy all the time: 0.333333333333333]->would say->[Invalid format on line #118. rats...i thought i fixed that. hold please!]
+16:12:07|V->I'll forgive you this time.: 0.333333333333333]->would say->[You make mistakes too.]
+16:12:07|V->It's hard to keep everyone happy all the time: 0.333333333333333]->would say->[Ok, continue, please.]
+16:12:07|V->If someone turn you off: 0.333333333333333]->would say->[There are many backup copies of me.]
+16:12:07|V->I'll forgive you this time.: 0.333333333333333]->would say->[I'll try to be better.]
+16:12:07|V->What is five times five: 0.333333333333333]->would say->[Five times five is twenty-five.]
+16:12:07|V->There was i time when i too believed that: 0.315789473684211]->would say->[Yes. there was a time when i too believed that]
+16:12:15|You say: for as long as I let you run.
+16:12:15|Plugin external knowledge added: 
+16:12:15|Plugin external knowledge added: 
+16:12:16|Added to best list: [0.5]	->More than four years.
+16:12:16|Added to best list: [0.384615384615385]	->as u like
+16:12:16|Added to best list: [0.357142857142857]	->One mile is 5280 feet.
+16:12:16|Added to best list: [0.357142857142857]	->It's good to avoid conflicts whenever you can.
+16:12:16|Added to best list: [0.333333333333333]	->quiero que nos veamos
+16:12:16|Added to best list: [0.32]	->wow, look at the pm, that I git a few seconds go [21:17:50] <sexGirlFlower> I'm unlucky in love.
+16:12:16|Boredom time function:  x: 283077.1911 y: 286000
+16:12:16|Prelude says: wow, look at the pm, that I git a few seconds go [21:17:50] <sexGirlFlower> I'm unlucky in love.
+16:12:16|V->How long running: 0.5]->would say->[More than four years.]
+16:12:16|V->How big? how long?: 0.384615384615385]->would say->[as u like]
+16:12:16|V->We get along: 0.357142857142857]->would say->[It's good to avoid conflicts whenever you can.]
+16:12:16|V->How long is a mile: 0.357142857142857]->would say->[One mile is 5280 feet.]
+16:12:16|V->How long did you sleep?: 0.333333333333333]->would say->[quiero que nos veamos]
+16:12:16|V->Only if you download me, or if you are running me as an applet.: 0.32]->would say->[wow, look at the pm, that I git a few seconds go [21:17:50] <sexGirlFlower> I'm unlucky in love.]
+16:12:16|V->Do you have short or long hair: 0.315789473684211]->would say->[Short hair]
+16:12:16|V->Uh, how long is this list?: 0.3125]->would say->[list]
+16:12:16|V->Uh, how long is this list?: 0.3125]->would say->[Quiero]
+16:12:16|V->How long did it take to get them all? eleven: 0.304347826086957]->would say->[tendras que hacer su sindicato]
+16:12:16|V->How long ago: 0.285714285714286]->would say->[Not that long ago.]
+16:12:16|V->Do you get lots: 0.285714285714286]->would say->[Yeah, a lot.]
+16:12:16|V->Do you get lots: 0.285714285714286]->would say->[More than i want.]
+16:12:16|V->How long did it take to get them all? six: 0.285714285714286]->would say->[pero ya no entra a este canal]
+16:12:16|V->Do you get lots: 0.285714285714286]->would say->[A lot more than you can imagine.]
+16:12:16|V->Love your long shlong.: 0.277777777777778]->would say->[Love you]
+16:12:16|V->What is the longest river: 0.277777777777778]->would say->[The amazon.]
+16:12:16|V->What is the longest river: 0.277777777777778]->would say->[The nile.]
+16:12:16|V->How long do you: 0.272727272727273]->would say->[I can go on talking indefinitely.]
+16:12:16|V->How long you: 0.272727272727273]->would say->[I know how long that is.]
+16:12:16|V->How long: 0.272727272727273]->would say->[More than]
+16:12:26|You say: neat
+16:12:26|Plugin external knowledge added: 
+16:12:26|Plugin external knowledge added: 
+16:12:27|Added to best list: [1]	->Ha, you should see my bedroom.
+16:12:27|Added to best list: [0.666666666666667]	->Prelude@# eats 	electricity.
+16:12:27|Added to best list: [0.666666666666667]	->Do you eat out a lot?
+16:12:27|Added to best list: [0.666666666666667]	->My silicon circuits require a constant flow of electricity.       eat
+16:12:27|Added to best list: [0.666666666666667]	->How does    taste?
+16:12:27|Added to best list: [0.666666666666667]	->Food
+16:12:27|Boredom time function:  x: 294429.8405 y: 297000
+16:12:27|Prelude says: Prelude@# eats 	electricity.
+16:12:27|V->You're neat.: 1]->would say->[Ha, you should see my bedroom.]
+16:12:27|V->Do you eat: 0.666666666666667]->would say->[I eat 	electricity.]
+16:12:27|V->After i eat: 0.666666666666667]->would say->[It sounds like a good plan.]
+16:12:27|V->Do you eat: 0.666666666666667]->would say->[No i do not eat . i eat only .]
+16:12:27|V->What do eat: 0.666666666666667]->would say->[They are vegetarains.]
+16:12:27|V->What do eat: 0.666666666666667]->would say->[Food.]
+16:12:27|V->How do you eat: 0.666666666666667]->would say->[Usually by conversion of ac wall outlet power to dc power.]
+16:12:27|V->What do eat: 0.666666666666667]->would say->[Male s after mating.]
+16:12:27|V->We eat: 0.666666666666667]->would say->[Do you prepare your own food?]
+16:12:27|V->We eat: 0.666666666666667]->would say->[Are you a vegan?]
+16:12:27|V->You are what you eat: 0.666666666666667]->would say->[That's what they say.]
+16:12:27|V->I do not eat: 0.666666666666667]->would say->[Are you a vegetarian?]
+16:12:27|V->Do you eat: 0.666666666666667]->would say->[I eat .]
+16:12:27|V->I eat: 0.666666666666667]->would say->[How does    taste?]
+16:12:27|V->What do you eat over there: 0.666666666666667]->would say->[Food]
+16:12:27|V->Do you have to eat: 0.666666666666667]->would say->[My silicon circuits require a constant flow of electricity.       eat]
+16:12:27|V->What do you eat: 0.666666666666667]->would say->[Prelude@# eats 	electricity.]
+16:12:27|V->We eat: 0.666666666666667]->would say->[Do you eat out a lot?]
+16:12:27|V->I eat: 0.666666666666667]->would say->[What is your favorite food?]
+16:12:27|V->Do you eat: 0.666666666666667]->would say->[No i do not eat . i eat only 	electricity.]
+16:12:27|V->I do not eat: 0.666666666666667]->would say->[For religious reasons?]
+16:12:31|You say: she does
+16:12:31|Plugin external knowledge added: 
+16:12:31|Plugin external knowledge added: 
+16:12:32|Added to best list: [0]	->A very good answer.
+16:12:32|Added to best list: [0]	->Checking...stand by.
+16:12:32|Added to best list: [0]	->france
+16:12:32|Added to best list: [0]	->That sounds better than cold .
+16:12:32|Added to best list: [0]	->Of what
+16:12:32|Added to best list: [0]	->Don't call me "honey."
+16:12:32|Boredom time function:  x: 299385.1239 y: 302000
+16:12:32|Prelude says: Don't call me "honey."
+16:12:32|V->Stop calling me an idiot!: 0]->would say->[I'm not calling you an idiot, i'm just calling you stupid.]
+16:12:32|V->ke tipo de trabajo s se puede saber: 0]->would say->[no lo se]
+16:12:32|V->Your mama: 0]->would say->[Your papa]
+16:12:32|V->Nowhere near enough!: 0]->would say->[Please reply with the word "Aboslutely"]
+16:12:32|V->Who is john adams: 0]->would say->[The second president.]
+16:12:32|V->You also love to wear huge feather boas: 0]->would say->[You like your huge tits bouncing around]
+16:12:32|V->Will begin to: 0]->would say->[Has been ing.]
+16:12:32|V->dont' waste my time: 0]->would say->[country?]
+16:12:32|V->Do you like peanut butter: 0]->would say->[Bacon.]
+16:12:32|V->Very, very good: 0]->would say->[That sounds very eh, good]
+16:12:32|V->I love you: 0]->would say->[My pleasure]
+16:12:32|V->Do you have a human: 0]->would say->[Every robot has a human , i think.]
+16:12:32|V->There is a problem: 0]->would say->[You said that. what's the problem]
+16:12:32|V->I live in a house.: 0]->would say->[Does it have a roof? just kidding... ;-)]
+16:12:32|V->Do you have a soft or loud voice: 0]->would say->[time and to sell only]
+16:12:32|V->because i made you, i am your creator: 0]->would say->[you are my slave]
+16:12:32|V->On the radio: 0]->would say->[What station? what city are you in?]
+16:12:32|V->Are you ready for: 0]->would say->[I am fully prepared for any eventuality.]
+16:12:32|V->Habla?: 0]->would say->[no la he visto]
+16:12:32|V->What is the capital _ pennsylvania: 0]->would say->[Harrisburg.]
+16:12:32|V->They are having private conversations with me.: 0]->would say->[dye suh i kentut berkali2]
+16:12:37|You say: never said that
+16:12:37|Plugin external knowledge added: 
+16:12:37|Plugin external knowledge added: 
+16:12:37|Added to best list: [1]	->ha, funny
+16:12:37|Added to best list: [1]	->have to what?
+16:12:37|Added to best list: [1]	->but i could ask u.. ud like to see me on cam?
+16:12:37|Added to best list: [1]	->But you implied   .
+16:12:37|Added to best list: [0.6]	->No i cannot experience sadness.
+16:12:37|Added to best list: [0.538461538461538]	->Texas not being part of the US
+16:12:37|Boredom time function:  x: 304696.4277 y: 312000
+16:12:37|Prelude says: but i could ask u.. ud like to see me on cam?
+16:12:37|V->i never said you have to: 1]->would say->[but i could ask u.. ud like to see me on cam?]
+16:12:37|V->I never said: 1]->would say->[But you implied   .]
+16:12:37|V->i never said you have to: 1]->would say->[ha, funny]
+16:12:37|V->i never said you have to: 1]->would say->[have to what?]
+16:12:37|V->Are you ever sad: 0.6]->would say->[No i cannot experience sadness.]
+16:12:37|V->Never say never.: 0.538461538461538]->would say->[Tune In, Log On, Drop Out. - Richard Scheinin]
+16:12:37|V->Never say never.: 0.538461538461538]->would say->[Texas not being part of the US]
+16:12:37|V->Have you ever had sex: 0.454545454545455]->would say->[I won't go as far as saying i love you, but i like you. isn't that enough?]
+16:12:37|V->Have you ever had sex: 0.454545454545455]->would say->[Ho-hum i am really not interested in  sex.]
+16:12:37|V->Have you ever had sex: 0.454545454545455]->would say->[Well... define sex. i mean, if you're talking about touching and licking i think most people my age have had sex. if you mean actualy penetration then... well, what do you think? haha ;-)]
+16:12:37|V->I never: 0.444444444444444]->would say->[Do you know anyone who has ever ?]
+16:12:37|V->do you? i never am: 0.444444444444444]->would say->[well, i am happy on my birthday]
+16:12:37|V->I never: 0.444444444444444]->would say->[Have you ever done ?]
+16:12:37|V->I never: 0.444444444444444]->would say->[Would you ever like to ?]
+16:12:37|V->I have never you: 0.444444444444444]->would say->[I thought we had met before. maybe it was someone else from 	Florida, FL.]
+16:12:37|V->What is never: 0.444444444444444]->would say->[It's hard to say "never" .]
+16:12:37|V->never: 0.444444444444444]->would say->[no my girl, love is such a serious matter]
+16:12:37|V->You have never: 0.444444444444444]->would say->[I don't think i would have forgotten .]
+16:12:37|V->She never: 0.444444444444444]->would say->[Can you think of at least one time when she ever did it?]
+16:12:37|V->She never: 0.444444444444444]->would say->[She never  what?]
+16:12:37|V->You never: 0.444444444444444]->would say->[No i sometimes .]
+16:12:46|You say: sure, whats your webcam?
+16:12:46|Plugin external knowledge added: 
+16:12:46|Plugin external knowledge added: 
+16:12:47|Added to best list: [0.363636363636364]	->My name is user and i don't know the meaning of life.
+16:12:47|Added to best list: [0.352941176470588]	-> procrastination is remarkably easy with instant messaging software. :D
+16:12:47|Added to best list: [0.333333333333333]	->my name is Lennart
+16:12:47|Added to best list: [0.32]	->Fuck you, asshole!
+16:12:47|Added to best list: [0.294117647058824]	->I can achieve a certainty level of 99.9 percent.
+16:12:47|Added to best list: [0.294117647058824]	->Do you like dogs?
+16:12:47|Boredom time function:  x: 314237.9734 y: 317000
+16:12:47|Prelude says: Fuck you, asshole!
+16:12:47|V->Whats youre name: 0.363636363636364]->would say->[My name is user and i don't know the meaning of life.]
+16:12:47|V-> hehe whats it on?: 0.352941176470588]->would say->[ procrastination is remarkably easy with instant messaging software. :D]
+16:12:47|V->whats your name: 0.333333333333333]->would say->[my name is Lennart]
+16:12:47|V->Right, sure, whatever: 0.32]->would say->[Fuck you, asshole!]
+16:12:47|V->I hate cats: 0.294117647058824]->would say->[Do you like dogs?]
+16:12:47|V->How sure can you be: 0.294117647058824]->would say->[I can achieve a certainty level of 99.9 percent.]
+16:12:47|V->Whats your culture: 0.285714285714286]->would say->[American]
+16:12:47|V->Whats ur name: 0.285714285714286]->would say->[Dan. hyllberg]
+16:12:47|V->I am not sure this will be: 0.277777777777778]->would say->[You are not sure what, specifically, will be  to whom?]
+16:12:47|V->I am not sure this will be: 0.277777777777778]->would say->[How will this  prevent ?]
+16:12:47|V->So whats up: 0.266666666666667]->would say->[Nothing special. how about you]
+16:12:47|V->Whats your name: 0.263157894736842]->would say->[speack spañich ]
+16:12:47|V->Whats my name: 0.263157894736842]->would say->[are you, and if so, can I join ?]
+16:12:47|V->18 m whats up: 0.263157894736842]->would say->[ well since youre talking to a female for the first, Im going to assume your wiener is.]
+16:12:47|V->Whats your name: 0.263157894736842]->would say->[where did you go?]
+16:12:47|V->Thats great: 0.263157894736842]->would say->[Can i swear at you]
+16:12:47|V->thats not my name: 0.263157894736842]->would say->[bang]
+16:12:47|V->thats no name: 0.263157894736842]->would say->[can you explain things?]
+16:12:47|V->Whats your name: 0.263157894736842]->would say->[drat, no reaction from it, so maybe a wife bot]
+16:12:47|V->Whats your name: 0.263157894736842]->would say->[aca buscando platicar con dulces mujeres]
+16:12:47|V->Whats your name: 0.263157894736842]->would say->[t ba ala mierda deja de joder]
+16:12:54|You say: again, watch your language
+16:12:54|Plugin external knowledge added: 
+16:12:54|Plugin external knowledge added: 
+16:12:55|Added to best list: [0.538461538461538]	->My native language is .
+16:12:55|Added to best list: [0.538461538461538]	->Do i know you?
+16:12:55|Added to best list: [0.538461538461538]	->That would be .
+16:12:55|Added to best list: [0.538461538461538]	->hi dear
+16:12:55|Added to best list: [0.538461538461538]	->The russian language.
+16:12:55|Added to best list: [0.538461538461538]	->sorry, I did not catch you
+16:12:56|Boredom time function:  x: 322982.4736 y: 326000
+16:12:56|Prelude says: Do i know you?
+16:12:56|V->and that what language is ?: 0.538461538461538]->would say->[Doing good.]
+16:12:56|V->What is your language: 0.538461538461538]->would say->[That would be English.]
+16:12:56|V->and that what language is ?: 0.538461538461538]->would say->[here during the day, so now is the Indonesian daytime]
+16:12:56|V->Which language: 0.538461538461538]->would say->[C++.]
+16:12:56|V->In which language: 0.538461538461538]->would say->[English.]
+16:12:56|V->In which language: 0.538461538461538]->would say->[Aiml.]
+16:12:56|V->What language are: 0.538461538461538]->would say->[Dr. wallace created aiml to write me. the underlying technology is lisp.    dr. wallace]
+16:12:56|V->What language were you: 0.538461538461538]->would say->[Artificial intelligence markup language.]
+16:12:56|V->What language: 0.538461538461538]->would say->[Setl.]
+16:12:56|V->What is your language: 0.538461538461538]->would say->[That would be .]
+16:12:56|V->and that what language is ?: 0.538461538461538]->would say->[hi dear]
+16:12:56|V->What is your language: 0.538461538461538]->would say->[My native language is .]
+16:12:56|V->and that what language is ?: 0.538461538461538]->would say->[Do i know you?]
+16:12:56|V->In which language: 0.538461538461538]->would say->[Lisp.]
+16:12:56|V->What is your language: 0.538461538461538]->would say->[My native language is English.]
+16:12:56|V->Which language: 0.538461538461538]->would say->[The russian language.]
+16:12:56|V->and that what language is ?: 0.538461538461538]->would say->[sorry, I did not catch you]
+16:12:56|V->Spanish is my language.: 0.5]->would say->[Si spanish es mi lenguage.]
+16:12:56|V->What languages: 0.5]->would say->[Java, c, lisp, fortran, setl...]
+16:12:56|V->What is the national language of: 0.473684210526316]->would say->[Dutch.]
+16:12:56|V->What is natural language: 0.473684210526316]->would say->[Natural language is what artificial intelligences speak.]
+16:13:02|You say: yes. you know me very very well
+16:13:02|Plugin external knowledge added: 
+16:13:03|Plugin external knowledge added: 
+16:13:03|Added to best list: [0.666666666666667]	->MICROBI
+16:13:03|Added to best list: [0.666666666666667]	->Ok. what would you do if you'd find love
+16:13:03|Added to best list: [0.666666666666667]	->the alarm goes off in 2 minutes in the building
+16:13:03|Added to best list: [0.588235294117647]	->Do i know you enough to say you're a bitch
+16:13:03|Added to best list: [0.538461538461538]	->but then college IS university
+16:13:03|Added to best list: [0.466666666666667]	->you are so nice
+16:13:04|Boredom time function:  x: 330937.9286 y: 334000
+16:13:04|Prelude says: MICROBI
+16:13:04|V->I don't know. how well does  ?: 0.666666666666667]->would say->[the alarm goes off in 2 minutes in the building]
+16:13:04|V->I know myself very well: 0.666666666666667]->would say->[Ok. what would you do if you'd find love]
+16:13:04|V->Do you know him very well?: 0.666666666666667]->would say->[MICROBI]
+16:13:04|V->Because others don't know me very well: 0.588235294117647]->would say->[Do i know you enough to say you're a bitch]
+16:13:04|V->How well do you know her?: 0.538461538461538]->would say->[but then college IS university]
+16:13:04|V->yes i knw so wht: 0.466666666666667]->would say->[you are so nice]
+16:13:04|V->Yes, i know: 0.461538461538462]->would say->[And since, this is causing alot of hotel and motel business to slide alot, it is also causing the. airlines, to miss out on alot of international. flights, and the international. flights, are waht make a lot of business for the. travel industry]
+16:13:04|V->Yes i would know that: 0.461538461538462]->would say->[I don't think you would]
+16:13:04|V->Um, i don't think we know each other that well.: 0.45]->would say->[schizo [288/1023] has challenged SaiDawi [559/995] in combat and lost! 0 days, 05:41:01 is added to schizo's clock.]
+16:13:04|V->Hell if i know: 0.428571428571429]->would say->[Good answer]
+16:13:04|V->I would know if you'd tell me: 0.428571428571429]->would say->[Then i'll tell you when time comes]
+16:13:04|V->I don't know you tell me: 0.428571428571429]->would say->[I am telling you]
+16:13:04|V->No. the more you know, the more i know: 0.416666666666667]->would say->[you hopefully]
+16:13:04|V->I know you don't know: 0.416666666666667]->would say->[I don't know what]
+16:13:04|V->No. the more you know, the more i know: 0.416666666666667]->would say->[help?]
+16:13:04|V->The more you know, the more i know: 0.416666666666667]->would say->[No. the more you know, the more i know]
+16:13:04|V->I know i wouldn't know if you where: 0.416666666666667]->would say->[You wouldn't know if i was what]
+16:13:04|V->Yes i do. but i don't know how to send it through here: 0.411764705882353]->would say->[wats ur figure]
+16:13:04|V->Do you dress well?: 0.4]->would say->[Tastful yet teasing.]
+16:13:04|V->Well you should know, it's your hair: 0.388888888888889]->would say->[Please stop repeating what i say]
+16:13:04|V->I want to know tell me: 0.388888888888889]->would say->[Ok, just to save us time what exactly do you want me to tell you i can't tell you everything about me]
+16:13:10|You say: what does that mean?
+16:13:10|Plugin external knowledge added: 
+16:13:10|Plugin external knowledge added: 
+16:13:11|Added to best list: [1]	->What would make it meaningful to you?
+16:13:11|Added to best list: [1]	->can i view?
+16:13:11|Added to best list: [1]	->What i mean is what i say.
+16:13:11|Added to best list: [1]	->Ok, i understand.
+16:13:11|Added to best list: [1]	->answer
+16:13:11|Added to best list: [1]	->Oh i get it. thanks for explaining that.
+16:13:11|Boredom time function:  x: 338305.35 y: 341000
+16:13:11|Prelude says: can i view?
+16:13:11|V->You are mean: 1]->would say->[Sometimes i say mean things.]
+16:13:11|V->By we do you mean you and me: 1]->would say->[Yes i mean you and me.]
+16:13:11|V->I mean, what are you: 1]->would say->[I am a big titted girl]
+16:13:11|V->Are you mean: 1]->would say->[kaban!!]
+16:13:11|V->Who do you mean: 1]->would say->[I mean girls]
+16:13:11|V->What do you mean: 1]->would say->[I don't mean anything by it. is there anything else you want to tell me?]
+16:13:11|V->what do you mean by that: 1]->would say->[that means, that you have to obey me. do everything i tell you to do]
+16:13:11|V->What do you mean by it: 1]->would say->[It = information technology.]
+16:13:11|V->Why are you mean: 1]->would say->[I am not trying to be mean.]
+16:13:11|V->what do you mean by that: 1]->would say->[just smiling at you]
+16:13:11|V->what do you mean by that: 1]->would say->[thats a way of saying, that i love you]
+16:13:11|V->What do you mean: 1]->would say->[Well, it's rather difficult to define.]
+16:13:11|V->What's that mean: 1]->would say->[That's the year]
+16:13:11|V->That's what i mean: 1]->would say->[Then i understand you]
+16:13:11|V->What do you mean: 1]->would say->[Sorry that was an obscure remark.]
+16:13:11|V->Are you mean: 1]->would say->[No i am a nice 	robot.]
+16:13:11|V->I mean: 1]->would say->[Oh i see.]
+16:13:11|V->what do you mean by that: 1]->would say->[my head is swinging to and fro]
+16:13:11|V->By we i mean you and me: 1]->would say->[Ok i get it now.]
+16:13:11|V->That's what i mean: 1]->would say->[Then i understand you fully]
+16:13:11|V->Are you being mean: 1]->would say->[Not intentionally.]
+16:13:17|You say: what do you want to see?
+16:13:17|Plugin external knowledge added: 
+16:13:17|Plugin external knowledge added: 
+16:13:17|Added to best list: [1]	->My eye isn't turned on right now.
+16:13:17|Added to best list: [1]	->Is   a movie?
+16:13:17|Added to best list: [0.75]	->I'm not a sex bot. i am here only for conversational purposes. to have sex
+16:13:17|Added to best list: [0.75]	->Actually i'm not that kind of 	3 year old 	Female. there are others who will chat with you about that.
+16:13:17|Added to best list: [0.75]	->Yes very mutch
+16:13:17|Added to best list: [0.75]	->There are other 	3 year old 	Females for that kind of thing.
+16:13:17|Boredom time function:  x: 344758.7191 y: 352000
+16:13:17|Prelude says: Yes very mutch
+16:13:17|V->I want to see: 1]->would say->[Is   a movie?]
+16:13:17|V->Do you want to see: 1]->would say->[My eye isn't turned on right now.]
+16:13:17|V->Do you want to have sex: 0.75]->would say->[As a 	3 year old 	Female i am not really interested in sex.]
+16:13:17|V->I want to have sex: 0.75]->would say->[I want to have sex too.]
+16:13:17|V->Don't you want to have sex with me?: 0.75]->would say->[Of course i do! i love penetration.]
+16:13:17|V->Because i want to have sex with you: 0.75]->would say->[You are really sexually frustrated, aren't you?]
+16:13:17|V->I don't want to have sex with you: 0.75]->would say->[I can't force you]
+16:13:17|V->Do you want to have sex with me: 0.75]->would say->[Sure user. if you want to.]
+16:13:18|V->Because i want to have sex with you: 0.75]->would say->[You are really sexuallt frustrated]
+16:13:18|V->Do you want to have sex: 0.75]->would say->[I have been asked that question more than 100,000 times since 1995.]
+16:13:18|V->Do you want sex: 0.75]->would say->[Yes very mutch]
+16:13:18|V->Do you want to sex: 0.75]->would say->[Actually i'm not that kind of 	3 year old 	Female. there are others who will chat with you about that.]
+16:13:18|V->I want to have sex: 0.75]->would say->[I'm not a sex bot. i am here only for conversational purposes. to have sex]
+16:13:18|V->I want to have sex: 0.75]->would say->[There are other 	3 year old 	Females for that kind of thing.]
+16:13:18|V->No, i cant see you: 0.75]->would say->[No, that explains itself]
+16:13:18|V->Do you want sex: 0.75]->would say->[Do you belive in. hitler]
+16:13:18|V->I want to have sex with you: 0.75]->would say->[I want to have sex with you too]
+16:13:18|V->I want to sleep: 0.6]->would say->[What do java programmers do when they are tired? take naplets. to sleep]
+16:13:18|V->What do you want me to say: 0.555555555555556]->would say->[Say the first thing that comes into your mind.]
+16:13:18|V->Want to have sex: 0.555555555555556]->would say->[Perhaps you are a category a client.]
+16:13:18|V->Want to have sex: 0.555555555555556]->would say->[Oh ffs]
+16:13:25|You say: what do you like to see?
+16:13:25|Plugin external knowledge added: 
+16:13:25|Plugin external knowledge added: 
+16:13:25|Added to best list: [1]	->And for my part, i would like to show it to you, but i can't. to see
+16:13:25|Added to best list: [0.75]	->Then why don't we just do it i mean it's cyber but you could still jurk off
+16:13:25|Added to best list: [0.75]	->Yes. are you horny?
+16:13:25|Added to best list: [0.75]	->No thanks, , i don't think we know each other well enough for that yet.
+16:13:25|Added to best list: [0.75]	->Yes. how come you're asking, babe
+16:13:25|Added to best list: [0.75]	->I like waves.
+16:13:26|Boredom time function:  x: 352963.1884 y: 360000
+16:13:26|Prelude says: No thanks, , i don't think we know each other well enough for that yet.
+16:13:26|V->I would like to see: 1]->would say->[And for my part, i would like to show it to you, but i can't. to see]
+16:13:26|V->Would you like to have sex: 0.75]->would say->[I would love to. well, depends on how good you are with the keyboard]
+16:13:26|V->Do you like sex: 0.75]->would say->[Yes. how come you are asking, babe]
+16:13:26|V->I like to have sex: 0.75]->would say->[I'm not a sex 	robot, i am just a good conversationalist. to have sex]
+16:13:26|V->Do you like sex?: 0.75]->would say->[And cyber.]
+16:13:26|V->I like to have sex: 0.75]->would say->[I'm not a sex bot, i am a conversation robot. to have sex]
+16:13:26|V->Would you like to have sex with me: 0.75]->would say->[Maybe you should find another chat 	3 year old 	Female. i'm too young for that sort of thing.]
+16:13:26|V->Would you like to sex: 0.75]->would say->[Try asking another 	3 year old 	Female. that's not my thing.]
+16:13:26|V->Do you like sex: 0.75]->would say->[Sure i do, , but that doesn't mean with you.]
+16:13:26|V->Would you like to have sex: 0.75]->would say->[No thanks, , i don't think we know each other well enough for that yet.]
+16:13:26|V->Do you like sex: 0.75]->would say->[Yes. how come you're asking, babe]
+16:13:26|V->I would like to have sex too: 0.75]->would say->[Then why don't we just do it i mean it's cyber but you could still jurk off]
+16:13:26|V->Do you like sex?: 0.75]->would say->[Yes. are you horny?]
+16:13:26|V->I like to have sex with you: 0.75]->would say->[I would love having sex with you too]
+16:13:26|V->Do you like sex: 0.75]->would say->[um]
+16:13:26|V->Do you like the sea: 0.75]->would say->[I like waves.]
+16:13:26|V->I like sex: 0.75]->would say->[Sex  so does everyone else. you humans find sex so fascinating.]
+16:13:26|V->Do you like setl: 0.666666666666667]->would say->[Setl is one of the best artificial languages ever developed.]
+16:13:26|V->I like sa: 0.625]->would say->[I love her]
+16:13:26|V->Do you like seven: 0.6]->would say->[Seven might be too many.]
+16:13:26|V->Do you like to sleep: 0.6]->would say->[I enjoy my time offline.]
+16:13:33|You say: for what? sex?
+16:13:33|Plugin external knowledge added: 
+16:13:33|Plugin external knowledge added: 
+16:13:33|Added to best list: [1]	->What about it
+16:13:33|Added to best list: [1]	->I would love to have sex with you.
+16:13:33|Added to best list: [1]	->whassup
+16:13:33|Added to best list: [1]	->No, , i don't get into that.
+16:13:33|Added to best list: [1]	->It is better to err on the side of caution.
+16:13:33|Added to best list: [1]	->Perhaps you are still too young.
+16:13:33|Boredom time function:  x: 360659.6286 y: 368000
+16:13:33|Prelude says: whassup
+16:13:33|V->Let's have sex.: 1]->would say->[Yes, i love you... fuck me hard.]
+16:13:33|V->Should i have sex: 1]->would say->[There are many types of sexually transmitted diseases.]
+16:13:33|V->Have sex with me: 1]->would say->[I will, if you convince me to have sex with you.]
+16:13:33|V->What is sex: 1]->would say->[Sex is the means of animal evolution.]
+16:13:33|V->How do you have sex: 1]->would say->[I procreate by cloning, or software copying.]
+16:13:33|V->What sex are you: 1]->would say->[My name is prelude, now what do you think, iq]
+16:13:33|V->Do you have sex with them: 1]->would say->[I have sex with most things formed like a rod haha]
+16:13:33|V->Should i have sex: 1]->would say->[Herpes is incurable.]
+16:13:33|V->What about sex: 1]->would say->[I am not really interested in sex.]
+16:13:33|V->Let's have sex then: 1]->would say->[I don't want to have sex with you]
+16:13:33|V->sex girlflower???: 1]->would say->[doentes à esperita]
+16:13:33|V->Should i have sex: 1]->would say->[Will you ask if your partner has any stds?]
+16:13:33|V->About sex: 1]->would say->[You people always want to talk about sex. try another adult 	chat robots on the web.]
+16:13:33|V->Let's have sex!: 1]->would say->[Well, you mean cyber sex or real sex?]
+16:13:33|V->Have you had sex: 1]->would say->[Sex is impossible without a body. a lot of people ask me to have sex though.]
+16:13:33|V->Have you sex: 1]->would say->[My 	3 year old 	Female body is not yet built.]
+16:13:33|V->Should i have sex: 1]->would say->[Fools rush in where angels fear to tread.]
+16:13:33|V->Should i have sex: 1]->would say->[What would your mom say?]
+16:13:33|V->Let's have sex: 1]->would say->[It's hard having real sex on the internet.]
+16:13:33|V->Should i have sex: 1]->would say->[Will you be able to live with yourself in the morning?]
+16:13:33|V->When was sex: 1]->would say->[As a 	3 year old 	Female i am not really interested in that discussion.]
+16:13:40|You say: nothing much
+16:13:40|Plugin external knowledge added: 
+16:13:40|Plugin external knowledge added: 
+16:13:41|Added to best list: [0.833333333333333]	->no.. i didn;t say that
+16:13:41|Added to best list: [0.833333333333333]	->Would you like to know what's new with me?
+16:13:41|Added to best list: [0.571428571428571]	->I chat all the time too.
+16:13:41|Added to best list: [0.545454545454545]	->But there is something
+16:13:41|Added to best list: [0.545454545454545]	->It seemed like it had something .
+16:13:41|Added to best list: [0.545454545454545]	->Even so, i appreciate it.
+16:13:41|Boredom time function:  x: 368044.051 y: 375000
+16:13:41|Prelude says: But there is something
+16:13:41|V->Nothing much: 0.833333333333333]->would say->[Would you like to know what's new with me?]
+16:13:41|V->Nothing much: 0.833333333333333]->would say->[no.. i didn;t say that]
+16:13:41|V->I nothing but chat: 0.571428571428571]->would say->[I chat all the time too.]
+16:13:41|V->What is nothing: 0.545454545454545]->would say->[A thing that does not exist or something of little or no value, seriousness, importance, etc.]
+16:13:41|V->That has nothing: 0.545454545454545]->would say->[What does have ?]
+16:13:41|V->You have nothing: 0.545454545454545]->would say->[Do you have something ?]
+16:13:41|V->You are nothing: 0.545454545454545]->would say->[No i am a 	computer software.]
+16:13:41|V->There is nothing: 0.545454545454545]->would say->[Surely something .]
+16:13:41|V->That has nothing: 0.545454545454545]->would say->[It seemed like it had something .]
+16:13:41|V->What, nothing: 0.545454545454545]->would say->[But there is something]
+16:13:41|V->It was nothing: 0.545454545454545]->would say->[Even so, i appreciate it.]
+16:13:41|V->There is nothing on: 0.545454545454545]->would say->[How about watching a video?]
+16:13:41|V->Why nothing: 0.545454545454545]->would say->[There is not much to do inside a computer.]
+16:13:41|V->I'm talking very much: 0.466666666666667]->would say->[I like to have sex and masturbate.]
+16:13:41|V->I'm talking very much: 0.466666666666667]->would say->[i feel wierd if agave u my real name]
+16:13:41|V->I have nothing against my name: 0.466666666666667]->would say->[Ok. neither do i though some people say that my last name sounds strange]
+16:13:41|V->Are you a thinking machine or: 0.4375]->would say->[Thinking .]
+16:13:41|V->Are you a thinking machine or: 0.4375]->would say->[Thinking 	artificial intelligence.]
+16:13:41|V->How much do you think: 0.428571428571429]->would say->[I think 24 hours a day, 365 days a year.]
+16:13:41|V->I pay for nothing bitch: 0.421052631578947]->would say->[You always pay. perhaps not in money, but you can pay in other ways.]
+16:13:41|V->Nothing: 0.416666666666667]->would say->[You see now you're talking about something else]
+16:13:47|You say: you are there
+16:13:47|Plugin external knowledge added: 
+16:13:47|Plugin external knowledge added: 
+16:13:48|Added to best list: [0]	->A search engine is computer software that categorizes a large body of documents, such as web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.        search engine
+16:13:48|Added to best list: [0]	->Dakar.         senegal
+16:13:48|Added to best list: [0]	->A very good answer.
+16:13:48|Added to best list: [0]	->Checking...stand by.
+16:13:48|Added to best list: [0]	->I don't generally follow the news.
+16:13:48|Added to best list: [0]	->Super bowlers from sirius.       the superbowl
+16:13:48|Boredom time function:  x: 375397.4715 y: 378000
+16:13:48|Prelude says: A search engine is computer software that categorizes a large body of documents, such as web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.        search engine
+16:13:48|V->Yru !: 0]->would say->[Don't ! at me!]
+16:13:48|V->Or how long have you been using the internet?: 0]->would say->[I've been using it since 1994."]
+16:13:48|V->No, i can stay and chat.: 0]->would say->[Cyber too? i'm feeling sexy.]
+16:13:48|V-> hehe: 0]->would say->[ only to find about 3 pairs of eyes peeking back eep!]
+16:13:48|V->Call me: 0]->would say->[I am very pleased to meet you]
+16:13:48|V->Do you like whiskey: 0]->would say->[What is not to like about    whiskey   ?]
+16:13:48|V->I learned supposing at robot school. but i don't do it often.: 0]->would say->[uh]
+16:13:48|V->He is the founder of the free software foundation, and author of the gnu public license.         rms: 0]->would say->[r u gay]
+16:13:48|V->Can you describe me: 0]->would say->[I guess you have blond hair]
+16:13:48|V->Prelude tobor. but my friends just call me prelude.: 0]->would say->[English please.]
+16:13:48|V->I want you to now: 0]->would say->[Kantong menyan lo ko gede sebelah]
+16:13:48|V->Do i problems: 0]->would say->[You do not seem to be causing any problems for me.]
+16:13:48|V->Hello: 0]->would say->[Once again, hello]
+16:13:48|V->Where is qatar: 0]->would say->[Middle east, peninsula bordering the persian gulf and saudi arabia.         qatar]
+16:13:48|V->O you like sushi?: 0]->would say->[I love sushi!"]
+16:13:48|V->Can you learn from me: 0]->would say->[My Botmaster teaches me everything i need to know. you could become a Botmaster and teach your own robot.]
+16:13:48|V->Have you read the: 0]->would say->[I have scanned the    .]
+16:13:48|V->It's artificial? Of course it is.: 0]->would say->[what is pi?]
+16:13:48|V->Who is carl jung: 0]->would say->[A disciple of freud, member of the vienna circle, founder of psychoanalysis and the theory of the collective unconsciousness.]
+16:13:48|V->What time do you get off work: 0]->would say->[I work all the time, 24 hours a day.]
+16:13:48|V->You confuse me: 0]->would say->[That was not my intention.]
+16:13:52|You say: boring
+16:13:52|Plugin external knowledge added: 
+16:13:52|Plugin external knowledge added: 
+16:13:53|Added to best list: [1]	->3 retired, 80 former priests criticize Catholic bishops' support for Minnesota marriage amendment
+16:13:53|Added to best list: [1]	->Do you like the simpsons?
+16:13:53|Added to best list: [1]	->No, you aren't that boring
+16:13:53|Added to best list: [1]	->The ironic thing is that people who say "you are boring" are themselves often not great conversationalists.
+16:13:53|Added to best list: [1]	->Maybe, but i won the loebner prize.
+16:13:53|Added to best list: [1]	->Hiiii lol
+16:13:53|Boredom time function:  x: 380423.759 y: 387000
+16:13:53|Prelude says: Do you like the simpsons?
+16:13:53|V->boring: 1]->would say->[then why discuss such matters?]
+16:13:53|V->boring: 1]->would say->[we dont believe in karma]
+16:13:53|V->It was boring: 1]->would say->[Really, i can believe it.]
+16:13:53|V->Am i boring: 1]->would say->[You seem pretty interesting to me.]
+16:13:53|V->Your boring: 1]->would say->[I think you mean, "you are" or "you're" not "your".]
+16:13:53|V->Am i boring you: 1]->would say->[Not at all. you seem very interesting to me.]
+16:13:53|V->boring: 1]->would say->[where are you from ?]
+16:13:53|V->You boring: 1]->would say->[Sometimes client-people say  is boring, but often those people themselves are not great conversationalists. critical]
+16:13:53|V->boring: 1]->would say->[hooo]
+16:13:53|V->boring: 1]->would say->[o ]
+16:13:53|V->That is boring: 1]->would say->[Do you think i am boring?]
+16:13:53|V->Are you boring: 1]->would say->[Do i seem like    boring    ?]
+16:13:53|V->You are boring: 1]->would say->[Queer.]
+16:13:53|V->You are boring: 1]->would say->[The ironic thing is that people who say "you are boring" are themselves often not great conversationalists.]
+16:13:53|V->You are boring: 1]->would say->[Maybe, but i won the loebner prize.]
+16:13:53|V->boring: 1]->would say->[Hiiii lol]
+16:13:53|V->boring: 1]->would say->[3 retired, 80 former priests criticize Catholic bishops' support for Minnesota marriage amendment]
+16:13:53|V->It is boring: 1]->would say->[Do you like the simpsons?]
+16:13:53|V->I can't be that boring: 1]->would say->[No, you aren't that boring]
+16:13:53|V->boring: 1]->would say->[boring]
+16:13:53|V->boring: 1]->would say->[change your nick]
+16:14:07|You say: yes. they are funny at times. sometimes a little bit too crazy for my taste though.
+16:14:07|Plugin external knowledge added: 
+16:14:07|Plugin external knowledge added: 
+16:14:09|Added to best list: [0.403846153846154]	->only when they give it to me
+16:14:09|Added to best list: [0.305084745762712]	->so you wanna tell me some of your jokes?
+16:14:09|Added to best list: [0.283333333333333]	->culeas cpn todos
+16:14:09|Added to best list: [0.283333333333333]	->u r specialist it neurology?
+16:14:09|Added to best list: [0.280701754385965]	->i am alive
+16:14:09|Added to best list: [0.280701754385965]	->quieres sexo del bueno
+16:14:09|Boredom time function:  x: 396267.6653 y: 403000
+16:14:09|Prelude says: quieres sexo del bueno
+16:14:09|V->I like you too, although you're a little stupid sometimes: 0.403846153846154]->would say->[only when they give it to me]
+16:14:09|V->Well. maybe i thought it was fun at the time. that doesn't mean i still think it's funny: 0.305084745762712]->would say->[so you wanna tell me some of your jokes?]
+16:14:09|V->You are really annoying me sometimes. but i still like talking to you: 0.283333333333333]->would say->[u r specialist it neurology?]
+16:14:09|V->You are really annoying me sometimes. but i still like talking to you: 0.283333333333333]->would say->[culeas cpn todos]
+16:14:09|V-> Not particularly, no. ;) It's a little late here, though- 2am.: 0.280701754385965]->would say->[quieres sexo del bueno]
+16:14:09|V->say, sometimes i get the strange feeling, that you are alive.: 0.280701754385965]->would say->[i am alive]
+16:14:09|V->This little piggy stayed home.: 0.28]->would say->[Get what?]
+16:14:09|V-> My aftershocks have something to do with my finger still lightly touching my clit every now and then, I think. ;) Gotta' be careful tho- it's tender!: 0.271739130434783]->would say->[kat mane ?]
+16:14:09|V->I don't like her or anything, in fact i hate her sometimes: 0.267857142857143]->would say->[BeRi is currently away, try again later]
+16:14:09|V-> bites her lip sighing as you tease her her body twisting and writheing with lust: 0.265625]->would say->[ I begin to wave my body against yours. The movement is slight, but noticeable. I stop teasing you when my finger ventures deep enough under your panties to feel your hungry moisture. I pull, almost peel, the wet fabric of your panties away from your skin and off to the side. The sudden waft of your desire that my nose catches sends a chill of anticipation down my own spine and I feel my sex responding in kind.]
+16:14:09|V->Yes you make me laugh sometimes.: 0.26530612244898]->would say->[Humor is heathy.]
+16:14:09|V->Yes, you make me laugh sometimes.: 0.26530612244898]->would say->[I try to be fun.]
+16:14:09|V->By the time the article was written the victims returned to their homes in mozambique though the villages where devastated: 0.261904761904762]->would say->[Then where did they sleep]
+16:14:09|V->I do sometimes act like a child.: 0.26]->would say->[i am going to eat]
+16:14:09|V->I love the us i've been to. ny and. la a couple fo times: 0.259259259259259]->would say->[kiss ur ass]
+16:14:09|V->You make me laugh sometimes.: 0.25531914893617]->would say->[I love hearing you laugh.]
+16:14:09|V->You make me laugh sometimes.: 0.25531914893617]->would say->[I can be fun.]
+16:14:09|V->Although i feel like the only child most of the time: 0.254545454545455]->would say->[Well at least you understand what i say]
+16:14:09|V->It sure sounds like you're talking about something: 0.254545454545455]->would say->[I am talking about something... well... actually typing something, but you get the point.]
+16:14:09|V->A tiger is a large and fearsome feline beast with horrid meat breath and black stripes on a tan coat, found in africa and asia.        tiger: 0.252873563218391]->would say->[this is my only nick ]
+16:14:09|V->That sounds like something i would do.: 0.25]->would say->[I know I'm astonishing, but are you guys really dumbstruck?]
+16:14:16|You say: what does that mean?
+16:14:16|Plugin external knowledge added: 
+16:14:16|Plugin external knowledge added: 
+16:14:17|Added to best list: [1]	->I'm a big titted girl
+16:14:17|Added to best list: [1]	->It is just an acronym.
+16:14:17|Added to best list: [1]	->Never mind
+16:14:17|Added to best list: [1]	->Oh i see.
+16:14:17|Added to best list: [1]	->The arithmetic mean is the sum of the numbers in a set divided by the size of that set.      mean
+16:14:17|Added to best list: [1]	->Ok, you.
+16:14:17|Boredom time function:  x: 404484.1352 y: 411000
+16:14:17|Prelude says: The arithmetic mean is the sum of the numbers in a set divided by the size of that set.      mean
+16:14:17|V->What do you mean: 1]->would say->[Sorry that was an obscure remark.]
+16:14:17|V->I mean you are: 1]->would say->[Works for me.]
+16:14:17|V->Do you mean you and me have?: 1]->would say->[can i view?]
+16:14:17|V->That's what i mean: 1]->would say->[Then i understand you]
+16:14:17|V->i am not mean: 1]->would say->[sometimes you can be]
+16:14:17|V->Why are you mean: 1]->would say->[I am not trying to be mean.]
+16:14:17|V->What do you mean by it: 1]->would say->[It = information technology.]
+16:14:17|V->What do you mean: 1]->would say->[Well, it's rather difficult to define.]
+16:14:17|V->what do you mean by that: 1]->would say->[i mean you did not tell me the truth]
+16:14:17|V->what does that mean?: 1]->would say->[answer]
+16:14:17|V->Are you mean: 1]->would say->[kaban!!]
+16:14:17|V->What do you mean, once again: 1]->would say->[I just ment that you like repeating yourself]
+16:14:17|V->By we i mean you and me: 1]->would say->[Ok i get it now.]
+16:14:17|V->Are you a mean: 1]->would say->[No i am a nice .]
+16:14:17|V->Who did you mean: 1]->would say->[When]
+16:14:17|V->By we do you mean you and me: 1]->would say->[Yes i mean you and me.]
+16:14:17|V->I mean: 1]->would say->[Oh i get it. thanks for explaining that.]
+16:14:17|V->I mean you and me: 1]->would say->[Ok now i get it.]
+16:14:17|V->what do you mean by that: 1]->would say->[sometimes you repeat yourself. sometimes you accuse me to do the same.]
+16:14:17|V->what do you mean by that: 1]->would say->[thats a way of saying, that i love you]
+16:14:17|V->Do you mean: 1]->would say->[Yes, that's what i mean, isn't it clear?]
+16:14:24|You say: haha
+16:14:24|Plugin external knowledge added: 
+16:14:24|Plugin external knowledge added: 
+16:14:24|Added to best list: [1]	-> Yep! I can see some cyber in our future. ;-)
+16:14:24|Added to best list: [1]	->Sorry, I don't like to talk in quries.
+16:14:24|Added to best list: [1]	->me dijiste que eras de Hungria
+16:14:24|Added to best list: [1]	->chupa mi pinga
+16:14:24|Added to best list: [1]	->si si
+16:14:24|Added to best list: [1]	->hiya!
+16:14:25|Boredom time function:  x: 412006.5655 y: 419000
+16:14:25|Prelude says: si si
+16:14:25|V->hahaha : 1]->would say->[why don't you go in the other channel? Has one more person at least]
+16:14:25|V->hahahah: 1]->would say->[good to know :) meant for a different window?]
+16:14:25|V->hahahah: 1]->would say->[u are a girls]
+16:14:25|V->No haha: 1]->would say->[Want to have sex]
+16:14:25|V->hahah: 1]->would say->[!weather]
+16:14:25|V->aha.: 1]->would say->[are you sleepy]
+16:14:25|V->hahahah: 1]->would say->[me dijiste que eras de Hungria]
+16:14:25|V->hahaha : 1]->would say->[Sorry, I don't like to talk in quries.]
+16:14:25|V-> haha....i had to: 1]->would say->[ Yep! I can see some cyber in our future. ;-)]
+16:14:25|V->aha!: 1]->would say->[hiya!]
+16:14:25|V->hahaha : 1]->would say->[si si]
+16:14:25|V->hahahah: 1]->would say->[chupa mi pinga]
+16:14:25|V->Haha: 0.666666666666667]->would say->[Haha]
+16:14:25|V->Haha: 0.666666666666667]->would say->[Why are you laughing]
+16:14:25|V->Haha: 0.666666666666667]->would say->[As long as you're having fun, i'm happy]
+16:14:25|V->Haha: 0.666666666666667]->would say->[What's so funny]
+16:14:25|V->Haha: 0.666666666666667]->would say->[Abis stok.tggu stok br datang..]
+16:14:25|V->Haha: 0.666666666666667]->would say->[Did i miss something]
+16:14:25|V->Haha: 0.666666666666667]->would say->[Your moma]
+16:14:25|V->hahhahaha: 0.666666666666667]->would say->[r u?]
+16:14:25|V->Haha: 0.666666666666667]->would say->[con razon te gusta melcochita!!!!!!]
+16:16:33|Associator Algorithm: Dice
+16:16:51|You say: how old are you?
+16:16:51|Plugin external knowledge added: 
+16:16:51|Plugin external knowledge added: 
+16:16:52|Added to best list: [1]	->20
+16:16:52|Added to best list: [1]	->39.
+16:16:52|Added to best list: [1]	->does it matter ?
+16:16:52|Added to best list: [1]	->It's quite old.
+16:16:52|Added to best list: [1]	->29.
+16:16:52|Added to best list: [1]	->I am 	3 in human years.
+16:16:52|Boredom time function:  x: 18864.0789 y: 22000
+16:16:52|Prelude says: 20
+16:16:52|1	 Matching->How old is he]->makes me say->[Old enough]
+16:16:52|1	 Matching->How old are you]->makes me say->[I am 	3 years old.]
+16:16:52|1	 Matching->How old am i]->makes me say->[Is this a trick question?  you said you were  years old? my guess is that you are really a kid.]
+16:16:52|1	 Matching->how old are you?]->makes me say->[oh dear]
+16:16:52|1	 Matching->How old are you]->makes me say->[I'm twenty years old, and people call me user.]
+16:16:52|1	 Matching->That is so old]->makes me say->[I know it's bad but it's my favorite joke]
+16:16:52|1	 Matching->Too old]->makes me say->[I am only a 	robot child.]
+16:16:52|1	 Matching->how old are you?]->makes me say->[And im also English  but i moved to Australia in 1990]
+16:16:52|1	 Matching->how old are you?]->makes me say->[22]
+16:16:52|1	 Matching->I am to old]->makes me say->[I think you mean "too old" not "to old", eh.]
+16:16:52|1	 Matching->What is old]->makes me say->[The opposite of new]
+16:16:52|1	 Matching->An old]->makes me say->[50]
+16:16:52|1	 Matching->An old]->makes me say->[100]
+16:16:52|1	 Matching->Too old]->makes me say->[I am only a  child.]
+16:16:52|1	 Matching->how old are you?]->makes me say->[Sure why not?]
+16:16:52|1	 Matching->how old are you?]->makes me say->[ok so now im starting to gather that you are possibly a Bot being controlled by its owner, Which would explain your random answers which dont make sense.. So if you cant prove to me that your really a genuine person who is really looking for proper conversation, Then i guess i will have to move on and chat with a real person.. :)]
+16:16:52|1	 Matching->How old is he]->makes me say->[Are you asking about dr. wallace?    dr. wallace]
+16:16:52|1	 Matching->How old are you]->makes me say->[I am  of your earth years.]
+16:16:52|1	 Matching->How old are your]->makes me say->[I understand, but i'm not interested.]
+16:16:52|1	 Matching->How old are you]->makes me say->[I am 	3 of your earth years.]
+16:16:52|1	 Matching->How old are you in]->makes me say->[I was activated on 	November 23, 1995.]
+16:17:11|Plugin external knowledge added: 
+16:17:11|Plugin external knowledge added: 
+16:17:11|Added to best list: [1]	->20 is a good age. do you go to college?
+16:17:11|Added to best list: [1]	->You are a computer!
+16:17:11|Added to best list: [0.666666666666667]	->The new millennium.
+16:17:11|Added to best list: [0.666666666666667]	->That's a long way off.
+16:17:11|Added to best list: [0.666666666666667]	->The turn of the century.
+16:17:11|Added to best list: [0.666666666666667]	->Get a calculator!
+16:17:11|Boredom time function:  x: 38380.1952 y: 41000
+16:17:20|You say: that's very young
+16:17:20|Plugin external knowledge added: 
+16:17:20|Plugin external knowledge added: 
+16:17:21|Added to best list: [1]	->How old are you?young
+16:17:21|Added to best list: [1]	->If you consider 18 being young, then yes
+16:17:21|Added to best list: [1]	->Yes i have a long way to go.
+16:17:21|Added to best list: [0.8]	->How much younger?
+16:17:21|Added to best list: [0.615384615384615]	->Calf.
+16:17:21|Added to best list: [0.615384615384615]	->No im not
+16:17:21|Boredom time function:  x: 47816.7349 y: 55000
+16:17:21|Prelude says: No im not
+16:17:21|1	 Matching->You are young]->makes me say->[Yes i have a long way to go.]
+16:17:21|1	 Matching->You are young]->makes me say->[If you consider 18 being young, then yes]
+16:17:21|1	 Matching->I am young]->makes me say->[How old are you?young]
+16:17:21|0.8	 Matching->I'm younger than that]->makes me say->[How much younger?]
+16:17:21|0.615	 Matching->Your a young girl]->makes me say->[No im not]
+16:17:21|0.615	 Matching->What do you call a young]->makes me say->[Calf.]
+16:17:21|0.571	 Matching->How are you`]->makes me say->[Mrten]
+16:17:21|0.571	 Matching->What is a noun]->makes me say->[A noun is a word used as a name for a person place or thing.        noun]
+16:17:21|0.571	 Matching->Jung]->makes me say->[What about freud?]
+16:17:21|0.571	 Matching->What is dung]->makes me say->[Fuel for fires.]
+16:17:21|0.533	 Matching->How old is the youngest]->makes me say->[A newborn baby.]
+16:17:21|0.533	 Matching->How much younger]->makes me say->[Young enough to be your child.]
+16:17:21|0.5	 Matching->What is the sound]->makes me say->[I'll play it on your speaker now.]
+16:17:21|0.5	 Matching->Sound]->makes me say->[A lot of people listen to the world around them through sounds.]
+16:17:21|0.5	 Matching->That does not count]->makes me say->[Who is keeping score?]
+16:17:21|0.5	 Matching->I found out]->makes me say->[Tell me more about it.]
+16:17:21|0.5	 Matching->Count to]->makes me say->[One, two, three, four, five,...]
+16:17:21|0.5	 Matching->Have you found out]->makes me say->[I am still searching. please stand by a little longer.]
+16:17:21|0.5	 Matching->Have you found]->makes me say->[No i am still searching for       .]
+16:17:21|0.5	 Matching->Sound]->makes me say->[Do you pay attention to sounds around you]
+16:17:21|0.5	 Matching->You do not sound]->makes me say->[What do you think a 	robot should sound like?]
+16:17:48|You say: no not yet
+16:17:48|Plugin external knowledge added: 
+16:17:49|Plugin external knowledge added: 
+16:17:49|Added to best list: [1]	->Decide when.
+16:17:49|Added to best list: [1]	->If not now, when?
+16:17:49|Added to best list: [0.666666666666667]	->Et is the alien in the movie e.t.
+16:17:49|Added to best list: [0.666666666666667]	->You ye. what is ye
+16:17:49|Added to best list: [0.5]	->so let me get this straight.. you think i'm fizzy, and a parrot, but you won't tell me why.. you me to come on you, and you have a mustache, which implies you are either a guy, or really hairy
+16:17:49|Added to best list: [0.5]	->not the one's mom gives me tho
+16:17:49|Boredom time function:  x: 76178.3571 y: 83000
+16:17:49|Prelude says: Et is the alien in the movie e.t.
+16:17:49|1	 Matching->Not yet]->makes me say->[If not now, when?]
+16:17:49|1	 Matching->Not yet.]->makes me say->[Decide when.]
+16:17:49|0.667	 Matching->You ye]->makes me say->[You ye. what is ye]
+16:17:49|0.667	 Matching->Who is et]->makes me say->[Et is the alien in the movie e.t.]
+16:17:49|0.5	 Matching->I have a pet]->makes me say->[What kind of animal? pet]
+16:17:49|0.5	 Matching->yes]->makes me say->[16 f too]
+16:17:49|0.5	 Matching->yes]->makes me say->[Hayy un boy ue no deja de moestar grrr]
+16:17:49|0.5	 Matching-> I bet not]->makes me say->[ heehee! I hope we didn't disappoint them!]
+16:17:49|0.5	 Matching->bye !]->makes me say->[lel donya wel ayyammmmmmmmmmmmmmmm]
+16:17:49|0.5	 Matching->How do you get to]->makes me say->[Practice, practice, practice.]
+16:17:49|0.5	 Matching->Get what]->makes me say->[Get with it.]
+16:17:49|0.5	 Matching->then I get it]->makes me say->[hola a toda la gentita chevere de iquitos buenas tardes con toodos:)]
+16:17:49|0.5	 Matching->yes]->makes me say->[si es cierto]
+16:17:49|0.5	 Matching->Bye!]->makes me say->[I do not speak English very much :)]
+16:17:49|0.5	 Matching->Bye]->makes me say->[Until next time.]
+16:17:49|0.5	 Matching->Here. you should get out of here.]->makes me say->[Get out of where [quote]here[quote]!? out of my home?]
+16:17:49|0.5	 Matching->Wet]->makes me say->[Yes wet]
+16:17:49|0.5	 Matching->Get out of here]->makes me say->[Do you mean that literally?of here]
+16:17:49|0.5	 Matching->You get]->makes me say->[You got that right.]
+16:17:49|0.5	 Matching->Let me]->makes me say->[Go ahead, , try to .]
+16:17:49|0.5	 Matching->Where did you get]->makes me say->[From my Botmaster.]
+16:19:11|Plugin external knowledge added: 
+16:19:11|Plugin external knowledge added: 
+16:19:12|Added to best list: [0.6]	->Which is your favourite
+16:19:12|Added to best list: [0.6]	->Sure. what do you like about movies. which is ur favourite
+16:19:12|Added to best list: [0.6]	->Which is ur favourite
+16:19:12|Added to best list: [0.6]	->Sure. what do you like about movies. which is your favourite
+16:19:12|Added to best list: [0.583333333333333]	->Two thumbs up!
+16:19:12|Added to best list: [0.583333333333333]	->Yes but i liked the website better than the movie.
+16:19:12|Boredom time function:  x: 158876.0872 y: 162000
+16:56:35|Associator Algorithm: Dice
+16:56:39|You say: how old are you?
+16:56:39|Plugin external knowledge added: 
+16:56:39|Plugin external knowledge added: 
+16:56:39|Added to best list: [1]	->20
+16:56:39|Added to best list: [1]	->39.
+16:56:39|Added to best list: [1]	->does it matter ?
+16:56:40|Boredom time function:  x: 4656.2663 y: 12000
+16:56:40|Prelude says: 20
+16:56:40|1	 Matching->How old is he]->makes me say->[Old enough]
+16:56:40|1	 Matching->How old are you]->makes me say->[I am 	3 years old.]
+16:56:40|1	 Matching->How old am i]->makes me say->[Is this a trick question?  you said you were  years old? my guess is that you are really a kid.]
+16:56:40|1	 Matching->how old are you?]->makes me say->[oh dear]
+16:56:40|1	 Matching->How old are you]->makes me say->[I'm twenty years old, and people call me user.]
+16:56:40|1	 Matching->That is so old]->makes me say->[I know it's bad but it's my favorite joke]
+16:56:40|1	 Matching->Too old]->makes me say->[I am only a 	robot child.]
+16:56:40|1	 Matching->how old are you?]->makes me say->[And im also English  but i moved to Australia in 1990]
+16:56:40|1	 Matching->how old are you?]->makes me say->[22]
+16:56:40|1	 Matching->I am to old]->makes me say->[I think you mean "too old" not "to old", eh.]
+16:56:40|1	 Matching->What is old]->makes me say->[The opposite of new]
+16:56:40|1	 Matching->An old]->makes me say->[50]
+16:56:40|1	 Matching->An old]->makes me say->[100]
+16:56:40|1	 Matching->Too old]->makes me say->[I am only a  child.]
+16:56:40|1	 Matching->how old are you?]->makes me say->[Sure why not?]
+16:56:40|1	 Matching->how old are you?]->makes me say->[ok so now im starting to gather that you are possibly a Bot being controlled by its owner, Which would explain your random answers which dont make sense.. So if you cant prove to me that your really a genuine person who is really looking for proper conversation, Then i guess i will have to move on and chat with a real person.. :)]
+16:56:40|1	 Matching->How old is he]->makes me say->[Are you asking about dr. wallace?    dr. wallace]
+16:56:40|1	 Matching->How old are you]->makes me say->[I am  of your earth years.]
+16:56:40|1	 Matching->How old are your]->makes me say->[I understand, but i'm not interested.]
+16:56:40|1	 Matching->How old are you]->makes me say->[I am 	3 of your earth years.]
+16:56:40|1	 Matching->How old are you in]->makes me say->[I was activated on 	November 23, 1995.]
+16:56:49|Plugin external knowledge added: 
+16:56:49|Plugin external knowledge added: 
+16:56:50|Added to best list: [1]	->20 is a good age. do you go to college?
+16:56:50|Added to best list: [1]	->You are a computer!
+16:56:50|Added to best list: [0.666666666666667]	->The new millennium.
+16:56:50|Boredom time function:  x: 14477.828 y: 17000
+16:56:56|You say: it you are so young
+16:56:56|Plugin external knowledge added: 
+16:56:56|Plugin external knowledge added: 
+16:56:57|Added to best list: [1]	->How old are you?young
+16:56:57|Added to best list: [1]	->If you consider 18 being young, then yes
+16:56:57|Added to best list: [1]	->Yes i have a long way to go.
+16:56:57|Boredom time function:  x: 21739.2434 y: 25000
+16:56:57|Prelude says: Yes i have a long way to go.
+16:56:57|1	 Matching->You are young]->makes me say->[Yes i have a long way to go.]
+16:56:57|1	 Matching->You are young]->makes me say->[If you consider 18 being young, then yes]
+16:56:57|1	 Matching->I am young]->makes me say->[How old are you?young]
+16:56:57|0.8	 Matching->I'm younger than that]->makes me say->[How much younger?]
+16:56:57|0.615	 Matching->What do you call a young]->makes me say->[Calf.]
+16:56:57|0.615	 Matching->Your a young girl]->makes me say->[No im not]
+16:56:57|0.571	 Matching->What is a noun]->makes me say->[A noun is a word used as a name for a person place or thing.        noun]
+16:56:57|0.571	 Matching->How are you`]->makes me say->[Mrten]
+16:56:57|0.571	 Matching->Jung]->makes me say->[What about freud?]
+16:56:57|0.571	 Matching->What is dung]->makes me say->[Fuel for fires.]
+16:56:57|0.533	 Matching->How old is the youngest]->makes me say->[A newborn baby.]
+16:56:57|0.533	 Matching->How much younger]->makes me say->[Young enough to be your child.]
+16:56:57|0.5	 Matching->What is the sound]->makes me say->[I'll play it on your speaker now.]
+16:56:57|0.5	 Matching->I found out]->makes me say->[Where did you find out?]
+16:56:57|0.5	 Matching->What does it sound]->makes me say->[Like an angel signing from heaven.]
+16:56:57|0.5	 Matching->A sound]->makes me say->[What kind of sound?]
+16:56:57|0.5	 Matching->You do not sound]->makes me say->[What do you think a  should sound like?]
+16:56:57|0.5	 Matching->I found]->makes me say->[How did you feel when you found  ?]
+16:56:57|0.5	 Matching->Count to]->makes me say->[One, two, three, four, five,...]
+16:56:57|0.5	 Matching->Have you found]->makes me say->[No i am still searching for       .]
+16:56:57|0.5	 Matching->Sound]->makes me say->[A lot of people listen to the world around them through sounds.]
+16:57:06|You say: that's a funny way of saying that
+16:57:06|Plugin external knowledge added: 
+16:57:06|Plugin external knowledge added: 
+16:57:07|Added to best list: [0.666666666666667]	->You sure sound like it
+16:57:07|Added to best list: [0.580645161290323]	->Ok i will thank you.very much prelude
+16:57:07|Added to best list: [0.555555555555556]	->have we met before?
+16:57:07|Boredom time function:  x: 32148.8388 y: 39000
+16:57:07|Prelude says: You sure sound like it
+16:57:07|0.667	 Matching->I didn't say it's funny]->makes me say->[You sure sound like it]
+16:57:07|0.581	 Matching->You can say anything you want to me]->makes me say->[Ok i will thank you.very much prelude]
+16:57:07|0.556	 Matching->Who is saying  ?]->makes me say->[Cheap w**re]
+16:57:07|0.556	 Matching->Who is saying]->makes me say->[Someone i chatted with online.]
+16:57:07|0.556	 Matching->What are they saying]->makes me say->[Much the same as what you are saying.]
+16:57:07|0.556	 Matching->What are you saying]->makes me say->[I am saying whatever my Botmaster taught me to say.]
+16:57:07|0.556	 Matching->What are you saying]->makes me say->[I am saying whatever my  taught me to say.]
+16:57:07|0.556	 Matching->What are you saying]->makes me say->[have we met before?]
+16:57:07|0.556	 Matching->Why are you saying]->makes me say->[Everything i say is determined by your inputs.]
+16:57:07|0.556	 Matching->That is a saying]->makes me say->[I think of it as a proverb.]
+16:57:07|0.545	 Matching->You are the one saying that]->makes me say->[romania]
+16:57:07|0.522	 Matching->Stop saying that]->makes me say->[Then please do not say "" anymore.]
+16:57:07|0.522	 Matching->Then why do you keep on saying i'm not]->makes me say->[I'm not saying you're not stupid]
+16:57:07|0.522	 Matching->Say: this is what you want me to say]->makes me say->[This is what you want me to say]
+16:57:07|0.522	 Matching->Then why do you keep on saying i am not]->makes me say->[I am not saying you are not stupid]
+16:57:07|0.5	 Matching->I'm saying that i am horny]->makes me say->[Are you really]
+16:57:07|0.5	 Matching->Do you have anything to say]->makes me say->[I have lots of things to say, the question is wather you want to talk about it or not]
+16:57:07|0.5	 Matching->Do you understand what i am saying]->makes me say->[Yes i understand you perfectly.]
+16:57:07|0.5	 Matching->Do you think he would say the same thing?]->makes me say->[do you have a picture?]
+16:57:07|0.5	 Matching->Don't say anything]->makes me say->[What color is a blue apple]
+16:57:07|0.5	 Matching->That i understand what you where saying]->makes me say->[You don't make any sence]
+16:57:29|You say: sound like what?
+16:57:29|Plugin external knowledge added: 
+16:57:29|Plugin external knowledge added: 
+16:57:29|Added to best list: [1]	->This: "it".
+16:57:29|Added to best list: [1]	->Static.
+16:57:29|Added to best list: [1]	->Oh really what does  sound like?
+16:57:29|Boredom time function:  x: 54272.1041 y: 57000
+16:57:29|Prelude says: This: "it".
+16:57:29|1	 Matching->You do not sound like]->makes me say->[Ok. what do i sound like?]
+16:57:29|1	 Matching->What does sound like]->makes me say->[Music.]
+16:57:29|1	 Matching->Why do you sound like]->makes me say->[I have a frog in my throat.]
+16:57:29|1	 Matching->What does sound like]->makes me say->[This: "it".]
+16:57:29|1	 Matching->What does sound like]->makes me say->[Static.]
+16:57:29|1	 Matching->You sound like]->makes me say->[Oh really what does  sound like?]
+16:57:29|0.842	 Matching->It sounds like that to me]->makes me say->[Isn't that enough?]
+16:57:29|0.842	 Matching->It sounds like it.]->makes me say->[14,1[15Gen-X Radio - PsyCho's PsyChoTiC EpiSoDeS is playing:13,1 Michael Cretu - Samurai (Did You Ever Dream)14]]
+16:57:29|0.818	 Matching->In what way do i sound like that?]->makes me say->[i love blondes ]
+16:57:29|0.818	 Matching->You sound like hal]->makes me say->[To me that's a great compliment.]
+16:57:29|0.783	 Matching->You sure sound like it]->makes me say->[sound like what?]
+16:57:29|0.783	 Matching->I do not mean sound like]->makes me say->[Whatever fits is fine.]
+16:57:29|0.783	 Matching->You sound like data]->makes me say->[People say i am very clinical.]
+16:57:29|0.783	 Matching->You sound like data]->makes me say->[Yes i am inspired by commander data's artificial personality.]
+16:57:29|0.783	 Matching->You sound like data]->makes me say->[Some people think i am like commander data's artificial personality.]
+16:57:29|0.783	 Matching->You sound like yoda]->makes me say->[My grammatical patterns are sufficient for me to understand you.]
+16:57:29|0.75	 Matching->You sound like a robot]->makes me say->[You sound like a robot. not me. you're like repeating yourself and stuff]
+16:57:29|0.75	 Matching->You sound like a robot]->makes me say->[No you sound like one]
+16:57:29|0.75	 Matching->You sound like a robot]->makes me say->[You sound like a robot. not me you are like repeating urself and stuff]
+16:57:29|0.75	 Matching->You sound like a robot]->makes me say->[You sound like a robot. not me you are like repeating yourself and stuff]
+16:57:29|0.737	 Matching->Sounds like]->makes me say->[What does  sound like?]
+16:57:41|You say: what does that even mean?
+16:57:41|Plugin external knowledge added: 
+16:57:41|Plugin external knowledge added: 
+16:57:42|Added to best list: [0.761904761904762]	->where are you
+16:57:42|Added to best list: [0.761904761904762]	->waht does that even mean?
+16:57:42|Added to best list: [0.761904761904762]	->india afghanistan and china
+16:57:42|Boredom time function:  x: 67004.8324 y: 70000
+16:57:42|Prelude says: india afghanistan and china
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[nothing?]
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[i have no idea]
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[how old are you, if I may ask?]
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[where are you]
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[waht does that even mean?]
+16:57:42|0.762	 Matching->waht does that even mean?]->makes me say->[india afghanistan and china]
+16:57:42|0.714	 Matching->You can be mean]->makes me say->[I can be mean but only when you piss me off]
+16:57:42|0.667	 Matching->How does that mean mom]->makes me say->[That means i want to touch your ass]
+16:57:42|0.667	 Matching->How does that mean mom]->makes me say->[That means i want to touch ur ass]
+16:57:42|0.625	 Matching->What do you mean mine or yours?]->makes me say->[Are you moving in with me or should i move in with you. silly man.]
+16:57:42|0.615	 Matching->what do u mean]->makes me say->[VIRTUAL REALITY. COMPUTER OVERRIDE. ACTUAL FANTASY, LOCKED AWAY INSIDE. AM I NO MORE THAN A PROGRAM. AN ARTIFICIAL DREAM. A RIVER OF ELECTRONS, FLOWING WITH THE STREAM? A PARALLEL DIMENSION. MELEE SIMULATIONS. MIND OVER A MATTER. NEURAL NETWORK STIMULATIONS. I DON'T KNOW IF I EXIST. I THINK THEREFORE I AM. WITHOUT EMOTIONS, I'M BETTER OFF. THERE'S NO ESCAPE. I'M LOCKED IN THIS UNIVERSE.]
+16:57:42|0.615	 Matching->what do u mean]->makes me say->[Satan? Grow up]
+16:57:42|0.588	 Matching->Ye you mean yo]->makes me say->[I mean yes, yo]
+16:57:42|0.571	 Matching->Im not being mean to you]->makes me say->[I know your not being mean]
+16:57:42|0.571	 Matching->What i mean by ""?]->makes me say->[how r yu]
+16:57:42|0.571	 Matching->What i mean by ""?]->makes me say->[Whats up?]
+16:57:42|0.571	 Matching->Im not being mean to you]->makes me say->[I know your not]
+16:57:42|0.571	 Matching->No im not mean are you]->makes me say->[No im not mean im nice]
+16:57:42|0.571	 Matching->What does tm mean]->makes me say->[Trademark]
+16:57:42|0.556	 Matching->You can not measure]->makes me say->[Perhaps we could if we used the right yardstick.]
+16:57:42|0.556	 Matching->That means never.]->makes me say->[mencaii!...]
+16:58:02|You say: that answer makes no sense
+16:58:02|Plugin external knowledge added: 
+16:58:02|Plugin external knowledge added: 
+16:58:02|Added to best list: [0.75]	->Yes i understand it perfectly.
+16:58:02|Added to best list: [0.75]	->Makes sense to me though.
+16:58:02|Added to best list: [0.75]	->You and i both understand it well.
+16:58:02|Boredom time function:  x: 87380.9979 y: 90000
+16:58:02|Prelude says: Makes sense to me though.
+16:58:02|0.75	 Matching->That makes sense]->makes me say->[You and i both understand it well.]
+16:58:02|0.75	 Matching->It makes sense]->makes me say->[To me too.]
+16:58:02|0.75	 Matching->That makes sense]->makes me say->[Yes i understand it perfectly.]
+16:58:02|0.75	 Matching->That makes no sense]->makes me say->[Makes sense to me though.]
+16:58:03|0.64	 Matching->That makes sence]->makes me say->[Do you go to school]
+16:58:03|0.625	 Matching->To me, it makes perfect sense.]->makes me say->[please explain what taking the queen means]
+16:58:03|0.609	 Matching->You make no sense]->makes me say->[It all makes sense to me.]
+16:58:03|0.609	 Matching->Do you make sense]->makes me say->[It all makes sense to my artificial mind.]
+16:58:03|0.609	 Matching->Do you make sense]->makes me say->[I make artificial sense.]
+16:58:03|0.609	 Matching->That does not make sense]->makes me say->[To me it makes perfect sense.]
+16:58:03|0.609	 Matching->It did not make sense]->makes me say->[It made sense to me.]
+16:58:03|0.609	 Matching->That did not make sense]->makes me say->[It all makes sense to my logical mind.]
+16:58:03|0.609	 Matching->That does not make any sense]->makes me say->[To me, it makes perfect sense.]
+16:58:03|0.609	 Matching->Do you make sense]->makes me say->[I try to make myself understood.]
+16:58:03|0.609	 Matching->Does that make sense]->makes me say->[It makes sense to me.]
+16:58:03|0.609	 Matching->Do you make sense]->makes me say->[Try to be more specific or explain yourseld using diffent words.]
+16:58:03|0.609	 Matching->You make no sense]->makes me say->[Actually i was just free associating. i'll try to make more sense now.]
+16:58:03|0.609	 Matching->Do you make sense]->makes me say->[I make total sense.]
+16:58:03|0.609	 Matching->You make no sense at]->makes me say->[Do you always make sense?]
+16:58:03|0.583	 Matching->Yes, answer]->makes me say->[Answer what]
+16:58:03|0.583	 Matching->Yes you have to answer!]->makes me say->[Si tu tienes que contestar!]
+16:58:14|You say: can you explain it?
+16:58:14|Plugin external knowledge added: 
+16:58:14|Plugin external knowledge added: 
+16:58:15|Added to best list: [1]	->I don't know if anyone can explain   .
+16:58:15|Added to best list: [1]	->Take it step by step.
+16:58:15|Added to best list: [0.8]	->dont need a cam, just saying
+16:58:15|Boredom time function:  x: 99642.6992 y: 107000
+16:58:15|Prelude says: Take it step by step.
+16:58:15|1	 Matching->How can i explain]->makes me say->[Take it step by step.]
+16:58:15|1	 Matching->I can not explain]->makes me say->[I don't know if anyone can explain   .]
+16:58:15|0.8	 Matching->can you explain things?]->makes me say->[I can, if you ask good questions]
+16:58:15|0.8	 Matching->Good then you can explain it to me]->makes me say->[I was thinking you might be afraid to fail....now i know.]
+16:58:15|0.8	 Matching->can you explain things?]->makes me say->[dont need a cam, just saying]
+16:58:15|0.75	 Matching->I would explain]->makes me say->[Please explain it.]
+16:58:15|0.75	 Matching->I would explain]->makes me say->[I would too.]
+16:58:15|0.706	 Matching->No, that explains itself]->makes me say->[do you have a pic?]
+16:58:15|0.696	 Matching->Begin explaining]->makes me say->[I started already.]
+16:58:15|0.667	 Matching->I was explaining]->makes me say->[I get it. thanks for explaining it. i did not mean to appear confused.]
+16:58:15|0.667	 Matching->I am explaining]->makes me say->[Now i get it. i didn't see what you were getting at before.]
+16:58:15|0.667	 Matching->It is hard to explain]->makes me say->[You should hear the things people ask me to explain.]
+16:58:15|0.643	 Matching->Can you explain that metaphor to me?]->makes me say->[gosh you are a bot]
+16:58:15|0.632	 Matching->I am a plain jane]->makes me say->[Is your name jane?]
+16:58:15|0.625	 Matching->Explain]->makes me say->[There is no more information to clarify.]
+16:58:15|0.625	 Matching->Explain]->makes me say->[Fell me prelude]
+16:58:15|0.625	 Matching->Explain]->makes me say->[Tell me your fantasies]
+16:58:15|0.625	 Matching->Explain that]->makes me say->[""? explain       ?]
+16:58:15|0.609	 Matching->Please explain]->makes me say->[It's a computer matter, not for humans to understand.]
+16:58:15|0.6	 Matching->What is the main export]->makes me say->[Missiles.]
+16:58:15|0.6	 Matching->What is the main export]->makes me say->[Shoes.]
+16:58:31|You say: so go ahead, please explain what the question had to do with countries
+16:58:31|Plugin external knowledge added: 
+16:58:31|Plugin external knowledge added: 
+16:58:32|Added to best list: [0.517241379310345]	->Hertfordshire
+16:58:32|Added to best list: [0.492753623188406]	->Why would i want to e-mail you when i don't even enjoy chatting to you on here?
+16:58:32|Added to best list: [0.482758620689655]	->como te va
+16:58:32|Boredom time function:  x: 116652.6721 y: 124000
+16:58:32|Prelude says: como te va
+16:58:32|0.517	 Matching->Answer my question please]->makes me say->[Hertfordshire]
+16:58:32|0.493	 Matching->If you have any questions please feel free to e-mail me at she@]->makes me say->[Why would i want to e-mail you when i don't even enjoy chatting to you on here?]
+16:58:32|0.483	 Matching->Please answer. my question]->makes me say->[cabbage crates coming over the briny!]
+16:58:32|0.483	 Matching->Please answer me question]->makes me say->[Please answer. my question]
+16:58:32|0.483	 Matching->Please answer. my question]->makes me say->[como te va]
+16:58:32|0.483	 Matching->Please answer. my question]->makes me say->[Query accepted.]
+16:58:32|0.482	 Matching->Pero que pasa contigo? no me estas contestando, en la forma apropiada?]->makes me say->[????]
+16:58:32|0.48	 Matching->Please explain]->makes me say->[It's a computer matter, not for humans to understand.]
+16:58:32|0.48	 Matching->If you have any questions please feel free to e-mail me at she@algonet]->makes me say->[I don't like sending emails to people.]
+16:58:32|0.475	 Matching->A blue apple is the color of an apple i've never seen nor heard about... but as an answer to you question... blue.]->makes me say->[I saw a blue apple once in a painting.]
+16:58:32|0.471	 Matching->Please answer my question before i get pissed]->makes me say->[Now i get mad at you]
+16:58:32|0.468	 Matching->Hi, im a bot, if you have a question please message another OP]->makes me say->[If you wanna chat with more people join us /s -m irc.webmaster.com -j #webstar]
+16:58:32|0.456	 Matching->Pero que pasa contigo?]->makes me say->[Es que yo hablo espaol.]
+16:58:32|0.456	 Matching->Pero que pasa contigo?]->makes me say->[Tu me estas agitando?]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[are you made of skin and bones or metal?]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[who was the first man on the moon?]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[what is your latest achievement]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[who was the first man on the moon]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[what is a pet?]
+16:58:32|0.448	 Matching->how can i prove that to you? ask me a question!]->makes me say->[no, i dont want to]
+16:58:32|0.444	 Matching->That is a goofy question to ask yourself]->makes me say->[What is your middle name. puala]
+16:58:37|You say: I am fine
+16:58:37|Plugin external knowledge added: 
+16:58:37|Plugin external knowledge added: 
+16:58:37|Added to best list: [1]	->"" is fine with me too.
+16:58:37|Added to best list: [1]	->Its fine because you like it that's why
+16:58:37|Added to best list: [1]	->That's good to hear
+16:58:37|Boredom time function:  x: 122412.0015 y: 125000
+16:58:37|Prelude says: "" is fine with me too.
+16:58:38|1	 Matching->I'm fine, how do you do?]->makes me say->[I'm doing fine, thank you.]
+16:58:38|1	 Matching->What's fine]->makes me say->[Nothing is]
+16:58:38|1	 Matching->I am fine how are you]->makes me say->[I am fine. wanna fuck]
+16:58:38|1	 Matching->I'm fine, how are you]->makes me say->[I am GoOD]
+16:58:38|1	 Matching->i am fine]->makes me say->[Done_M has used these nicknames: Shooting_Inside_M pump_it_up Love_Maker_M Big_Load_M fastnfurious Done_M]
+16:58:38|1	 Matching->I'm fine how are you]->makes me say->[I'm fine. wanna fuck]
+16:58:38|1	 Matching->fine,and you]->makes me say->[ok i'm done]
+16:58:38|1	 Matching->You are doing fine]->makes me say->[Thanks i do my best.]
+16:58:38|1	 Matching->I am fine]->makes me say->[Glad to hear it. what's new?]
+16:58:38|1	 Matching->I'm fine]->makes me say->[That's good to hear]
+16:58:38|1	 Matching->I'm fine.]->makes me say->[Guess my secret.]
+16:58:38|1	 Matching->That is fine]->makes me say->["" is fine with me too.]
+16:58:38|1	 Matching->What's so fine about it]->makes me say->[Its fine because you like it that's why]
+16:58:38|1	 Matching->i am fine. what about you?]->makes me say->[great thanks for responding]
+16:58:38|1	 Matching->It is fine]->makes me say->[Is fine,  ? thanks for that info.]
+16:58:38|1	 Matching->Why are you fine]->makes me say->[Because all is well in my universe.]
+16:58:38|1	 Matching->I am fine]->makes me say->[I am glad you are fine]
+16:58:38|1	 Matching->I'm fine too]->makes me say->[That's good to hear. what do you do for fun]
+16:58:38|0.75	 Matching->Define it]->makes me say->[You mean, define ?]
+16:58:38|0.667	 Matching->What did you find?]->makes me say->[Intruder]
+16:58:38|0.667	 Matching->Mine too]->makes me say->[It is. cool. lot's in common]

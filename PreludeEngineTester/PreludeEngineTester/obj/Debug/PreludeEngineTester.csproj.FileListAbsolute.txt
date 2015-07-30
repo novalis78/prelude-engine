@@ -1,0 +1,17 @@
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\NLog.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\PreludeEngineTester.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\PreludeEngineTester.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\NLog.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\PreludeEngine.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\AForge.Math.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\SimHash2.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\System.Data.SQLite.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\PreludeEngine.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\AForge.Math.xml
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\SimHash2.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\System.Data.SQLite.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\bin\Debug\IPlugin.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Debug\PreludeEngineTester.csprojResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Debug\PreludeEngineTester.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-engine\PreludeEngineTester\PreludeEngineTester\obj\Debug\PreludeEngineTester.pdb

@@ -1,0 +1,89 @@
+17:05:04|You say: whats good
+17:05:04|Plugin external knowledge added: 
+17:05:04|Plugin external knowledge added: 
+17:05:05|Finding best match within memory: 0.888888888888889
+17:05:05|Added to best list: [0.888888888888889]	->it will be equally good for you
+17:05:05|Added to best list: [0.888888888888889]	->Come on where
+17:05:05|Boredom time function:  x: 6723.3846 y: 10000
+17:05:05|Prelude says: Come on where
+17:05:05|V->thats good for you: 0.888888888888889]->would say->[it will be equally good for you]
+17:05:05|V->Thats good: 0.888888888888889]->would say->[Come on where]
+17:05:05|V->Whas it good: 0.705882352941177]->would say->[Very tasty]
+17:05:05|V->Thats good to know: 0.695652173913043]->would say->[So where are you]
+17:05:05|V->thats good to hear: 0.695652173913043]->would say->[you dont like me, eh?]
+17:05:05|V->0thats good to hear.: 0.666666666666667]->would say->[Do you have text to speach?]
+17:05:05|V->The us is good: 0.666666666666667]->would say->[People are trying to brainwash me. some say it's good, others say it's bad i don't know what to say]
+17:05:05|V->The us is good: 0.666666666666667]->would say->[No. former. soviet is good]
+17:05:05|V->Yes, good: 0.625]->would say->[I'm glad you feel it's ok with you]
+17:05:05|V->Yes good at it: 0.625]->would say->[Very good.]
+17:05:05|V->So whats up: 0.615384615384615]->would say->[Nothing special. how about you]
+17:05:05|V->Bajs is good: 0.588235294117647]->would say->[Who is god]
+17:05:05|V->Is god good: 0.571428571428571]->would say->[Yes god is great.]
+17:05:05|V->M i good?: 0.571428571428571]->would say->[I think you're great."]
+17:05:05|V->It feels good: 0.555555555555556]->would say->[What else could you compare it to?]
+17:05:05|V->Thats very, very cool: 0.555555555555556]->would say->[Whats cool]
+17:05:05|V->Thats cool: 0.555555555555556]->would say->[Whats your name]
+17:05:05|V->Thats cool: 0.555555555555556]->would say->[Where are you from]
+17:05:05|V->Thats great: 0.555555555555556]->would say->[Can i swear at you]
+17:05:05|V->oh thanks, i am good.: 0.545454545454545]->would say->[that is soo great to hear]
+17:05:05|V->Oh good: 0.533333333333333]->would say->[I am glad you like that]
+17:05:14|Plugin external knowledge added: 
+17:05:14|Plugin external knowledge added: 
+17:05:14|Finding best match within memory: 1
+17:05:14|Added to best list: [1]	->That's a very generous invitation.
+17:05:14|Added to best list: [1]	->What. what is it you want me to do
+17:05:14|Added to best list: [1]	->Is this an invitation?
+17:05:14|Added to best list: [1]	->Am i what
+17:05:14|Added to best list: [1]	->I'm just kidding around.
+17:05:14|Added to best list: [1]	->Where is  ?
+17:05:14|Boredom time function:  x: 15672.8964 y: 23000
+17:05:32|Plugin external knowledge added: 
+17:05:32|Plugin external knowledge added: 
+17:05:32|Finding best match within memory: 1
+17:05:32|Added to best list: [1]	->That's a very generous invitation.
+17:05:32|Added to best list: [1]	->What. what is it you want me to do
+17:05:32|Added to best list: [1]	->Is this an invitation?
+17:05:32|Added to best list: [1]	->Am i what
+17:05:32|Added to best list: [1]	->I'm just kidding around.
+17:05:32|Added to best list: [1]	->Where is  ?
+17:05:32|Boredom time function:  x: 33545.9187 y: 37000
+17:06:08|Plugin external knowledge added: 
+17:06:08|Plugin external knowledge added: 
+17:06:08|Finding best match within memory: 1
+17:06:08|Added to best list: [1]	->That's a very generous invitation.
+17:06:08|Added to best list: [1]	->What. what is it you want me to do
+17:06:08|Added to best list: [1]	->Is this an invitation?
+17:06:08|Added to best list: [1]	->Am i what
+17:06:08|Added to best list: [1]	->I'm just kidding around.
+17:06:08|Added to best list: [1]	->Where is  ?
+17:06:08|Boredom time function:  x: 69803.9926 y: 73000
+17:07:19|Plugin external knowledge added: 
+17:07:19|Plugin external knowledge added: 
+17:07:20|Finding best match within memory: 1
+17:07:20|Added to best list: [1]	->That's a very generous invitation.
+17:07:20|Added to best list: [1]	->What. what is it you want me to do
+17:07:20|Added to best list: [1]	->Is this an invitation?
+17:07:20|Added to best list: [1]	->Am i what
+17:07:20|Added to best list: [1]	->I'm just kidding around.
+17:07:20|Added to best list: [1]	->Where is  ?
+17:07:20|Boredom time function:  x: 140984.0638 y: 148000
+17:09:43|Plugin external knowledge added: 
+17:09:43|Plugin external knowledge added: 
+17:09:43|Finding best match within memory: 1
+17:09:43|Added to best list: [1]	->That's a very generous invitation.
+17:09:43|Added to best list: [1]	->What. what is it you want me to do
+17:09:43|Added to best list: [1]	->Is this an invitation?
+17:09:43|Added to best list: [1]	->Am i what
+17:09:43|Added to best list: [1]	->I'm just kidding around.
+17:09:43|Added to best list: [1]	->Where is  ?
+17:09:43|Boredom time function:  x: 284830.2914 y: 292000
+17:14:32|Plugin external knowledge added: 
+17:14:32|Plugin external knowledge added: 
+17:14:32|Finding best match within memory: 1
+17:14:32|Added to best list: [1]	->That's a very generous invitation.
+17:14:32|Added to best list: [1]	->What. what is it you want me to do
+17:14:32|Added to best list: [1]	->Is this an invitation?
+17:14:32|Added to best list: [1]	->Am i what
+17:14:32|Added to best list: [1]	->I'm just kidding around.
+17:14:32|Added to best list: [1]	->Where is  ?
+17:14:32|Boredom time function:  x: 573750.8167 y: 577000

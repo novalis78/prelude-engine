@@ -354,7 +354,7 @@ namespace PreludeEngine
             return
                (double)
                commonelements.Count /
-               (nx.Count + ny.Count - commonelements.Count);
+               (nx.Count + ny.Count + commonelements.Count);
         }
 
         private static void CreateBigGrams(string stOne, string stTwo, out HashSet<string> nx, out HashSet<string> ny)
