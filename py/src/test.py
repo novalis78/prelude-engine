@@ -10,7 +10,7 @@ prelude = Prelude()
 
 #configure prelude
 #set path to mind file
-prelude.setMindFileLocation("mind2.mdu")
+prelude.setMindFileLocation("mind.mdu")
 
 #set some options, such as...
 #...enable TTS
@@ -22,7 +22,7 @@ prelude.avoidLearnByRepeating = True
 #...enable proactive response mode
 prelude.setProactiveMode(True)
 #...set the input match algorithm
-prelude.setAssociationAlgorithm(MatchingAlgorithm.Hamman)
+prelude.setAssociationAlgorithm(MatchingAlgorithm.Kulczynski)
 
 #now, start your engine ...
 prelude.initializeEngine()

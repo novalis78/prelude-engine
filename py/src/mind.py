@@ -127,6 +127,7 @@ class Mind(Brain):
 		self.addNewInputToCurrentMemory(receivedInput)
 		self.checkInputForHiddenCommands(receivedInput)
 		answer = self.thinkItOver(receivedInput)
+		print answer
 		if (answer == receivedInput and self.avoidLearnByRepeating):
 			answer = self.getFillerAnswer();
 		self.lastOutput = answer
@@ -151,7 +152,9 @@ class Mind(Brain):
 			return idea
 
 		self.loadAuxilliaryKnowledgeIntoMemory(idea);
-		if len(self.bestMatchesList) <= 0:
+		print "auxilliary: " 
+
+		if len(self.bestMatchesList) <= self.MAX_MATCHES_ALLOWED:
 			self.matchInputWithMemory(idea);
 			self.findBestMatchWithinMemory();
 		
@@ -183,8 +186,8 @@ class Mind(Brain):
 		if self.botsMemory:
 			externalAnswers = self.getExternalAnswers(idea);
 			for a in externalAnswers:
-				if a not in bestMatchesList:
-					bestMatchesList.append(a);
+				if a not in self.bestMatchesList:
+					self.bestMatchesList.append(a);
 
 
 
@@ -201,19 +204,20 @@ class Mind(Brain):
 				if candidates:
 					for c in candidates:
 						mod_name,file_ext = os.path.splitext(os.path.split(c)[-1])
-
+						#print "Loaded: " + mod_name + " evaluating... "
 						if file_ext.lower() == '.py':
-							py_mod = imp.load_source(mod_name, c)
+							py_mod = imp.load_source(mod_name, './plugins/'+c)
 
 						elif file_ext.lower() == '.pyc':
-							py_mod = imp.load_compiled(mod_name, c)
+							py_mod = imp.load_compiled(mod_name, './plugins/'+c)
 
 						if hasattr(py_mod, expected_class):
-							class_inst = getattr(py_mod, expected_class)()
-							instance = class_inst()
-							externalAnswers.append(instance.returnBestAnswer(idea))
-		except:
-			print "Error loading plugins"
+							instance = getattr(py_mod, expected_class)()
+							#instance = class_inst()
+							plugin_answer = instance.returnBestAnswer(idea)
+							externalAnswers.append(plugin_answer)
+		except Exception, e:
+			print "Error loading plugins: " + str(e)
 
 		return externalAnswers
 
@@ -239,7 +243,6 @@ class Mind(Brain):
 		if self.associater == MatchingAlgorithm.CosineTFIDF:
 			self.calculateCosine(lower_case)
 		else:
-			#print "Matching memory using " + str(self.associater)
 			#run through memory
 			cntr = 0
 			for key, value in self.botsMemory.iteritems():
@@ -272,7 +275,7 @@ class Mind(Brain):
 				if key not in self.matchedMemoryValues:
 					if self.matchRate != 0: 
 						self.matchedMemoryValues[key] = self.matchRate
-						#print "[" + str(cntr) + "]  @" + str(self.matchRate) + " Matching: " + key
+						print "[" + str(cntr) + "]  @" + str(self.matchRate) + " Matching: " + key
 		
 
 	def calculateCosine(self, idea):

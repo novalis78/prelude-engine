@@ -130,7 +130,7 @@ class Brain(object):
 		best selector needs tweaking to work with +/- values...
 		"""
 		nx, ny = self.prepInput(a, b)
-		score = objectdistance.Kulczynski(nx, ny, 0, 'Set')
+		score = objectdistance.Hamann(nx, ny, 0, 'Set')
 		#print score
 		return score
 		#c = set.intersection(nx, ny)
@@ -144,7 +144,7 @@ class Brain(object):
 		"""
 		nx, ny = self.prepInput(a, b)
 		score = objectdistance.Kulczynski(nx, ny, 0, 'Set')
-		print score
+		#print score
 		return score
 
 

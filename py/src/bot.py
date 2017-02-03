@@ -14,7 +14,7 @@ class Prelude(object):
 		self.quantumRandomness = False
 		self.avoidLearnByRepeating = False
 		self.associater = MatchingAlgorithm.CosineTFIDF
-		self.chatInitiated = time.strftime("%H:%M:%S")
+		self.saveTracking = time.time()
 
 	def initializeEngine(self):
 		self.mindInstance = Mind()
@@ -48,6 +48,12 @@ class Prelude(object):
 			self.setTimer()
 			self.autoSpeakInput = answer
 			self.timer.start()
+
+		elapsed_time = time.time() - self.saveTracking
+		if elapsed_time > 10:
+			print "soft save"
+			self.forceSaveMindFile()
+			self.saveTracking = time.time()
 		
 		return answer	
 
