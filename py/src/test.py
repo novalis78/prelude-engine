@@ -35,6 +35,7 @@ while question is not "exit":
 	question = raw_input("You say: ")
 	answer = prelude.chatWithPrelude(question)
 	print "Prelude says: " + answer
+	prelude.forceSaveMindFile()
 
 prelude.stopPreludeEngine()
 

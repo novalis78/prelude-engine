@@ -78,6 +78,7 @@ class Prelude(object):
 	def countMindMemory(self):
 		if self.mindInstance:
 			print "My memory contains " + str(len(self.mindInstance.botsMemory)) + " neurons"
+		return str(len(self.mindInstance.botsMemory))
 
 	def setTimer(self):
 		self.timer = Timer(20 * 60, autoAnswer)

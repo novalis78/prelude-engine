@@ -1,6 +1,7 @@
 import os
 import re
 import imp
+import sys
 import random
 import logging
 import webbrowser
@@ -102,12 +103,15 @@ class Mind(Brain):
 
 
 	def prepareCurrentMemoryForDisc(self):
-		a = self.joinWordsAndThoughts()
-		if len(a) > 0:
-			if self.brainLocation:
-				self.writeBrainFile(a, self.brainLocation)
-			else:
-				self.writeBrainFile(a, "mind.mdu")
+		try:
+			a = self.joinWordsAndThoughts()
+			if len(a) > 0:
+				if self.brainLocation:
+					self.writeBrainFile(a, self.brainLocation)
+				else:
+					self.writeBrainFile(a, "mind.mdu")
+		except:
+			print "PrepareCurrentMemoryForDiscError: %s - %s" % sys.exc_info()[:2]
 
 
 	def joinWordsAndThoughts(self):
@@ -398,9 +402,9 @@ class Mind(Brain):
 
 	def checkInputForHiddenCommands(self, idea):
 		if "google" in idea.lower():
-			term = idea[idea.find("google"):]
-			webbrowser.open("http://google.com?query=" + term)
-		
+			#term = idea[idea.find("google"):]
+			#webbrowser.open("http://google.com?query=" + term)
+			print "disabled"	
 
 	def contributeClientMind(self):
 		pass

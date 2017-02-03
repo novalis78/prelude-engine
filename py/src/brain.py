@@ -1,5 +1,6 @@
 import os
 import io
+import sys
 import logging
 import time
 import objectdistance
@@ -15,14 +16,21 @@ class Brain(object):
 		self.tfidf_vectorizer = None
 
 	def readBrainFile(self, fileName):
-		lines = [line.strip() for line in open(fileName)]
-		return lines
+		try:
+			lines = [line.strip() for line in open(fileName)]
+			return lines
+		except:
+			print "readBrainFileError: %s - %s" % sys.exc_info()[:2]
+			return []
 
 	def writeBrainFile(self, memoryBuffer, fileName):
-		f = open(fileName,'w')
-		for memory in memoryBuffer:
-			f.write(memory+'\n')
-		f.close()
+		try:
+			f = open(fileName,'w')
+			for memory in memoryBuffer:
+				f.write(memory.decode('utf-8').encode('utf8')+'\n')
+			f.close()
+		except:
+			print "writeBrainFileError: %s - %s" % sys.exc_info()[:2]
 
 
 
